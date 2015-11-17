@@ -1,0 +1,147 @@
+// list.sass
+
+
+@import base
+
+.root
+  margin: 10px
+  padding: 10px 40px 80px
+  background:
+    color: #fff
+  border:
+    width: 1px
+    style: solid
+    color: #ddd
+    radius: 5px
+
+  h1
+    font-size: 1.7em
+
+  p
+    span
+      color: #c00
+
+  .join-us
+    width: 100%
+    padding: 0
+    margin: 1em 0 1em -6%
+    list-style: none
+    text-align: center
+    
+    li
+      display: inline-block
+      &:first-child
+        margin-right: 5%
+
+  ul
+    h2
+      font:
+        weight: 400
+
+    .node
+      li
+        margin: 0.5em 0
+
+        h3,
+        h4,
+        h5
+          margin: 0
+          padding: 0
+          font:
+            weight: 400
+
+        h5
+          font:
+            size: 0.95em
+
+#intro,
+#end
+  h2
+    font:
+      size: 1.17em
+      weight: 500
+
+#frontEndIndex,
+#cloudComputingIndex,
+#securityIndex,
+#IOAMIndex,
+#bigDataIndex,
+#language
+  h2
+    display: inline-block
+    color: #17f
+      
+    &:focus,
+    &:hover
+      color: #00f
+      text-decoration: underline
+
+  h3
+    span
+      font:
+        size: 0.85em
+        weight: 400
+      
+#IH
+  h2
+    display: inline-block
+    color: #17f
+            
+.to-top
+  display: block
+  position: fixed
+  opacity: 0.98
+  
+  &::before
+    @extend .to-top
+    content: ''
+    right: 2em
+    bottom: 2em
+    width: 4em
+    height: 4em
+    background:
+      image: url('../img/top.svg')
+      size: contain
+      repeat: no-repeat
+
+  &:focus,
+  &:hover
+    cursor: pointer
+
+li.closed
+  list-style-image: url('../img/plus.png')
+li.opened
+  list-style-image: url('../img/minus.png')
+li.normal
+  list-style-image: none
+
+.expand-collapse
+  display: block
+  position: fixed
+  top: 0
+  right: 2em
+  width: 8em
+  height: 2em
+  padding: 0.5em
+  background:
+    color: #fff
+  border:
+    width: 1px
+    style: solid
+    color: #ddd
+    top: none
+  font-size: 0.8em
+  text-align: center
+
+  a
+    color: #17f
+    
+    &:focus,
+    &:hover
+      color: #00f
+      cursor: pointer
+      text-decoration: underline
+
+footer
+  margin-left: 10px
+  margin-bottom: 10px

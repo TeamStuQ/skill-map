@@ -1,0 +1,162 @@
+* {
+  box-sizing: border-box; }
+
+html,
+body {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  font-family: "Source Han Sans SC", "Helvetica Neue", Helvetica, Arial, "Lantinghei SC", "Hiragino Sans GB", STHeiti, "Microsoft Yahei", "Microsoft Sans Serif", sans-serif;
+  font-size: 16px;
+  word-wrap: break-word;
+  word-break: break-all; }
+
+ul {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 0;
+  padding-left: 3%;
+  list-style-type: square; }
+  ul li {
+    line-height: 1.5em; }
+
+p {
+  line-height: 1.5em;
+  margin: 0; }
+
+h1,
+h2,
+h3 {
+  margin: 10px 0; }
+
+.hide {
+  display: none !important; }
+
+.root {
+  margin: 10px;
+  padding: 10px 40px 80px;
+  background-color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ddd;
+  border-radius: 5px; }
+  .root h1 {
+    font-size: 1.7em; }
+  .root p span {
+    color: #c00; }
+  .root .join-us {
+    width: 100%;
+    padding: 0;
+    margin: 1em 0 1em -6%;
+    list-style: none;
+    text-align: center; }
+    .root .join-us li {
+      display: inline-block; }
+      .root .join-us li:first-child {
+        margin-right: 5%; }
+  .root ul h2 {
+    font-weight: 400; }
+  .root ul .node li {
+    margin: 0.5em 0; }
+    .root ul .node li h3,
+    .root ul .node li h4,
+    .root ul .node li h5 {
+      margin: 0;
+      padding: 0;
+      font-weight: 400; }
+    .root ul .node li h5 {
+      font-size: 0.95em; }
+
+#intro h2,
+#end h2 {
+  font-size: 1.17em;
+  font-weight: 500; }
+
+#frontEndIndex h2,
+#cloudComputingIndex h2,
+#securityIndex h2,
+#IOAMIndex h2,
+#bigDataIndex h2,
+#language h2 {
+  display: inline-block;
+  color: #17f; }
+  #frontEndIndex h2:focus, #frontEndIndex h2:hover,
+  #cloudComputingIndex h2:focus,
+  #cloudComputingIndex h2:hover,
+  #securityIndex h2:focus,
+  #securityIndex h2:hover,
+  #IOAMIndex h2:focus,
+  #IOAMIndex h2:hover,
+  #bigDataIndex h2:focus,
+  #bigDataIndex h2:hover,
+  #language h2:focus,
+  #language h2:hover {
+    color: #00f;
+    text-decoration: underline; }
+#frontEndIndex h3 span,
+#cloudComputingIndex h3 span,
+#securityIndex h3 span,
+#IOAMIndex h3 span,
+#bigDataIndex h3 span,
+#language h3 span {
+  font-size: 0.85em;
+  font-weight: 400; }
+
+#IH h2 {
+  display: inline-block;
+  color: #17f; }
+
+.to-top, .to-top::before {
+  display: block;
+  position: fixed;
+  opacity: 0.98; }
+  .to-top::before {
+    content: "";
+    right: 2em;
+    bottom: 2em;
+    width: 4em;
+    height: 4em;
+    background-image: url("../img/top.svg");
+    background-size: contain;
+    background-repeat: no-repeat; }
+  .to-top:focus, .to-top:focus::before, .to-top:hover, .to-top:hover::before {
+    cursor: pointer; }
+
+li.closed {
+  list-style-image: url("../img/plus.png"); }
+
+li.opened {
+  list-style-image: url("../img/minus.png"); }
+
+li.normal {
+  list-style-image: none; }
+
+.expand-collapse {
+  display: block;
+  position: fixed;
+  top: 0;
+  right: 2em;
+  width: 8em;
+  height: 2em;
+  padding: 0.5em;
+  background-color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ddd;
+  border-top: none;
+  font-size: 0.8em;
+  text-align: center; }
+  .expand-collapse a {
+    color: #17f; }
+    .expand-collapse a:focus, .expand-collapse a:hover {
+      color: #00f;
+      cursor: pointer;
+      text-decoration: underline; }
+
+footer {
+  margin-left: 10px;
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=style.css.map */

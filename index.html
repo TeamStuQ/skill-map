@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <title>StuQ技能图谱v0.1.1</title>
+    <link href="css/style.css" rel="stylesheet">
+    <script>
+     var _hmt = _hmt || [];
+     (function() {
+       var hm = document.createElement("script");
+       hm.src = "//hm.baidu.com/hm.js?c5521d8cc55de1f615df373b27ee7557";
+       var s = document.getElementsByTagName("script")[0];
+       s.parentNode.insertBefore(hm, s);
+     })();
+    </script>
+    <script src="js/marked.min.js"></script>
+  </head>
+  <body>
+    <div class="root" id="root">
+      <h1 class="opened" id="rootListButton">StuQ 技能图谱 v0.1.1</h1>
+      <p>2015/09/11发布，后续动态请关注微信公众号：<span>StuQ</span></p>
+      <ul class="list-open" id="rootList">
+	<li class="hide" id="index">
+	  <h2>快速导航</h2>
+	  <ul>
+	    <li><a href="#intro">说明</a></li>	    
+	    <li><a href="#frontEndIndex">Web 前端</a></li>
+	    <li><a href="#cloudComputingIndex">云计算</a></li>
+	    <li><a href="#securityIndex">安全</a></li>
+	    <li><a href="#IOAMIndex">智能运维</a></li>
+	    <li><a href="#bigDataIndex">大数据</a></li>
+	    <li><a href="#end">结尾</a></li>
+	  </ul>
+	</li>
+	<li id="intro">
+	  <h2>说明</h2>
+	  <div class="node">
+	    <ul>
+	      <li>
+		<h3>关于StuQ</h3>
+		<ul>
+		  <li>致力于让技术人学习和交流更简单</li>
+		  <li>全力打造实践驱动的学习和服务平台</li>
+		</ul>
+	      </li>
+	      <li>
+		<h3>关于技能图谱</h3>
+		<ul>
+		  <li>
+		    <p>本技能图谱为各领域从浅入深的路径整理，现展出的为初版，如有指正或疑问，请展开本列加入QQ群或者微信群，共同交流，共同完善。</p>
+		    <ul class="join-us">
+		      <li>
+			<img alt="qq" src="img/qq.png">
+			<div>QQ群：254521819</div>
+		      </li>
+		      <li>
+			<img alt="wechat" src="img/wechat.png">
+			<div>StuQ 小助手邀请入群</div>
+		      </li>
+		    </ul>
+		  </li>
+		  <li>
+		    <p>感谢提供初版内容的各界技术人士。特别鸣谢：<p>
+		      <ul>
+			<li>阿里巴巴前端工程师 @jayli <a href="https://github.com/jayli/jayli.github.com/issues/16" target="_blank">原创链接</a></li>
+			<li>阿里巴巴前端工程师 @Jackson Tian <a href="https://github.com/JacksonTian/fks" target="_blank">原创链接</a></li>
+			<li>AWS 首席云计算企业顾问 @费良宏</li>
+			<li>知道创宇技术VP @余弦 <a href="http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html" target="_blank">原创链接</a></li>
+			<li>知道创宇运维工程师 @Tanky Woo <a href="http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/" target="_blank">原创链接</a></li>
+			<li>乐视云大数据工程师 @祝海林</li>
+		      </ul>
+		  </li>
+		</ul>
+	      </li>
+	    </ul>
+	  </div>
+	</li>
+	<li id="frontEndIndex">
+	  <h2>Web 前端</h2>
+	  <span>（贡献者：@jayli，@Jackson Tian；下载：<a href="data/frontEnd.md" download="Web 前端(StuQ 技能图谱).md">Web 前端.md</a>）</span>
+	  <div class="node" id="frontEnd"></div>
+	</li>
+	<li id="cloudComputingIndex">
+	  <h2>云计算</h2>
+	  <span>（贡献者：@费良宏；下载：<a href="data/cloudComputing.md" download="云计算(StuQ 技能图谱).md">云计算.md</a> | <a href="data/cloudComputing.png" download="云计算(StuQ 技能图谱).png">云计算.png</a>）</span>
+	  <div class="node" id="cloudComputing"></div>
+	</li>
+	<li id="securityIndex">
+	  <h2>安全</h2>
+	  <span>（贡献者：@余弦；下载：<a href="data/security.md" download="安全(StuQ 技能图谱).md">安全.md</a>）</span>
+	  <div class="node" id="security"></div>
+	</li>
+	<li id="IOAMIndex">
+	  <h2>智能运维</h2>
+	  <span>（贡献者：@Tanky Woo；下载：<a href="data/IOAM.md" download="智能运维(StuQ 技能图谱).md">智能运维.md</a> | <a href="data/IOAM.png" download="智能运维(StuQ 技能图谱).png">智能运维.png</a>）</span>
+	  <div class="node" id="IOAM"></div>
+	</li>
+	<li id="bigDataIndex">
+	  <h2>大数据</h2>
+	  <span>（贡献者：@祝海林；下载：<a href="data/big-data.md" download="大数据(StuQ 技能图谱).md">大数据.md</a> | <a href="data/big-data.png" download="大数据(StuQ 技能图谱).png">大数据.png</a>）</span>
+	  <div class="node" id="bigData"></div>
+	</li>
+	<li id="IH">
+	  <h2>智能硬件</h2>
+	  <span>（建设中...）</span>
+	</li>
+	<li id="language">
+	  <h2>开发语言</h2>
+	  <div class="node" id="devLang"></div>
+	</li>
+	<li id="end">
+	  <h2>结束语</h2>
+	  <ul>
+	    <li id="bottomQrcode">
+	      <div class="node">本技能图谱会持续更新，如果有好的建议/意见，或者需要指正错误/不妥，或者有好的资源，或者想要夸赞/批评我们，请加入QQ群或者微信群，共同交流，共同完善，共同为千千万万技术从业人员画一张完善并且有参考价值的技能图谱。</div>
+	      <ol class="join-us">
+		<li>
+		  <img alt="qq" src="img/qq.png">
+		  <div>QQ群：254521819</div>
+		</li>
+		<li>
+		  <img alt="wechat" src="img/wechat.png">
+		  <div>StuQ 小助手邀请入群</div>
+		</li>
+	      </ol>
+	    </li>	    
+	  </ul>
+	</li>
+      </ul>
+    </div>
+    
+    <div class="to-top hide" id="toTop"></div>
+
+    <div class="expand-collapse"><a id="expand">展开</a> - <a id="collapse">折叠</a></div>
+
+    <footer><a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC-BY-SA 3.0</a></footer>
+    <script src="js/script.js"></script>
+  </body>
+</html>
