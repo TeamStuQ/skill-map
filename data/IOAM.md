@@ -10,6 +10,10 @@
     - Centos
     - Debian
     - Ubuntu
+    - Gentoo
+
+  - Unix 系统
+    - FreeBSD
    
 - ### 运维命令
 
@@ -52,6 +56,7 @@
 - ### 安全
   - #### 防火墙配置
     - iptables
+    - ipfw
 
 - ### 硬件
   - 接口类型
