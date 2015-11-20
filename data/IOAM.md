@@ -6,6 +6,11 @@
     - vi
     - nano
 
+  - #### Linux 拓展编辑器
+    - vim或者gvim
+    - emacs
+    - vile
+
   - Linux 系统
     - Centos
     - Debian
