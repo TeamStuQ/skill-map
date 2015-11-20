@@ -9,7 +9,7 @@
     - 金丝雀发布
     - Canary 部署
     - PHOENIX 部署
-    - AWS CloudFormation 
+    - AWS CloudFormation
 
   - #### 配置
     - Chef
@@ -39,17 +39,17 @@
       - ZeroMQ
       - ActiveMQ
       - RabbitMQ
-      - AWS SQS 
-    
+      - AWS SQS
+
     - ##### 事件/消息驱动
-      - AWS SWS 
-      - AWS Lambda 
+      - AWS SWS
+      - AWS Lambda
       - AKKA
 
     - ##### RPC
       - Thrift
       -  Protocol
-   
+
   - #### Microservices
   - #### RESTFull
   - #### CAP 理论
@@ -59,7 +59,7 @@
   - #### 前端应用
     - ##### Web 应用
       - Javascript/Ajax
-      - HTML/CSS 
+      - HTML/CSS
     - 桌面虚拟化
     - 移动应用
     - IoT
@@ -69,7 +69,7 @@
     - 渲染
 
   - #### 行业应用
-    - CRM 
+    - CRM
     - ERP
     - 生物科学
 
@@ -89,7 +89,7 @@
         - Xen
         - KVM
         - Hyper-V
-    
+
     - ##### 容器
       - Docker
       - CoreOS
@@ -150,7 +150,7 @@
   - #### 检索
     - Solr
     - Elasticssearch
-    - AWS Elastics Search 
+    - AWS Elastics Search
 
 - ### 大数据
   - #### 语言、工具
@@ -199,4 +199,29 @@
   - #### iptables
   - #### WAF
   - #### IDS/IPS
-  - #### VPN 
+  - #### VPN
+
+- ### OpenStack
+  - #### 核心功能
+    - 计算：NOVA
+    - 网络：NEUTRON
+    - 对象存储：SWIFT
+    - 块存储：CINDER
+    - 认证：KEYSTONE
+    - 镜像：GLANCE
+
+  - #### 可选功能
+    - 仪表板：Horizon
+    - 数据库：Trove		
+    - 大数据：Sahara
+    - 编排：Heat
+    - 监控：Ceilometer
+    - 消息服务：Zaqar
+    - 裸机配置：Ironic
+    - 密钥管理：Barbican
+    - DNS服务：Designate
+    - Governance Service：Congress
+    - Shared Filesystems：Manila
+    - Container Service：Magnum
+    - Workflow Service：Mistral
+    - Application Catalog：Murano
