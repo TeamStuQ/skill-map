@@ -2,7 +2,7 @@
 **[http://www.stuq.org/subject/skill-map/](http://www.stuq.org/subject/skill-map/)**
 
 ## 简介
-StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起，旨在帮助技术人梳理其关心领域的知识点与框架结构，帮助技术人快速了解及上手某个领域。
+StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起，志在汇集整理泛 IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
 目前技能图谱已有六大领域：
 
@@ -39,19 +39,21 @@ StuQ 技能图谱发布
 
 
 ## 贡献者
-[@jayli](https://github.com/jayli/)
+[@jayli](https://github.com/jayli/) [原创链接](https://github.com/jayli/jayli.github.com/issues/16)
 
-[@Jackson Tian](https://github.com/JacksonTian)
+[@Jackson Tian](https://github.com/JacksonTian) [原创链接](https://github.com/JacksonTian/fks)
 
 @费良宏
 
-[@余弦](http://blog.knownsec.com)
+[@余弦](https://github.com/evilcos) [原创链接](http://blog.knownsec.com)
 
-[@Tanky Woo](http://blog.knownsec.com)
+[@Tanky Woo](http://blog.knownsec.com) [原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)
 
-@祝海林
+[@祝海林](https://github.com/allwefantasy)
 
-@谢孟军
+[@谢孟军](https://github.com/astaxie)
+
+@梁艳
 
 @吴坚
 
