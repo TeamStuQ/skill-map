@@ -47,7 +47,7 @@ StuQ 技能图谱发布
 
 [@余弦](https://github.com/evilcos) [原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
 
-[@Tanky Woo](http://blog.knownsec.com) [原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)
+[@Tanky Woo](https://github.com/tankywoo) [原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)
 
 [@祝海林](https://github.com/allwefantasy)
 
