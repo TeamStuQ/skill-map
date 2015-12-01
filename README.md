@@ -58,6 +58,6 @@ StuQ 技能图谱发布
 @吴坚
 
 ## 许可
-本技能图谱遵循 **[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)** 协议。*转载请注明[出处](http://www.stuq.org/subject/skill-map/)。*
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*转载请注明[出处](http://www.stuq.org/subject/skill-map/)。*
 
 最终解释权归 **StuQ** 所有。
