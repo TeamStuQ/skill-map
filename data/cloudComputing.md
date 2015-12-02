@@ -31,6 +31,8 @@
     - Javascript
     - PHP
     - Ruby
+    - Clojure
+    - Julia
 
 - ### 架构
 
@@ -158,6 +160,7 @@
     - Python
     - Java
     - Scala
+    - Clojure
 
   - #### MapReduce
     - Hadoop
@@ -212,7 +215,7 @@
 
   - #### 可选功能
     - 仪表板：Horizon
-    - 数据库：Trove		
+    - 数据库：Trove
     - 大数据：Sahara
     - 编排：Heat
     - 监控：Ceilometer
