@@ -85,7 +85,21 @@
             - Kawa
             - Java
 
-    - #### 脚本语言
+    - #### 编辑器
+        - Atom
+        - Emacs
+        - Vim
+        - Sublime
+        - Textmate
+        - Light Table
+    - #### IDE
+        - Eclipse
+        - Pycharm
+        - WebStorm
+        - Intellij IDEA
+    - #### 动态语言
+        - Common Lisp
+        - Clojure
         - Lua
         - Perl
         - JSP
