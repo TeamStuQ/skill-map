@@ -29,6 +29,7 @@
   - SQLite
   - bsddb
   - HBase
+  - [greenplum](http://greenplum.org/)
 
 - ### 编程语言
   - Python
