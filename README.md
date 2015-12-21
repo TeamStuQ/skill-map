@@ -16,6 +16,11 @@ StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起�
 以及正在建设中的领域：
 
 - 智能硬件
+- 移动开发
+- 架构
+- 服务端开发
+- CTO
+- 测试
 
 
 如有任何意见和建议，欢迎发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
