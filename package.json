@@ -1,0 +1,25 @@
+{
+  "name": "skill-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server . -p 9999 -o",
+    "gulp": "./node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamStuQ/skill-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamStuQ/skill-map/issues"
+  },
+  "homepage": "https://github.com/TeamStuQ/skill-map#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.4",
+    "http-server": "^0.8.5"
+  }
+}
