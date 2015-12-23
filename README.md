@@ -36,19 +36,20 @@ StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起�
 安装node依赖环境
 
 ```
-npm install
+$ cd skill-map
+$ npm i --save-dev
 ```
 
 本地预览
 
 ```
-npm start
+$ npm start
 ```
 
 发布到git pages作为预览（最终以stuq官网为主）
 
 ```
-gulp 或gulp deploy
+$ npm run gulp 或 gulp 或 gulp deploy
 ```
 
 ## 更新
