@@ -2,6 +2,7 @@
 **[http://www.stuq.org/subject/skill-map/](http://www.stuq.org/subject/skill-map/)**
 
 ## 简介
+
 StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起，志在汇集整理泛 IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
 目前技能图谱已有六大领域：
@@ -26,8 +27,29 @@ StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起�
 如有任何意见和建议，欢迎发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
 
 ## 目标
+
 1. 让每个领域的知识点尽可能的细化
 2. 制定每个领域的学习路径
+
+## 本地测试与发布
+
+安装node依赖环境
+
+```
+npm install
+```
+
+本地预览
+
+```
+npm start
+```
+
+发布到git pages作为预览（最终以stuq官网为主）
+
+```
+gulp 或gulp deploy
+```
 
 ## 更新
 
