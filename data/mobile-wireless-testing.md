@@ -1,5 +1,5 @@
 ###移动无线测试技能树
-- ###常用IDE
+###常用IDE
 	- Android
 		- ADT
 		- Android Studio
@@ -9,7 +9,7 @@
 		- Atom
 		- Sublime Text
 		- Vim
-- ###基础知识
+###基础知识
 	- Android
 		- 掌握Android开发基础技能	 
 	- iOS
@@ -21,13 +21,13 @@
 	- 测试
 		- 掌握基本的测试用例设计方法和思想
 		
-- ###常见应用模式
+###常见应用模式
 	- Native
 	- Hybrid
 	- H5 App
 	- ReactNative 
 
-- ###常用工具
+###常用工具
 	- Android
 		- Android sdk manager
 		- adb
@@ -41,7 +41,7 @@
 		- monkey
 		- monkeyrunner
 		- uiautomatorviewer
-	- ####iOS
+	- iOS
 	    - lldb
 	    - iExplorer
 	    - libimobiledevice 套件
@@ -50,7 +50,7 @@
 	    - xcodebuild
 	    - atos
 	    - xcrun
-- ###常用UI Automation框架
+###常用UI Automation框架
 	- Android
 		- Instrumentation
 		- Athrun
@@ -76,7 +76,7 @@
 		- Calabash-iOS
 		- TuneupJs
 		- ynm3k
-- ###常用单元测试框架
+###常用单元测试框架
 	- Android
 		- robolectric
 		- Instrumentation
@@ -90,12 +90,12 @@
 		- OCMockito
 		- Expecta
 		- OCHamcrest
-- ###常用动态更新
+###常用动态更新
 	- ReactNative
 	- waxpatch/wax
 	- ota
 		 
-- ###常用性能工具
+###常用性能工具
 	- 抓包
 		- Charles
 		- fiddler
@@ -151,7 +151,7 @@
 			- Network(instruments)
 			- TimeProfiler(instruments)
 			- Zombies(instruments)
-- ###安全
+###安全
 	- Android
 		- Drozer
 		- apktool
@@ -172,22 +172,22 @@
 			
 			
 			
-- ###abtest
+###abtest
 	- AB Tester
 	- AppAdhocOptimizer
 	- Google Website Optimizer
 	- Visual Website Optimizer
 	
-- ###常用灰度测试工具
+###常用灰度测试工具
 	- testflight
 	- 蒲公英
 	- fir
 	- pre
-- ###常用云测平台
+###常用云测平台
 	- testin
 	- MQC
 	- MTC
-- ###常用持续集成平台／相关工具
+###常用持续集成平台／相关工具
 	- Jenkins
 	- Travis CI 
 	- Android
@@ -198,15 +198,15 @@
 		- Cocoapods
 	 
 		
-- ####多语言开发应用
-	- SL4A
-	- gomobile
+        - 多语言开发应用
+	        - SL4A
+	        - gomobile
 			
 
-- ####多设备远程管理平台
-	- STF
+        - 多设备远程管理平台
+	        - STF
 
-- ### 软技能
+### 软技能
   - 知识管理/总结分享
   - 沟通技巧/团队协作
   - 需求管理/PM
