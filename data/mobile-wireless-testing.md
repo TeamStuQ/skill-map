@@ -1,5 +1,5 @@
 ###移动无线测试技能树
-###常用IDE
+###-常用IDE
 	- Android
 		- ADT
 		- Android Studio
@@ -9,7 +9,7 @@
 		- Atom
 		- Sublime Text
 		- Vim
-###基础知识
+###-基础知识
 	- Android
 		- 掌握Android开发基础技能	 
 	- iOS
