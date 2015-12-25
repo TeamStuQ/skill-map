@@ -9,21 +9,26 @@ StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起�
 
 - Web 前端
 - 云计算
+  - OpenStack
+  - 容器技术
 - 安全
 - 智能运维
 - 大数据 
 - 开发语言
 - 测试
   - 移动无线测试
+- 智能硬件
+  - 嵌入式开发
+
 
 以及正在建设中的领域：
 
-- 智能硬件
 - 移动开发
-- 架构
+- 架构师
 - 服务端开发
 - CTO
-
+- 机器学习
+- Hadoop
 
 如有任何意见和建议，欢迎发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
 
@@ -65,7 +70,7 @@ OpenStack：@梁艳
 
 开发语言：@吴坚
 
-移动无线测试：@陈晔（Monkey）
+移动无线测试：[@陈晔（Monkey）](https://github.com/monkeytest15)
 
 ## 本地测试与发布
 
