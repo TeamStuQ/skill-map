@@ -72,6 +72,10 @@ OpenStack：@梁艳
 
 移动无线测试：[@陈晔（Monkey）](https://github.com/monkeytest15)
 
+嵌入式开发：[黄峰达（Phodal）](https://github.com/phodal)
+
+容器技术：[林帆]()
+
 ## 本地测试与发布
 
 安装node依赖环境
