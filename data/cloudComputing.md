@@ -14,7 +14,7 @@
   - #### 配置
     - Chef
     - Puppet
-    - Ansibie
+    - Ansible
     - AWS OpsWorks
 
 - ### 开发
@@ -50,7 +50,7 @@
 
     - ##### RPC
       - Thrift
-      -  Protocol
+      - Protocol
 
   - #### Microservices
   - #### RESTFull
@@ -64,7 +64,7 @@
       - HTML/CSS
     - 桌面虚拟化
     - 移动应用
-    - IoT
+    - IOT
 
   - #### 后端应用
     - 高性能计算
@@ -127,7 +127,7 @@
 - ### 平台
   - #### 操作系统
     - ##### Linux
-      - Redhat/Centos
+      - RedHat/CentOS
       - Ubuntu
       - Debian
       - SUSE
