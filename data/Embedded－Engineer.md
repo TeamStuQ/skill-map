@@ -1,6 +1,6 @@
 # 嵌入式工程师
 
-  ## - 硬件核心(Hardware Core)
+## - 硬件核心(Hardware Core)
     - Controller(控制器)
       - CPU
         - AMD x86 x64
@@ -77,7 +77,8 @@
       - Flex Sensor (弯曲传感器）
       - proximity sensor (近距离传感器)
       - Atmospheric Pressure Sensor （气压传感器）
-  ## - Electronic Component(电子元件)
+
+## - Electronic Component(电子元件)
     - 电容
     - 保护装置
     - 端子与连接器
@@ -98,7 +99,8 @@
     - 电源
     - 二极管
     - 晶体管
-  ## - MCU/CPU/DSP/SOC peripherals
+
+## - MCU/CPU/DSP/SOC peripherals
     - ADC / DAC
     - RTC
     - Timer / Watchdog Timer (定时器)
@@ -119,7 +121,7 @@
     - IEEE
     - CRC
     - Interrupt (中断)
-  ## - Communication(通信)
+## - Communication(通信)
     - 硬件间无线通信
       - Bluetooth
       - Xbee / Zigbee
@@ -149,7 +151,8 @@
       - WebSocket
       - UDP
       - TCP
-  ## - 软件编程
+
+## - 软件编程
     - Common
       - ISR
       - Driver
@@ -175,7 +178,8 @@
         - Windows 10 IoT Core
     - non-OS
       - LwIP
-  ## - 电路
+
+## - 电路
     - 基础
       - 焊电路
       - 模拟电路
