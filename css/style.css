@@ -79,7 +79,8 @@ h3 {
 #securityIndex h2,
 #IOAMIndex h2,
 #bigDataIndex h2,
-#language h2 {
+#language h2,
+#IHIndex h2 {
   display: inline-block;
   color: #17f; }
   #frontEndIndex h2:focus, #frontEndIndex h2:hover,
@@ -92,15 +93,19 @@ h3 {
   #bigDataIndex h2:focus,
   #bigDataIndex h2:hover,
   #language h2:focus,
-  #language h2:hover {
+  #language h2:hover,
+  #IHIndex h2:focus,
+  #IHIndex h2:hover {
     color: #00f;
     text-decoration: underline; }
+
 #frontEndIndex h3 span,
 #cloudComputingIndex h3 span,
 #securityIndex h3 span,
 #IOAMIndex h3 span,
 #bigDataIndex h3 span,
-#language h3 span {
+#language h3 span,
+#IHIndex h3 span {
   font-size: 0.85em;
   font-weight: 400; }
 
@@ -113,7 +118,7 @@ h3 {
   position: fixed;
   opacity: 0.98; }
   .to-top::before {
-    content: "";
+    content: '';
     right: 2em;
     bottom: 2em;
     width: 4em;

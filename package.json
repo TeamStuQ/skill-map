@@ -1,17 +1,17 @@
 {
   "name": "skill-map",
   "version": "1.0.0",
-  "description": "",
+  "description": "**[http://www.stuq.org/subject/skill-map/](http://www.stuq.org/subject/skill-map/)**",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/http-server . -p 9999 -o",
-    "gulp": "./node_modules/.bin/gulp"
+    "start": "http-server . -p 9999 -o",
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TeamStuQ/skill-map.git"
   },
-  "author": "",
+  "author": "stuq",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TeamStuQ/skill-map/issues"
@@ -20,6 +20,13 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
     "http-server": "^0.8.5"
-  }
+  },
+  "dependencies": {},
+  "keywords": [
+    "skill-map",
+    "stuq"
+  ]
 }

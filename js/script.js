@@ -128,6 +128,7 @@
 	  'bigData': 'data/big-data.md',
 	  'cloudComputing': 'data/cloudComputing.md',
 	  'frontEnd': 'data/frontEnd.md',
+	  'IH': 'data/IH.md',
 	  'IOAM': 'data/IOAM.md',
 	  'security': 'data/security.md'
 	}, liArray = $tag('li');
