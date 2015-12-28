@@ -145,7 +145,7 @@
     - Cassandra
 
   - #### 缓存
-    - Momcached
+    - Memcached
     - Redis
     - AWS Elastics Cache
 
