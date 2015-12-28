@@ -53,7 +53,7 @@ StuQ 技能图谱发布
 
 
 ## 图谱核心贡献者
-前端：[@jayli](https://github.com/jayli/) |阿里巴巴前端资深专家｜[原创链接](https://github.com/jayli/jayli.github.com/issues/16)
+前端：[@jayli](https://github.com/jayli/) ｜阿里巴巴前端资深专家｜[原创链接](https://github.com/jayli/jayli.github.com/issues/16)
 
 前端：[@Jackson Tian ](https://github.com/JacksonTian) ｜阿里巴巴前端技术工程师｜[原创链接](https://github.com/JacksonTian/fks)
 
