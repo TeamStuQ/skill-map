@@ -73,7 +73,7 @@ OpenStack：@梁艳 ｜UnitedStack PR 总监
 
 移动无线测试：[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家
 
-嵌入式开发：[@黄峰达（Phodal）](https://github.com/phodal)｜ThoughtWorks 咨询师
+嵌入式开发：[@Phodal（黄峰达）](https://github.com/phodal)｜ThoughtWorks 咨询师
 
 容器技术：[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师
 
