@@ -1,6 +1,6 @@
-##Container 技能图谱
+#Container 技能图谱
 
-### 1. 容器核心
+## 1. 容器核心
 
 - Docker [https://www.docker.com/]
 
@@ -24,7 +24,7 @@
 
 
 
-### 2. 监控和数据收集
+## 2. 监控和数据收集
 
 - Sysdig [http://sysdig.org]
 
@@ -34,7 +34,7 @@
 
 
 
-### 3. 容器管理和界面工具
+## 3. 容器管理和界面工具
 
 - DockerUI [https://github.com/crosbymichael/dockerui]
 
@@ -53,7 +53,7 @@
 - Triton [https://www.joyent.com/]
 
 
-### 4. 基础设施集成
+## 4. 基础设施集成
 
 - Nova-docker [https://github.com/stackforge/nova-docker]
 
@@ -75,7 +75,7 @@
 
 
 
-### 5. 编排和调度
+## 5. 编排和调度
 
 - Crane [https://github.com/michaelsauter/crane]
 
@@ -99,7 +99,7 @@
 
 
 
-### 6. 平台
+## 6. 平台
 
 - Alauda [http://www.alauda.cn/]
 
@@ -126,7 +126,7 @@
 - Giant Swarm [https://giantswarm.io/]
 
 
-### 7. 服务发现和容器域名服务
+## 7. 服务发现和容器域名服务
 
 - Consul [http://www.consul.io/]
 
@@ -140,7 +140,7 @@
 
 
 
-### 8. 容器日志收集处理
+## 8. 容器日志收集处理
 
 - Splunk [www.splunk.com]
 
@@ -158,7 +158,7 @@
 
 
 
-### 9. 容器相关的系统发行版
+## 9. 容器相关的系统发行版
 
 - CoreOS http://coreos.com/
 
@@ -169,7 +169,7 @@
 - ClearLinux [https://clearlinux.org/]
 
 
-### 10. 容器PaaS
+## 10. 容器PaaS
 
 - Dokku [https://github.com/progrium/dokku/]
 
@@ -183,7 +183,7 @@
 
 
 
-### 11. 容器网络
+## 11. 容器网络
 
 - Pipework [https://github.com/jpetazzo/pipework]
 
@@ -201,7 +201,7 @@
 
 
 
-### 12. 容器安全
+## 12. 容器安全
 
 - Notary [https://github.com/docker/notary]
 
@@ -209,14 +209,14 @@
 
 
 
-### 13. 容器数据持久化
+## 13. 容器数据持久化
 
 - Flocker [https://github.com/clusterhq/flocker]
 
 - Ceph [http://ceph.com/]
 
 
-### 14. 容器相关开发流程工具
+## 14. 容器相关开发流程工具
 
 - Drone.io [https://drone.io/]
 
