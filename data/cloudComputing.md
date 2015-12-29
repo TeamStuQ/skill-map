@@ -1,9 +1,11 @@
-- ### 运维
-  - #### DevOps
+# 云计算工程师技能图谱
+
+### 运维
+ #### DevOps
     - 持续交付
     - 持续集成
 
-  - #### 部署
+ #### 部署
     - 蓝绿部署
     - 灰度发布
     - 金丝雀发布
@@ -11,20 +13,20 @@
     - PHOENIX 部署
     - AWS CloudFormation
 
-  - #### 配置
+ #### 配置
     - Chef
     - Puppet
     - Ansible
     - AWS OpsWorks
 
-- ### 开发
+### 开发
 
-  - #### 流程
+ #### 流程
     - Scrum
     - Crystal
     - FDD
 
-  - #### 语言
+ #### 语言
     - Java
     - Python
     - Go
@@ -34,9 +36,9 @@
     - Clojure
     - Julia
 
-- ### 架构
+### 架构
 
-  - #### 分布式系统
+ #### 分布式系统
     - ##### 消息队列
       - ZeroMQ
       - ActiveMQ
@@ -52,13 +54,13 @@
       - Thrift
       - Protocol
 
-  - #### Microservices
-  - #### RESTFull
-  - #### CAP 理论
+ #### Microservices
+ #### RESTFull
+ #### CAP 理论
 
 
-- ### 应用
-  - #### 前端应用
+### 应用
+ #### 前端应用
     - ##### Web 应用
       - Javascript/Ajax
       - HTML/CSS
@@ -75,7 +77,7 @@
     - ERP
     - 生物科学
 
-- ### 基础架构
+### 基础架构
   - #### 计算
     - ##### 自动扩展
       - AWS Autoscaling
@@ -124,7 +126,7 @@
       - ext4
       - XFS
 
-- ### 平台
+### 平台
   - #### 操作系统
     - ##### Linux
       - RedHat/CentOS
@@ -133,7 +135,7 @@
       - SUSE
    - ##### Windows Server
 
-- ### 数据管理
+### 数据管理
   - #### SQL
     - AWS RDS
     - MySQL
@@ -154,7 +156,7 @@
     - Elasticssearch
     - AWS Elastics Search
 
-- ### 大数据
+### 大数据
   - #### 语言、工具
     - R
     - Python
@@ -196,7 +198,7 @@
       - INICGA
       - AWS CloudWatch
 
-- ### 安全
+### 安全
   - #### Firewall
   - #### DDOS
   - #### iptables
@@ -204,7 +206,7 @@
   - #### IDS/IPS
   - #### VPN
 
-- ### OpenStack
+### OpenStack
   - #### 核心功能
     - 计算：NOVA
     - 网络：NEUTRON
