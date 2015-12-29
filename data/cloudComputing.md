@@ -1,58 +1,58 @@
 # 云计算工程师技能图谱
 
 ### 运维
- #### DevOps
-    - 持续交付
-    - 持续集成
+#### DevOps
+- 持续交付
+- 持续集成
 
- #### 部署
-    - 蓝绿部署
-    - 灰度发布
-    - 金丝雀发布
-    - Canary 部署
-    - PHOENIX 部署
-    - AWS CloudFormation
+#### 部署
+- 蓝绿部署
+- 灰度发布
+- 金丝雀发布
+- Canary 部署
+- PHOENIX 部署
+- AWS CloudFormation
 
- #### 配置
-    - Chef
-    - Puppet
-    - Ansible
-    - AWS OpsWorks
+#### 配置
+- Chef
+- Puppet
+- Ansible
+- AWS OpsWorks
 
 ### 开发
 
- #### 流程
-    - Scrum
-    - Crystal
-    - FDD
+#### 流程
+- Scrum
+- Crystal
+- FDD
 
- #### 语言
-    - Java
-    - Python
-    - Go
-    - Javascript
-    - PHP
-    - Ruby
-    - Clojure
-    - Julia
+#### 语言
+- Java
+- Python
+- Go
+- Javascript
+- PHP
+- Ruby
+- Clojure
+- Julia
 
 ### 架构
 
- #### 分布式系统
-    - ##### 消息队列
-      - ZeroMQ
-      - ActiveMQ
-      - RabbitMQ
-      - AWS SQS
+#### 分布式系统
+ ##### 消息队列
+- ZeroMQ
+- ActiveMQ
+- RabbitMQ
+- AWS SQS
 
-    - ##### 事件/消息驱动
-      - AWS SWS
-      - AWS Lambda
-      - AKKA
+ ##### 事件/消息驱动
+- AWS SWS
+- AWS Lambda
+- AKKA
 
-    - ##### RPC
-      - Thrift
-      - Protocol
+ ##### RPC
+- Thrift
+- Protocol
 
  #### Microservices
  #### RESTFull
@@ -61,18 +61,18 @@
 
 ### 应用
  #### 前端应用
-    - ##### Web 应用
+    - Web 应用
       - Javascript/Ajax
       - HTML/CSS
     - 桌面虚拟化
     - 移动应用
     - IOT
 
-  - #### 后端应用
+ #### 后端应用
     - 高性能计算
     - 渲染
 
-  - #### 行业应用
+ #### 行业应用
     - CRM
     - ERP
     - 生物科学
