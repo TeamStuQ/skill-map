@@ -39,24 +39,24 @@
 ### 架构
 
 #### 分布式消息
- ##### 消息队列
+##### 消息队列
  - ZeroMQ
  - ActiveMQ
  - RabbitMQ
  - AWS SQS
 
- ##### 事件/消息驱动
+##### 事件/消息驱动
  - AWS SWS
  - AWS Lambda
  - AKKA
 
- ##### RPC
+##### RPC
  - Thrift
  - Protocol
 
- #### Microservices
- #### RESTFull
- #### CAP 理论
+#### Microservices
+#### RESTFull
+#### CAP 理论
 
 
 ### 应用
