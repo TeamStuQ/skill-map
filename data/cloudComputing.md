@@ -38,21 +38,21 @@
 
 ### 架构
 
-#### 分布式系统
+#### 分布式消息
  ##### 消息队列
-- ZeroMQ
-- ActiveMQ
-- RabbitMQ
-- AWS SQS
+ - ZeroMQ
+ - ActiveMQ
+ - RabbitMQ
+ - AWS SQS
 
  ##### 事件/消息驱动
-- AWS SWS
-- AWS Lambda
-- AKKA
+ - AWS SWS
+ - AWS Lambda
+ - AKKA
 
  ##### RPC
-- Thrift
-- Protocol
+ - Thrift
+ - Protocol
 
  #### Microservices
  #### RESTFull
