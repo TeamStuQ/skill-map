@@ -90,9 +90,9 @@
 
     - 虚拟化
       - Hypervisor
-        	- Xen
-        	- KVM
-        	- Hyper-V
+        - Xen
+        - KVM
+        - Hyper-V
 
     - 容器
       - Docker
@@ -158,7 +158,7 @@
 
   - 大数据
         - 语言、工具
-	    	- R
+		- R	
 		- Python
 		- Java
 		- Scala
