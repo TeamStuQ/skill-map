@@ -157,7 +157,7 @@
 	    - AWS Elastics Search
 
   - 大数据
-        - 语言、工具
+	- 语言、工具
 		- R	
 		- Python
 		- Java
