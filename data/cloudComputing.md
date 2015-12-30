@@ -157,22 +157,23 @@
 	    - AWS Elastics Search
 
   - 大数据
-  		 - 语言、工具
-			 - R
-			 - Python
-			 - Java
-			 - Scala
-			 - Clojure
-		- MapReduce
-			 - Hadoop
-			 - HDFS
-			 - HBase
-			 - Hive
-			 - Spark   
+        - 语言、工具
+	    	- R
+		- Python
+		- Java
+		- Scala
+		- Clojure
+		
+	- MapReduce
+		- Hadoop
+		- HDFS
+		- HBase
+		- Hive
+		- Spark   
 
-	   - 数据流
-			 - AWS Kinesis
-			 - Storm
+	- 数据流
+		- AWS Kinesis
+		- Storm
 
   - 机器学习
 		- Spark ML
