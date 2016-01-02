@@ -1,9 +1,9 @@
-# StuQ 技能图
-**[http://www.stuq.org/subject/skill-map/](http://www.stuq.org/subject/skill-map/)**
+# StuQ 技能图谱
+官网地址：**[http://www.stuq.org/subject/skill-map/](http://www.stuq.org/subject/skill-map/)**（V2.0 产品页面建设中。。。）
 
 ## 简介
 
-StuQ 技能图由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起，志在汇集整理泛 IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
+StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
 目前技能图谱已有下面几个领域：
 
@@ -94,7 +94,7 @@ $ npm i --save-dev
 $ npm start
 ```
 
-发布到git pages作为预览（最终以stuq官网为主）
+发布到git pages作为预览（最终以 StuQ 官网为主）
 
 ```
 $ npm run gulp 或 gulp 或 gulp deploy
