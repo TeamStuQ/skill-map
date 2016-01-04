@@ -2,22 +2,22 @@
 
 ## 运维
 ### DevOps
-	- 持续交付
-	- 持续集成
+- 持续交付
+- 持续集成
 
 ### 部署
-	- 蓝绿部署
-	- 灰度发布
-	- 金丝雀发布
-	- Canary 部署
-	- PHOENIX 部署
-	- AWS CloudFormation
+- 蓝绿部署
+- 灰度发布
+- 金丝雀发布
+- Canary 部署
+- PHOENIX 部署
+- AWS CloudFormation
 
 ### 配置
-	- Chef
-	- Puppet
-	- Ansible
-	- AWS OpsWorks
+- Chef
+- Puppet
+- Ansible
+- AWS OpsWorks
 
 ## 开发
 
