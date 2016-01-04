@@ -1,11 +1,11 @@
 # 云计算工程师技能图谱
 
 ## 运维
-- DevOps
+### DevOps
 	- 持续交付
 	- 持续集成
 
-- 部署
+### 部署
 	- 蓝绿部署
 	- 灰度发布
 	- 金丝雀发布
@@ -13,7 +13,7 @@
 	- PHOENIX 部署
 	- AWS CloudFormation
 
-- 配置
+### 配置
 	- Chef
 	- Puppet
 	- Ansible
@@ -53,7 +53,6 @@
 	- RPC
 		 - Thrift
 		 - Protobuf
-
 - Microservices
 - RESTFull
 - CAP 理论
