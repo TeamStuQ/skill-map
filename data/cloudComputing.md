@@ -52,7 +52,7 @@
 		
 	- RPC
 		 - Thrift
-		 - Protocol
+		 - Protobuf
 
 - Microservices
 - RESTFull
