@@ -1,6 +1,6 @@
 # 云计算工程师技能图谱
 
-### 运维
+## 运维
 - DevOps
 	- 持续交付
 	- 持续集成
@@ -19,7 +19,7 @@
 	- Ansible
 	- AWS OpsWorks
 
-### 开发
+## 开发
 
 - 流程
 	- Scrum
@@ -36,7 +36,7 @@
 	- Clojure
 	- Julia
 
-### 架构
+## 架构
 
 - 分布式消息
 	- 消息队列
@@ -59,7 +59,7 @@
 - CAP 理论
 
 
-### 应用
+## 应用
 - 前端应用
     - Web 应用
       - Javascript/Ajax
@@ -77,7 +77,7 @@
     - ERP
     - 生物科学
 
-### 基础架构
+## 基础架构
 - 计算
     - 自动扩展
       - AWS Autoscaling
@@ -126,7 +126,7 @@
       - ext4
       - XFS
 
-### 平台
+## 平台
 - 操作系统
    - Linux
       - RedHat/CentOS
@@ -198,7 +198,7 @@
       - INICGA
       - AWS CloudWatch
 
-### 安全
+## 安全
 - Firewall
 - DDOS
 - iptables
@@ -206,7 +206,7 @@
 - IDS/IPS
 - VPN
 
-### OpenStack
+## OpenStack
 - 核心功能
     - 计算：NOVA
     - 网络：NEUTRON
