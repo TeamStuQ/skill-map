@@ -95,10 +95,10 @@
     - W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...
     - CommonJS Modules/AMD
     - HTML5/CSS3
-    - #### Semantic Web
+    - Semantic Web
       - MicroData
       - RDFa
-    - #### Web Accessibility
+    - Web Accessibility
       - WCAG
       - Role Attribute
       - WAI-ARIA
