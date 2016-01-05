@@ -7,7 +7,7 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 
 目前技能图谱已有下面几个领域：
 
-**技术领域**（点击预览） | **核心贡献者 ID** | **原创链接** | **高清大图**
+**技能图谱**（点击预览） | **核心贡献者 ID** | **原创链接** | **路径指导&资源推荐**
 ------- | ---- | ---- | ---- | 
 [**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/frontEnd.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|--
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|--
