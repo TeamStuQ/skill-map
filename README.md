@@ -7,24 +7,24 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 
 目前技能图谱已有下面几个领域：
 
-**技能图谱**（点击预览）| **路径指导&资源推荐**| **核心贡献者 ID** | **原创链接** |
+**技能图谱**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径指导&资源推荐**
 ------- | ---- | ---- | ---- | 
-[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/frontEnd.md)||[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|--
-|||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|--
-[**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/cloudComputing.md)||@费良宏｜AWS 首席云计算技术顾问||--
-|- OpenStack||@夏艳｜UnitedStack 公共关系总监||--
-[- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/Container.md)||[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||--
-[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/security.md)||[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|--
-[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/IOAM.md)||[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)||--
-[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/big-data.md)||[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师||--
+[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/frontEnd.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|--
+||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|--
+[**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/cloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||--
+|- OpenStack|@夏艳｜UnitedStack 公共关系总监||--
+[- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/Container.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||--
+[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/security.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|--
+[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/IOAM.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)||--
+[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/big-data.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师||--
 [**# 测试**]()|||||
-[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/mobile-wireless-testing.md)||[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家||--
+[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/mobile-wireless-testing.md)|[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家||--
 [**# 移动开发**]()|||||
-[- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/mobile-dev-iOS.md)||[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)||--
+[- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/mobile-dev-iOS.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)||--
 [**# 智能硬件**]()|||||
-[- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/Embedded%EF%BC%8DEngineer.md)||[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|--
-[**# 开发语言**]()||@吴坚 ｜无限极全栈工程师||--
-[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/dev-lang-Go.md)||[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|--
+[- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/Embedded%EF%BC%8DEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|--
+[**# 开发语言**]()|@吴坚 ｜无限极全栈工程师||--
+[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/dev-lang-Go.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|--
 
 以及**正在建设中**的领域：
 
