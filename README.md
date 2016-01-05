@@ -36,6 +36,10 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 - 分布式数据库开发
 - OpenResty
 - Web 性能优化
+- IoT 物联网
+- Clojure 语言
+- Haskell 语言
+- Android 语言
 
 欢迎贡献新领域技能图谱，有任何改进意见和建议，请发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
 
