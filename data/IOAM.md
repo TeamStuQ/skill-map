@@ -6,7 +6,7 @@
 - Linux 基本操作命令
 - Linux 内置编辑器：
   - vi
-	- nano
+  - nano
 - Linux 系统
 	- Centos
 	- Debian
