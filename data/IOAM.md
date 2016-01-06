@@ -19,6 +19,9 @@
 
 
 ## 运维命令
+![运维命令](https://github.com/TeamStuQ/skill-map/blob/master/data/operation-command.png)
+
+运维命令图片引用自 Brendan Gregg 《Linux Performance Analysis and Tools》。原文链接:http://www.brendangregg.com/linuxperf.html 。
 
 ## 基础服务
 
