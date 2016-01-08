@@ -6,15 +6,23 @@
 - 微服务
 - 测试驱动开发
 - RESTful API
-- 跨平台
 
 ## 测试
 
+## 调试
+
 ## 开发语言
 - Golang
-- OpenResty
 - Node.js
 - PHP
+- Python
+- shell
+
+## web server
+- NGINX
+- OpenResty
+- Tornado
+- Yii
 
 ## 安全
 - SQL 注入
@@ -22,7 +30,6 @@
 - CSRF
 - AES、DES
 - MD5碰撞、SHA1
-- 组件安全补丁
 
 ## 数据处理
 - Spark
@@ -48,6 +55,8 @@
 ### PostgreSQL
 - JSON Types
 - Full Text Search
+- UPSERT
+- BRIN
 
 ### Redis
 
@@ -60,10 +69,13 @@
 
 ## 版本管理和打包
 - Git
-- GitHub
 - Git Flow
 - Jenkins
 
 ## 工具
 - Sublime、ATOM
 - SourceTree
+
+## 开源
+- GitHub
+- BSD,Apache,GPL,LGPL,MIT license
