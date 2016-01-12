@@ -170,7 +170,8 @@
 	  - 响应式网页设计
 	  - Zeptojs/iScroll
 	  - V5/Sencha Touch
-	  - PhoneGap
+	  - PhoneGap (Cordova)
+	  - Ionic
 	  - jQuery Mobile
 	  - W3C Mobile Web Initiative
 	  - W3C mobileOK Checker
