@@ -9,23 +9,23 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 
 **领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**
 ------- | ---- | ---- | ---- | 
-[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜归档
+[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜归档｜大图
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|
-[**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜归档
-|- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档
-[- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Container.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||[推荐](https://github.com/TeamStuQ/skill-map/issues/20)｜归档
-[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜归档
-[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜归档
-[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜归档
-[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/)｜归档
+[**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜归档｜大图
+|- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档｜大图
+[- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Container.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||[推荐](https://github.com/TeamStuQ/skill-map/issues/20)｜归档｜大图
+[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜归档｜大图
+[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜归档｜大图
+[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜归档｜大图
+[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜归档｜大图
 [**# 测试**]()|||||
-[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档
+[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档｜大图
 [**# 移动开发**]()|||||
-[- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜归档
+[- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜归档｜大图
 [**# 智能硬件**]()|||||
-[- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-EmbeddedEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|[推荐](https://github.com/TeamStuQ/skill-map/issues/21)｜归档
-[**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total)|@吴坚 ｜无限极全栈工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档
-[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Golang.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|[推荐](https://github.com/TeamStuQ/skill-map/issues/17)｜归档
+[- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-EmbeddedEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|[推荐](https://github.com/TeamStuQ/skill-map/issues/21)｜归档｜大图
+[**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total.md)|@吴坚 ｜无限极全栈工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档｜大图
+[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Golang.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|[推荐](https://github.com/TeamStuQ/skill-map/issues/17)｜归档｜大图
 
 以及**正在建设中**的领域：
 
@@ -33,7 +33,6 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 - 服务端开发
 - CTO
 - 机器学习
-- Hadoop
 - 分布式数据库开发
 - OpenResty
 - Web 性能优化
