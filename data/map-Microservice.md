@@ -142,6 +142,7 @@
 #### Ruby栈（其他脚本语言类似）
   - 代码结构
   - 测试结构
+
 ##### 配置文件模板
   	- WEB服务器配置
 	- 日志格式
@@ -179,19 +180,24 @@
 ### 单元测试
 - 基于Mock/Stub
 - 基于真实依赖
+
 ### 集成测试
 - 服务间集成
 - 数据库集成
 - 与第三方接口集成
+
 ### 组件测试
 - 进程内
 - 进程外
+
 ### 契约测试
 - PACT
 - PACTO
+
 ### E2E测试
 - Selenium
 - WebDriver
+
 ### 性能测试
 - Gatling
 - JProfiler
@@ -204,22 +210,27 @@
 - 公有云(IAAS/PASS)
 - 私有云(IAAS/PASS)
 - 容器化
+
 #### 应用部署
 - 包部署(Tar、RPM、War)
 - 映像部署(AMI/...)
 - 容器部署(Docker)
+
 #### 基础设施部署工具
 - Chef
 - Puppet
 - Ansible
 - CloudFormation
+
 #### 部署策略
 - 蓝绿部署
 - Immutable Deployment
+
 #### 自动化策略
 - 依赖持续部署流水线
 - 基础设施自动化
 - 应用部署自动化
+
 #### 伸缩策略
 ##### Scaling Cube
 - X轴水平克隆
@@ -232,32 +243,37 @@
 - CPU
 - 内存
 - 磁盘
+
 ##### 应用监控
 - 健康性
 - 响应时间
 - 关联ID(Correlation ID)
 - 业务相关Metrics
+
 ##### 工具
 
 ###### SAAS		
   - NewRelic
   - OneAPM			
-  
+
 ###### Hosted
   - Nagios
   - Zabbix
 	
+
 #### 告警
 ##### 告警方式
 - 电话
 - 短信
 - 邮件
 - 即时通信工具
+
 ##### 告警级别
   - OnCall
   - Backup
   - Owner
   - Leader
+
 ##### 工具
 	- Splunk
 	- Nagois
@@ -266,6 +282,7 @@
 #### 日志聚合
 - 聚合每个服务实例的日志
 - 关联相关日志
+
 ##### 工具
 	- Splunk
 	- ELK(ElasticSearch/LogStash/Kabana)
