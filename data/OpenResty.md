@@ -7,6 +7,8 @@
 #### mocking
 
 ### debugging
+#### debugging log
+#### core dump
 
 ### caching
 #### ngx.shared.DICT
@@ -23,10 +25,13 @@
 #### ffi.* API
 #### jit.* Library
 
-### OpenResty
-#### 执行阶段
-#### 非阻塞
+### ngx_lua
+#### phase
+#### cosocket
+#### nonblocking I/O
 
-
-
-### 火焰图
+### flame graph
+#### on-CPU/off-CPU
+#### nginx-systemtap-toolkit
+#### stapxx
+#### nginx-gdb-utils
