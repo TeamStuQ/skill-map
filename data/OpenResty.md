@@ -5,6 +5,7 @@
 #### Test::Nginx
 #### lua-resty-test
 #### mocking
+#### luacov
 
 ### debugging
 #### debugging log
