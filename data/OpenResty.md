@@ -5,11 +5,16 @@
 #### Test::Nginx
 #### lua-resty-test
 #### mocking
-#### luacov
+#### code cover:luacov
 
 ### debugging
 #### debugging log
 #### core dump
+#### flame graph
+#### on-CPU/off-CPU
+#### nginx-systemtap-toolkit
+#### stapxx
+#### nginx-gdb-utils
 
 ### caching
 #### ngx.shared.DICT
@@ -30,9 +35,3 @@
 #### phase
 #### cosocket
 #### nonblocking I/O
-
-### flame graph
-#### on-CPU/off-CPU
-#### nginx-systemtap-toolkit
-#### stapxx
-#### nginx-gdb-utils
