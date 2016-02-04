@@ -6,6 +6,7 @@
 - 测试驱动开发(TDD)
 - 微服务
 - RESTful API
+- C10K & C1M
 
 ## 测试
 
@@ -25,9 +26,9 @@
 - Yii
 
 ## API & Microservice
-- mashape
+- KONG
 - Swagger
-
+- 
 ## 安全
 - SQL 注入
 - XSS

@@ -5,26 +5,23 @@
 - Microservice
 - Domain Specific Language(DSL)
 - C10K & C1M
-- asynchronous I/O
+- non-blocking & asynchronous I/O
 - event loop
 - coroutine
-- non-blocking
 
 ## around tech stack
-- MySQL & Postgres
-- Redis & MongoDB
-- Spark & Hadoop
+- MySQL
+- Redis
 - Kafka
 - Docker
 - KONG
-- gelato | swagger
-- curl & ab & wrk
 - regex
 
 ## testing
 - TDD & Unit Testing
 - Test::Nginx
 - mocking
+- curl & ab & wrk
 
 ## debugging
 - debugging log
@@ -43,13 +40,18 @@
 - lua-resty-shcache
 
 ## NGINX
-
-## Lua
+- log
+- static file
+- proxy
+- phase
 
 ## LuaJIT
+- JIT（Just-In-Time Compiler）
+- NYI (Not Yet Implemented)
 - ffi.* API
 - jit.* Library
 
 ## ngx_lua
-- phase
-- cosocket
+- resty-core
+- cosocket TCP/UDP
+- hot load lua code
