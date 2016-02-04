@@ -1,11 +1,30 @@
 ## OpenResty 技术图谱
+### basic concepts
+#### Test Driven Development(TDD)
+#### RESTful API
+#### Microservice
+#### Domain Specific Language(DSL)
+#### C10K & C1M
+#### asynchronous I/O
+#### event loop
+#### coroutine
+#### non-blocking
+
+### around tech stack
+#### MySQL & Postgres
+#### Redis & MongoDB
+#### Spark & Hadoop
+#### Kafka
+#### Docker
+#### KONG
+#### gelato | swagger
+#### curl & ab & wrk
+#### regex
 
 ### testing
-#### Test Driven Development (TDD)
+#### TDD & Unit Testing
 #### Test::Nginx
-#### lua-resty-test
 #### mocking
-#### code cover:luacov
 
 ### debugging
 #### debugging log
@@ -34,4 +53,3 @@
 ### ngx_lua
 #### phase
 #### cosocket
-#### nonblocking I/O

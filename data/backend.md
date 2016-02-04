@@ -3,8 +3,8 @@
 - 异步、同步
 - 阻塞、非阻塞
 - 领域专用语言（DSL）
-- 微服务
 - 测试驱动开发(TDD)
+- 微服务
 - RESTful API
 
 ## 测试
@@ -23,6 +23,10 @@
 - OpenResty
 - Tornado
 - Yii
+
+## API & Microservice
+- mashape
+- Swagger
 
 ## 安全
 - SQL 注入
