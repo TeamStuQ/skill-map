@@ -20,14 +20,13 @@
 ## testing
 - TDD & Unit Testing
 - Test::Nginx
-- mocking
 - curl & ab & wrk
 
 ## debugging
 - debugging log
 - core dump
 - flame graph
-- on-CPU/off-CPU
+- on-CPU & off-CPU
 - nginx-systemtap-toolkit
 - stapxx
 - nginx-gdb-utils
@@ -42,16 +41,22 @@
 ## NGINX
 - log
 - static file
+- load balancer
 - proxy
 - phase
+- zero copy
+- tuning for performance
+- if is evil
 
 ## LuaJIT
 - JIT（Just-In-Time Compiler）
 - NYI (Not Yet Implemented)
-- ffi.* API
-- jit.* Library
+- ffi.\* API
+- jit.\* Library
 
 ## ngx_lua
+- directives
+- Nginx API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
 - resty-core
 - cosocket TCP/UDP
 - hot load lua code
