@@ -1,7 +1,7 @@
 # OpenResty 技术图谱
 ## basic concepts
 - Test Driven Development(TDD)
-- RESTful API
+- RESTful API & API GateWay
 - Microservice
 - Domain Specific Language(DSL)
 - C10K & C1M
@@ -58,5 +58,8 @@
 - directives
 - Nginx API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
 - resty-core
+- semaphore
+- balancer_by_lua
+- ssl_certificate_by_lua
 - cosocket TCP/UDP
 - hot load lua code
