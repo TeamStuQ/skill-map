@@ -11,8 +11,8 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 ------- | ---- | ---- | ---- | 
 [**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜归档｜脑图
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|
-[**# Server 后端**]()|||｜｜
-|- OpenResty|@温铭｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜脑图
+[**# Server 后端**]()|||
+|[- OpenResty](https://github.com/TeamStuQ/skill-map/blob/master/data/map-OpenResty.md)|[@温铭](https://github.com/moonbingbing)｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜脑图
 [**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜归档｜脑图
 |- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档｜脑图
 [- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Container.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||[推荐](https://github.com/TeamStuQ/skill-map/issues/20)｜归档｜脑图
