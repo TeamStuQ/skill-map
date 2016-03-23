@@ -199,7 +199,7 @@
 
 ## 安全
 - Firewall
-- DDOS
+- DDoS
 - iptables
 - WAF
 - IDS/IPS
