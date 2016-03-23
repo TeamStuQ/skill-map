@@ -30,7 +30,7 @@
 	- Java
 	- Python
 	- Go
-	- Javascript
+	- JavaScript
 	- PHP
 	- Ruby
 	- Clojure
@@ -61,7 +61,7 @@
 ## 应用
 - 前端应用
     - Web 应用
-      - Javascript/Ajax
+      - JavaScript/Ajax
       - HTML/CSS
     - 桌面虚拟化
     - 移动应用
@@ -148,12 +148,12 @@
   - 缓存
 	    - Memcached
 	    - Redis
-	    - AWS Elastics Cache
+	    - AWS ElastiCache
 
   - 检索
 	    - Solr
-	    - Elasticssearch
-	    - AWS Elastics Search
+	    - Elasticsearch
+	    - AWS Elasticsearch
 
   - 大数据
 	- 语言、工具
