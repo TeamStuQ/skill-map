@@ -42,7 +42,6 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 - CTO
 - 分布式数据库开发
 - IoT 物联网
-- Haskell 语言
 - Android 开发
 - Ruby 语言
 - Java 语言
