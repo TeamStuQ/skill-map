@@ -33,6 +33,7 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 [- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Golang.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|[推荐](https://github.com/TeamStuQ/skill-map/issues/17)｜归档｜脑图
 [- Clojure](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Clojure.md)|[@Loretta ](https://github.com/lorettahe) ｜SwiftKey 软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/25)｜归档｜脑图
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuite（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
+[- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/31)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
