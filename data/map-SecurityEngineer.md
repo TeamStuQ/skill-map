@@ -46,12 +46,12 @@
 - 《鸟哥的Linux私房菜》
 
 ### Vim 基础
-- [实战技能](http://coolshell.cn/articles/5426.html)
+- [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
 
 ### Python 基础
 - [官方文档](https://www.python.org/dev/peps/pep-0008/)
 - [笨办法学 Python](http://learnpythonthehardway.org/book)
-- 《Python核心编程2》
+- 《Python 核心编程2》
 
 ### 算法
 - 快排
@@ -62,8 +62,8 @@
    - Kodos
    - RegexBuddy
    - Regexper
-- [《正则表达式30分钟入门教程》](http://deerchao.net/tutorials/regex/regex.htm)
-- [《Python正则表达式操作指南》](http://wiki.ubuntu.org.cn/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97)
+- [《正则表达式 30 分钟入门教程》](http://deerchao.net/tutorials/regex/regex.htm)
+- [《Python 正则表达式操作指南》](http://wiki.ubuntu.org.cn/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97)
 - 《精通正则表达式》
 
 ### 研发能力
@@ -90,7 +90,7 @@
 ## Web安全
 
 ### Web服务组件
-- ![Web服务组件层级图](http://blog.knownsec.com/Knownsec_RD_Checklist/res/web_component.png)
+- ![Web 服务组件层级图](http://blog.knownsec.com/Knownsec_RD_Checklist/res/web_component.png)
 - [钟馗之眼](http://zoomeye.org)
 
 ### 安全维度
