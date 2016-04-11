@@ -159,7 +159,7 @@
 - 《Web之困》
 - 《SQL注入攻击与防御》
 - papers
-   - [exploit-db](http://www.exploit-db.com/papers/)
+   - [exploit-db.com/papers](http://www.exploit-db.com/papers/)
    - BlackHat/Defcon/XCon/KCon/国内各安全沙龙
 
 ## 嵌入式安全
@@ -301,7 +301,7 @@
 - Linux 作为电脑默认操作系统
 
 #### 前端
-- DOM
+- 了解 DOM
    - 《JavaScript DOM编程艺术》
    - 前端安全必要基础
 - 库
