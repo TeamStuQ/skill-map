@@ -37,6 +37,7 @@
 - dog-pile effect
 - lua-resty-lock
 - lua-resty-shcache
+- ngx_srcache
 
 ## NGINX
 - log
@@ -54,12 +55,12 @@
 - ffi.\* API
 - jit.\* Library
 
-## ngx_lua
+## ngx\_lua
 - directives
 - Nginx API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
 - resty-core
 - semaphore
-- balancer_by_lua
-- ssl_certificate_by_lua
+- balancer\_by\_lua
+- ssl\_certificate\_by\_lua
 - cosocket TCP/UDP
 - hot load lua code
