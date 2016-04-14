@@ -1,6 +1,6 @@
 # OpenResty 技术图谱
 ## basic concepts
-- Test Driven Development(TDD)
+- HTTP
 - RESTful API & API GateWay
 - Microservice
 - Domain Specific Language(DSL)
@@ -8,6 +8,7 @@
 - non-blocking & asynchronous I/O
 - event loop
 - coroutine
+- Test Driven Development(TDD)
 
 ## around tech stack
 - MySQL
@@ -45,11 +46,11 @@
 - load balancer
 - proxy
 - phase
-- zero copy
 - tuning for performance
 - if is evil
 
 ## LuaJIT
+- Standard Lua
 - JIT（Just-In-Time Compiler）
 - NYI (Not Yet Implemented)
 - ffi.\* API
