@@ -1,6 +1,6 @@
 # OpenResty 技术图谱
 ## basic concepts
-- Test Driven Development(TDD)
+- HTTP
 - RESTful API & API GateWay
 - Microservice
 - Domain Specific Language(DSL)
@@ -8,6 +8,7 @@
 - non-blocking & asynchronous I/O
 - event loop
 - coroutine
+- Test Driven Development(TDD)
 
 ## around tech stack
 - MySQL
@@ -37,6 +38,7 @@
 - dog-pile effect
 - lua-resty-lock
 - lua-resty-shcache
+- ngx_srcache
 
 ## NGINX
 - log
@@ -44,22 +46,22 @@
 - load balancer
 - proxy
 - phase
-- zero copy
 - tuning for performance
 - if is evil
 
 ## LuaJIT
+- Standard Lua
 - JIT（Just-In-Time Compiler）
 - NYI (Not Yet Implemented)
 - ffi.\* API
 - jit.\* Library
 
-## ngx_lua
+## ngx\_lua
 - directives
 - Nginx API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
 - resty-core
 - semaphore
-- balancer_by_lua
-- ssl_certificate_by_lua
+- balancer\_by\_lua
+- ssl\_certificate\_by\_lua
 - cosocket TCP/UDP
 - hot load lua code
