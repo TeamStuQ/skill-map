@@ -7,6 +7,8 @@
 - C10K & C1M
 - non-blocking & asynchronous I/O
 - event loop
+- I/O mutiplexing
+- Streaming processing
 - coroutine
 - Test Driven Development(TDD)
 
