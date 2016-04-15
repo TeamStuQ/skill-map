@@ -34,6 +34,7 @@ StuQ 技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）�
 [- Clojure](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Clojure.md)|[@Loretta ](https://github.com/lorettahe) ｜SwiftKey 软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/25)｜归档｜脑图
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuite（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/31)｜归档｜脑图
+[- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@i5ting ](https://github.com/i5ting) ｜空弦科技CTO||[推荐](https://github.com/TeamStuQ/skill-map/issues/31)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
