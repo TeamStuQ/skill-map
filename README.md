@@ -56,9 +56,17 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 2. 提供各领域的参考学习路径；
 3. 推荐各知识点相关优质资源；
 
+## 图谱 MarkDown 分级规范
+为了便于编辑和纠错更新，现统一图谱 MarkDown 文件**分级规范**如下：
+1. 根据内容考虑用" #,##,### "依次表示高级别主干分级；
+2. 次级别分支用" -,*,+ "三种符号区分；
+3. 所有“-”的优先级高于“*”；
+4. 所有“*”的优先级高于“+”；
+
 ## 加入我们
-- QQ群：254521819，加群时请备注姓名+职业。加入后请修改群名片为姓名+职业；
-- 微信群：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您进群；
+- 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@stuq.org；
+- QQ群讨论：254521819，加群时请备注姓名+职业。加入后请修改群名片为姓名+职业；
+- 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群；
 
 ## 版本信息
 
@@ -95,9 +103,15 @@ $ npm run gulp 或 gulp 或 gulp deploy
 ## 许可
 本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*转载请注明[出处](http://www.stuq.org/subject/skill-map/)。*
 
-最终解释权归 **StuQ** 所有。
+最终解释权归 **StuQ** 所有。欢迎关注 StuQ 微信公众号。
+![StuQ 微信公众号](https://github.com/TeamStuQ/skill-map/tree/master/img/StuQ-QRCode-100X100.png)
 
+## 赞助声明
 
+StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本；
+- 对于企业用户，赞助合作请联系 Raymond@stuq.org；
+- 对于个人用户，请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版；
+![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/tree/master/img/StuQMAll-QRCode-100X100.png)
 
 
 
