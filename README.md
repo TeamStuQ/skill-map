@@ -115,7 +115,7 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 - 对于企业用户，赞助合作请联系 Raymond@stuq.org；
 - 对于个人用户，请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版；
 
-![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQMall-QRCode-100X100.png)
+![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
 
 
 
