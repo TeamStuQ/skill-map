@@ -43,10 +43,13 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - CTO
 - 分布式数据库开发
 - IoT 物联网
+- DBA
 - Android 开发
 - Ruby 语言
 - Java 语言
 - Php 语言
+- Swift 语言
+- Object-C 语言
 
 欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
 
