@@ -1,5 +1,5 @@
 # StuQ 程序员技能图谱
-官网地址：**[http://skill-map.stuq.org/](http://skill-map.stuq.org/)**（官网 V2.0 产品页面建设中。。。）
+官网 Web 页面地址：**[http://skill-map.stuq.org/](http://skill-map.stuq.org/)**
 
 ## 简介
 
