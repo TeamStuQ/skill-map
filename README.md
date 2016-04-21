@@ -47,9 +47,9 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - Android 开发
 - Ruby 语言
 - Java 语言
-- Php 语言
+- PHP 语言
 - Swift 语言
-- Object-C 语言
+- Objective-C 语言
 
 欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [stuq@stuq.org](mailto:stuq@stuq.org?subject=StuQ技能图谱)。
 
@@ -119,8 +119,3 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 - 对于个人用户，请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版；
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
-
-
-
-
-
