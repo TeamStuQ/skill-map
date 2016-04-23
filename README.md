@@ -3,7 +3,7 @@
 
 ## 简介
 
-StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
+StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
 目前技能图谱已有下面几个领域：
 
@@ -35,6 +35,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuiet（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
 [- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@桑世龙（i5ting） ](https://github.com/i5ting) ｜空弦科技CTO|[原创链接](https://github.com/nodeonly/stack)|[推荐](https://github.com/TeamStuQ/skill-map/issues/35)｜归档｜脑图
+[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜点名时间资深工程师 |[原创链接]()|[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
@@ -45,7 +46,6 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - IoT 物联网
 - DBA
 - Android 开发
-- Ruby 语言
 - Java 语言
 - PHP 语言
 - Swift 语言
