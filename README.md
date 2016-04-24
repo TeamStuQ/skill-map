@@ -35,7 +35,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuiet（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
 [- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@桑世龙（i5ting） ](https://github.com/i5ting) ｜空弦科技CTO|[原创链接](https://github.com/nodeonly/stack)|[推荐](https://github.com/TeamStuQ/skill-map/issues/35)｜归档｜脑图
-[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜点名时间资深工程师 |[原创链接]()|[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
+[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜MakeHave 技术负责人 |[原创链接]()|[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
