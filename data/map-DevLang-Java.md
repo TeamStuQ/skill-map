@@ -128,28 +128,28 @@
 	* Java Servlet *
 	* JavaServer Faces *
 	* JPA *
-	- JTA *
-	- JAX-RS *
-	- Managed Beans / CDI 1.1/ DI
-	- Bean Validation
-	- JAX-WS
-	- JavaMail
-	- JACC
-	- JASPIC
-	- Java WebSocket
-	- Java JSON Processing
-	- Concurrency Utilities for JavaEE
-	- Batch processing framework
+	* JTA *
+	* JAX-RS *
+	* Managed Beans / CDI 1.1/ DI
+	* Bean Validation
+	* JAX-WS
+	* JavaMail
+	* JACC
+	* JASPIC
+	* Java WebSocket
+	* Java JSON Processing
+	* Concurrency Utilities for JavaEE
+	* Batch processing framework
 - Java Containers
 	* Tomcat / TomEE
 	* GlassFish
 - Java mid-ware
 	* Spring
 		+ Spring-Framework (Dependency Injection & AOP)
-		- Spring-Web
-		- Spring-Data
-		- Spring-security
-		- Spring-boot (Micro-service Architecture)
+		+ Spring-Web
+		+ Spring-Data
+		+ Spring-security
+		+ Spring-boot (Micro-service Architecture)
 	* Struts(MVC)
 	* Hibernate/JPA (Data Persistency)
 - Java Performance Tuning
@@ -159,9 +159,9 @@
 	* Oracle
 	* Nosql
 		+ Memcache
-		- Redis
-		- MongoDB
-		- Neo4j
+		+ Redis
+		+ MongoDB
+		+ Neo4j
 - Serialization
 	* Google protobuf
 	* Apache Avro
@@ -175,21 +175,21 @@
 	* XMPP
 - Searching/Indexing
 	* Apache Lucene
-	- Apache Solr
-	- Elasticsearch
-	- CoreNLP
+	* Apache Solr
+	* Elasticsearch
+	* CoreNLP
 - Big Data(Optional)
 	* Hadoop
 		+ Yarn (MapReduce)
-		- HDFS
-		- HBase
-		- Hive
-		- Mahout
+		+ HDFS
+		+ HBase
+		+ Hive
+		+ Mahout
 	* Spark
 		+ Spark-Core
-		- Spark-SQL
-		- Spark-machine learning
-		- Spark Streaming
+		+ Spark-SQL
+		+ Spark-machine learning
+		+ Spark Streaming
 	* Apache Storm
 - Cloud
 	* Scalable Architecture
@@ -204,10 +204,10 @@
 			- DynamoDB
 - JVM-based Programming Language
 	* Scala
-	- Groovy
-	- Clojure
-	- Kotlin
-	- http://www.oracle.com/technetwork/articles/java/architect-languages-2266279.html
+	* Groovy
+	* Clojure
+	* Kotlin
+	* http://www.oracle.com/technetwork/articles/java/architect-languages-2266279.html
 
 ###	IDE
 - IntelliJ IDEA
