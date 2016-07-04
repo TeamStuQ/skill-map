@@ -1,105 +1,105 @@
 # Java Software Engineer Skill Map
 ## Basic
 ### Core Java
-		- Java The Complete Reference Ninth Edition.pdf
-			- Core
-				- Basic Language Characteristics
-					- Data Types
-					- Syntax
-					- Control Flow
-				- Object-Oriented
-					- Class
-					- Object
-					- Method
-					- Interface
-					- Inheritance
-				- Miscellaneous
-					- Generics
-					- Autoboxing
-					- Enumerations
-					- Annotations
-				- Parallelism
-					- Multithreaded Programming
-				- Functional Programming
-					- Lambda Expression
-					- Stream API
-			- Commonly-used Libraries
-				- String Handling
-					- java.lang.String
-					- StringBuffer and StringBuilder
-					- Regular Expression
-				- java.lang.*
-				- java.util.*
-					- Collections Framework
-					- Concurrency Framework
-					- i18n or g11n
-						- Currency
-						- Data & Time
-						- Language Locale
-					- Miscellaneous Utilities
-				- java.io.*
-				- java.nio.*
-				- java.net.*
-				- java.rmi.*
-				- java.sql.*
-				- javax.sql.*
+- Java The Complete Reference Ninth Edition.pdf
+	* Core
+		+ Basic Language Characteristics
+			- Data Types
+			- Syntax
+			- Control Flow
+		+ Object-Oriented
+			- Class
+			- Object
+			- Method
+			- Interface
+			- Inheritance
+		+ Miscellaneous
+			- Generics
+			- Autoboxing
+			- Enumerations
+			- Annotations
+		+ Parallelism
+			- Multithreaded Programming
+		+ Functional Programming
+			- Lambda Expression
+			- Stream API
+	* Commonly-used Libraries
+		+ String Handling
+			- java.lang.String
+			- StringBuffer and StringBuilder
+			- Regular Expression
+		+ java.lang.*
+		+ java.util.*
+			- Collections Framework
+			- Concurrency Framework
+			- i18n or g11n
+				* Currency
+				* Data & Time
+				* Language Locale
+			- Miscellaneous Utilities
+		+ java.io.*
+		+ java.nio.*
+		+ java.net.*
+		+ java.rmi.*
+		+ java.sql.*
+		+ javax.sql.*
 ### Algorithms & Data Structure
-		- Algorithms *
-			- https://www.coursera.org/learn/java-data-structures-algorithms-2
-			- https://www.coursera.org/learn/introduction-to-algorithms
-		- Data Structures *
-			- https://en.wikipedia.org/wiki/List_of_data_structures
-			- http://www.tutorialspoint.com/data_structures_algorithms/
-		- Object Oriented Programming *
-			- head_first_design_patterns.pdf
-			- heaEffective Java 2nd Edition.pdf
-		- Computer Architecture
-			- Memory Hierarchy
-			- Parallelism
-			- Multiprocessor Systems
-		- Operating System
-			- Memory Management
-			- MemProcess Management
-			- MemFile System *
-		- Computer Network
-			- OSI Model
-			- TCP/IP
-			- HTTP / HTTPS
-###	Essentials
-		- Linux/Unix
-			- Shell commands (bash) (http://linuxcommand.org/index.php)
-				- Text Processing
-					- AWK / SED
-				- File Operation
-					- cd/ls/find/ (Pipe and I/O Redirection)
-			- VIM / Emacs ( Either of them)
-			- Shell Script(bash)
-		- Java Commonly-used 3rd-party Libraries
-			- Logging
-				- log4j
-				- slf4j
-				- logback
-			- Apache Commons
-				- commons-io
-				- commons-lang
-				- commons-math
-				- commons-codec
-				- commons-collections
-				- commons-beanutils
-				- commons-logging
-				- ...
-			- Apache HttpComponents
-			- Google Guava
-		- Software Engineering
-			- Project Organization
-				- Maven
-				- Gradle
-				- Ant + Ivy (Optional)
-			- Versioning
-				- git
-				- svn
-			- UML
-###	Front-end (Web)
+- Algorithms *
+	* https://www.coursera.org/learn/java-data-structures-algorithms-2
+	* https://www.coursera.org/learn/introduction-to-algorithms
+- Data Structures *
+	* https://en.wikipedia.org/wiki/List_of_data_structures
+	* http://www.tutorialspoint.com/data_structures_algorithms/
+- Object Oriented Programming *
+	* head_first_design_patterns.pdf
+	* heaEffective Java 2nd Edition.pdf
+- Computer Architecture
+	* Memory Hierarchy
+	* Parallelism
+	* Multiprocessor Systems
+- Operating System
+	* Memory Management
+	* MemProcess Management
+	* MemFile System *
+- Computer Network
+	* OSI Model
+	* TCP/IP
+	* HTTP / HTTPS
+### Essentials
+- Linux/Unix
+	* Shell commands (bash) (http://linuxcommand.org/index.php)
+		+ Text Processing
+			- AWK / SED
+		+ File Operation
+			- cd/ls/find/ (Pipe and I/O Redirection)
+	* VIM / Emacs ( Either of them)
+	* Shell Script(bash)
+- Java Commonly-used 3rd-party Libraries
+	* Logging
+		+ log4j
+		+ slf4j
+		+ logback
+	* Apache Commons
+		+ commons-io
+		+ commons-lang
+		+ commons-math
+		+ commons-codec
+		+ commons-collections
+		+ commons-beanutils
+		+ commons-logging
+		+ ...
+	* Apache HttpComponents
+	* Google Guava
+- Software Engineering
+	* Project Organization
+		+ Maven
+		+ Gradle
+		+ Ant + Ivy (Optional)
+	* Versioning
+		+ git
+		+ svn
+	* UML
+### Front-end (Web)
 		- Web Development (http://www.w3schools.com)
 			- HTML
 				- HTML4
