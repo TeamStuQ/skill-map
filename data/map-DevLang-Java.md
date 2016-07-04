@@ -66,6 +66,7 @@
 	* OSI Model
 	* TCP/IP
 	* HTTP / HTTPS
+
 ### Essentials
 - Linux/Unix
 	* Shell commands (bash) (http://linuxcommand.org/index.php)
@@ -100,130 +101,136 @@
 		+ git
 		+ svn
 	* UML
+
 ### Front-end (Web)
-		- Web Development (http://www.w3schools.com)
-			- HTML
-				- HTML4
-				- xhtml
-				- HTML5
-			- css
-				- css2
-				- CSS3
-			- Data Representation
-				- XML
-				- JSON
-			- Javascript
-				- Basics (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-				- Ajax
-				- AngularJS (plus)
-				- JQuery (plus)
-			- Responsive Web Page development (plus)
+- Web Development (http://www.w3schools.com)
+	* HTML
+		+ HTML4
+		+ xhtml
+		+ HTML5
+	* css
+		+ css2
+		+ CSS3
+	* Data Representation
+		+ XML
+		+ JSON
+	* Javascript
+		+ Basics (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+		+ Ajax
+		+ AngularJS (plus)
+		+ JQuery (plus)
+	* Responsive Web Page development (plus)
+
 ###	Back-end Development(Server side)
-		- JavaEE
-			- JSP *
-			- JSTL
-			- Java Servlet *
-			- JavaServer Faces *
-			- JPA *
-			- JTA *
-			- JAX-RS *
-			- Managed Beans / CDI 1.1/ DI
-			- Bean Validation
-			- JAX-WS
-			- JavaMail
-			- JACC
-			- JASPIC
-			- Java WebSocket
-			- Java JSON Processing
-			- Concurrency Utilities for JavaEE
-			- Batch processing framework
-		- Java Containers
-			- Tomcat / TomEE
-			- GlassFish
-		- Java mid-ware
-			- Spring
-				- Spring-Framework (Dependency Injection & AOP)
-				- Spring-Web
-				- Spring-Data
-				- Spring-security
-				- Spring-boot (Micro-service Architecture)
-			- Struts(MVC)
-			- Hibernate/JPA (Data Persistency)
-		- Java Performance Tuning
-			- java performance the definitive guide.pdf
-		- Database
-			- MySQL
-			- Oracle
-			- Nosql
-				- Memcache
-				- Redis
-				- MongoDB
-				- Neo4j
-		- Serialization
-			- Google protobuf
-			- Apache Avro
-		- Java RPC
-			- Apache Thrift
-			- Motan
-		- MessageQueue
-			- AMQP - RabbitMQ
-			- Apache Kafka
-		- Messaging
-			- XMPP
-		- Searching/Indexing
-			- Apache Lucene
-			- Apache Solr
-			- Elasticsearch
-			- CoreNLP
-		- Big Data(Optional)
-			- Hadoop
-				- Yarn (MapReduce)
-				- HDFS
-				- HBase
-				- Hive
-				- Mahout
-			- Spark
-				- Spark-Core
-				- Spark-SQL
-				- Spark-machine learning
-				- Spark Streaming
-			- Apache Storm
-		- Cloud
-			- Scalable Architecture
-				- VM
-					- OpenStack
-				- Container
-					- Docker
-			- Hands-on
-				- Amazon AWS
-					- EC2
-					- S3
-					- DynamoDB
-		- JVM-based Programming Language
-			- Scala
-			- Groovy
-			- Clojure
-			- Kotlin
-			- http://www.oracle.com/technetwork/articles/java/architect-languages-2266279.html
+- JavaEE
+	* JSP *
+	* JSTL
+	* Java Servlet *
+	* JavaServer Faces *
+	* JPA *
+	- JTA *
+	- JAX-RS *
+	- Managed Beans / CDI 1.1/ DI
+	- Bean Validation
+	- JAX-WS
+	- JavaMail
+	- JACC
+	- JASPIC
+	- Java WebSocket
+	- Java JSON Processing
+	- Concurrency Utilities for JavaEE
+	- Batch processing framework
+- Java Containers
+	* Tomcat / TomEE
+	* GlassFish
+- Java mid-ware
+	* Spring
+		+ Spring-Framework (Dependency Injection & AOP)
+		- Spring-Web
+		- Spring-Data
+		- Spring-security
+		- Spring-boot (Micro-service Architecture)
+	* Struts(MVC)
+	* Hibernate/JPA (Data Persistency)
+- Java Performance Tuning
+	* java performance the definitive guide.pdf
+- Database
+	* MySQL
+	* Oracle
+	* Nosql
+		+ Memcache
+		- Redis
+		- MongoDB
+		- Neo4j
+- Serialization
+	* Google protobuf
+	* Apache Avro
+- Java RPC
+	* Apache Thrift
+	* Motan
+- MessageQueue
+	* AMQP - RabbitMQ
+	* Apache Kafka
+- Messaging
+	* XMPP
+- Searching/Indexing
+	* Apache Lucene
+	- Apache Solr
+	- Elasticsearch
+	- CoreNLP
+- Big Data(Optional)
+	* Hadoop
+		+ Yarn (MapReduce)
+		- HDFS
+		- HBase
+		- Hive
+		- Mahout
+	* Spark
+		+ Spark-Core
+		- Spark-SQL
+		- Spark-machine learning
+		- Spark Streaming
+	* Apache Storm
+- Cloud
+	* Scalable Architecture
+		+ VM
+			- OpenStack
+		+ Container
+			- Docker
+	* Hands-on
+		+ Amazon AWS
+			- EC2
+			- S3
+			- DynamoDB
+- JVM-based Programming Language
+	* Scala
+	- Groovy
+	- Clojure
+	- Kotlin
+	- http://www.oracle.com/technetwork/articles/java/architect-languages-2266279.html
+
 ###	IDE
-		- IntelliJ IDEA
-		- NetBeans
-		- Eclipse
+- IntelliJ IDEA
+- NetBeans
+- Eclipse
+
 ###	Typical Java Applications
-		- Online Chatting (Web/Desktop System)
-		- Library Management System (Web System)
-		- Ticket Booking System(RESTful Web Service)
-		- HTTP File Downloader (Console / Desktop)
-		- P2P File Sharing (Console / Desktop)
-		- Blogging System (Web / REST)
-		- RDBMS UI Toolkit (Web /Desktop)
+- Online Chatting (Web/Desktop System)
+- Library Management System (Web System)
+- Ticket Booking System(RESTful Web Service)
+- HTTP File Downloader (Console / Desktop)
+- P2P File Sharing (Console / Desktop)
+- Blogging System (Web / REST)
+- RDBMS UI Toolkit (Web /Desktop)
+
 ###	Desktop Development
-		- awt
-		- Applet
-		- swing
-		- Netbeans Platform
-		- JavaFX
-		- swt
+- awt
+- Applet
+- swing
+- Netbeans Platform
+- JavaFX
+- swt
+
 ###	Mobile Development
-		- Android
-		- JavaME
+- Android
+- JavaME
