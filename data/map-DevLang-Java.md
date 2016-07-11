@@ -53,7 +53,7 @@
 	* http://www.tutorialspoint.com/data_structures_algorithms/
 - Object Oriented Programming *
 	* head_first_design_patterns.pdf
-	* heaEffective Java 2nd Edition.pdf
+	* Effective Java 2nd Edition.pdf
 - Computer Architecture
 	* Memory Hierarchy
 	* Parallelism
