@@ -13,7 +13,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|
 |[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯 Web 前端开发高级工程师|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜脑图
 [**# Server 后端**]()|||
-|[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑](https://github.com/moonbingbing)｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图]()
+|[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑]()｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图]()
 |[- OpenResty](https://github.com/TeamStuQ/skill-map/blob/master/data/map-OpenResty.md)|[@温铭](https://github.com/moonbingbing)｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 [**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-CloudComputing.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
 |- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档｜脑图
