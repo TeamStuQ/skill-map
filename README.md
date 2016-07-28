@@ -13,6 +13,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|
 |[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯 Web 前端开发高级工程师|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜脑图
 [**# Server 后端**]()|||
+|[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑](https://github.com/moonbingbing)｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图]()
 |[- OpenResty](https://github.com/TeamStuQ/skill-map/blob/master/data/map-OpenResty.md)|[@温铭](https://github.com/moonbingbing)｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 [**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-CloudComputing.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
 |- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档｜脑图
@@ -35,14 +36,13 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuiet（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
 [- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@桑世龙（i5ting） ](https://github.com/i5ting) ｜空弦科技CTO|[原创链接](https://github.com/nodeonly/stack)|[推荐](https://github.com/TeamStuQ/skill-map/issues/35)｜归档｜脑图
-[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜MakeHave 技术负责人 ||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
+[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
 [- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei ](https://github.com/zhangwei217245) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
 [**# 开发工具**]()||||||
 [- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜无限极全栈工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
-- 架构师
 - 服务端开发
 - CTO
 - 分布式数据库开发
@@ -52,6 +52,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - PHP 语言
 - Swift 语言
 - Objective-C 语言
+- C++ 语言
+- C# 语言
 
 欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@stuq.org。
 
