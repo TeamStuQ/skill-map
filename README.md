@@ -1,7 +1,5 @@
 # StuQ 程序员技能图谱
-官网 Web 页面地址：**[http://skill-map.stuq.org/](http://skill-map.stuq.org/)**
-
-获取纸质版技能图谱，请扫描页面下方二维码，以赞助形式获赠技能图谱。
+官网 Web 页面地址：**[http://skill-map.stuq.org/](http://skill-map.stuq.org/)**，也可扫描页面下方二维码，以赞助形式获赠技能图谱纸质版。
 
 ## 简介
 
