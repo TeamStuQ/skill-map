@@ -1,4 +1,4 @@
-## 基础知识
+# 基础知识
 
 - HTTP
     - HEADER
@@ -30,6 +30,13 @@
 - Laravel
 - Symfony
 - Yii/CI/THinkPHP
+
+## PHP手册&代码规范
+
+- [PHP手册](http://php.net/manual/zh/)
+- [php-langspec](https://github.com/php/php-langspec)
+- [PHP-FIG](https://github.com/php-fig/fig-standards)
+
 
 ## Extentions
 
