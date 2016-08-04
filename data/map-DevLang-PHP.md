@@ -1,5 +1,5 @@
-## PHP 工程师技能图谱
-### 基础知识
+# PHP 工程师技能图谱
+## 基础知识
 
 - HTTP
     - HEADER
@@ -24,7 +24,7 @@
     - Trait
 
 
-### 框架
+## 框架
 
 - Yaf/Phalcon
 - Swoole
@@ -32,14 +32,14 @@
 - Symfony
 - Yii/CI/THinkPHP
 
-### PHP手册&代码规范
+## PHP手册&代码规范
 
 - [PHP手册](http://php.net/manual/zh/)
 - [php-langspec](https://github.com/php/php-langspec)
 - [PHP-FIG](https://github.com/php-fig/fig-standards)
 
 
-### Extentions
+## Extentions
 
 - PHP 扩展开发
 - 常用扩展
@@ -50,14 +50,15 @@
     - swoole
     - opcache
 
-### PHP Debugging
+## PHP Debugging
+
 - print_r/var_dump/var_export/debug_zval_dump
 - Xdebug
 - error_reporting/display_errors/error_log/log_errors
 - XHProf
 - Chrome Console
 
-### 技术周边
+## 技术周边
 
 - Nginx/Apache
 - Mysql/Redis/MongoDB/Memched
@@ -67,12 +68,13 @@
 - Thrift/Grpc/Yar
 - Sphinx/Solr/Elasticsearch
 
-### 开发工具
+## 开发工具
+
 - zsh/shell
 - VIM/Sublime
 - SVN/Git
 
-### PHP源码 & 内核
+## PHP源码 & 内核
 
 - PHP生命周期
 - SAPI
