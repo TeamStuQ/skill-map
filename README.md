@@ -45,6 +45,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
 [- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei ](https://github.com/zhangwei217245) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
 [**# 开发工具**]()||||||
+[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
