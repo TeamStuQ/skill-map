@@ -4,12 +4,12 @@
     - HEADER
     - REQUEST
     - RESPONSE
-    - GET / POST / PUT / DELETE / PATCH / CONNECT / OPTIONS
+    - GET/POST/PUT/DELETE/PATCH/CONNECT/OPTIONS
     - HTTPS
-- TCP / UDP
+- TCP/UDP
 - DNS
-- SESSION / COOKIE
-- CGI / Fast-CGI / PHP-FPM
+- SESSION/COOKIE
+- CGI/Fast-CGI/PHP-FPM
 - 重定向
 - Restful API
 - 基础语法
@@ -25,10 +25,11 @@
 
 ## 框架
 
-- Yaf
+- Yaf/Phalcon
 - Swoole
 - Laravel
-- THinkPHP
+- Symfony
+- Yii/CI/THinkPHP
 
 ## Extentions
 
@@ -41,15 +42,27 @@
     - swoole
     - opcache
 
+## PHP Debugging
+- print_r/var_dump/var_export/debug_zval_dump
+- Xdebug
+- error_reporting/display_errors/error_log/log_errors
+- XHProf
+- Chrome Console
+
 ## 技术周边
 
-- Nginx / Apache
-- Mysql / Redis / MongoDB / Memched
+- Nginx/Apache
+- Mysql/Redis/MongoDB/Memched
 - Composer
-- Lvs / Haproxy
+- Lvs/Haproxy
 - Docker
-- SVN / Git
-- Thrift / Grpc / Yar
+- Thrift/Grpc/Yar
+- Sphinx/Solr/Elasticsearch
+
+## 开发工具
+- zsh/shell
+- VIM/Sublime
+- SVN/Git
 
 ## PHP源码 & 内核
 
