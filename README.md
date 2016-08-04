@@ -31,8 +31,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-iOSEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
 [**# 智能硬件**]()|||||
 [- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-EmbeddedEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|[推荐](https://github.com/TeamStuQ/skill-map/issues/21)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
-[**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜无限极全栈工程师|[原创链接](https://github.com/jamsonwoo/StuQ_skill-map)|[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
-[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Golang.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|[推荐](https://github.com/TeamStuQ/skill-map/issues/17)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-Dev-Golang.md)｜脑图
+[**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|[原创链接](https://github.com/jamsonwoo/StuQ_skill-map)|[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
+[- Golang](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Golang.md)|[@谢孟军 ](https://github.com/astaxie) ｜Apple 资深技术专家|[原创链接](https://github.com/astaxie/build-web-application-with-golang)|[推荐](https://github.com/TeamStuQ/skill-map/issues/17)｜归档｜脑图
 [- Clojure](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Clojure.md)|[@Loretta ](https://github.com/lorettahe) ｜SwiftKey 软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/25)｜归档｜脑图
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuiet（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
@@ -40,7 +40,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
 [- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei ](https://github.com/zhangwei217245) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
 [**# 开发工具**]()||||||
-[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜无限极全栈工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
+[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
 
 以及**正在建设中**的领域：
 
