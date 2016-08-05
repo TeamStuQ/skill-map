@@ -1,13 +1,5 @@
 # Android ROM 开发技能图谱
 
-前几天发了一个Android App开发的技能图谱, 大家也都比较感兴趣, 有人问我有没有关于ROM的知识体系介绍. 前几年倒是做了几年ROM和参考方案开发, 也整理了一些东西, 发出来大家分享之.
-
-> 有两年没有太关注ROM开发了, 可能有点滞后, 大牛们轻拍.
-
-先上图:
-![Android ROM开发技能图谱](media/14703191344210/Android%20ROM%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1.png)
-
-
 ## 1. 操作系统
 
 * Ubuntu(首选)
@@ -169,8 +161,6 @@
 * 升级优化
     * 缩减升级包
 
-------
-[Github](https://github.com/mingjunli), [博客](www.lmj.wiki), [简书](http://www.jianshu.com/users/bc1dacc65fae), [掘金](http://gold.xitu.io/user/55fea74eddb2af5b92097a64), [开发者头条](http://toutiao.io/subjects/55359)
 
 
 
