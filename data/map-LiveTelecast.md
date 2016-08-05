@@ -13,11 +13,15 @@
 
 ### 前处理
 - **美颜**
+  * GPU计算
 - **滤镜**
 - **画面风格**
 - **人脸识别**
 
 ### 编码
+- **硬件兼容性**
+- **H.264**
+- **MPEG**
 
 ### 传输
 - **CDN**
@@ -25,11 +29,40 @@
 - **TCP/IP优化**
 
 ### 解码
+- **硬件兼容性**
+- **H.264**
+- **MPEG**
 
 ### 渲染
 
 ### 音频
 - **降噪**
+- **编解码**
+  * AAC
+  * MP3
+
+### Web音视频标准
+- **WebRTC**
+  - 客户端
+    - Chrome浏览器
+      - javascript
+    - IOS
+      - ObjectC Cordova
+  - 编解码
+    - HD264
+    - VP8
+  - 穿墙服务
+    - stun
+    - turnserver/coturn
+  - signal
+    - socket.io-client
+    - socket.io
+    - signalmaster
+    - apprtc
+  - Media server
+    - janus-gateway
+    - kurento
+    - freeswitch
 
 ----
 ##应用服务
