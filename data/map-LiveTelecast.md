@@ -1,7 +1,9 @@
 
 #直播平台技术图谱
+
 ----
 ##直播
+
 ----
 ###采集
 - **iOS** 
@@ -73,13 +75,13 @@
   * MP3
 
 ### Web音视频标准
-- **WebRTC**
-  - 客户端
+ - **WebRTC**
+ - **客户端**
     - Chrome/firefox/Opera
       - javascript
     - iOS
       - ObjectC Cordova
- - ** 协议 **
+ - **协议**
   - JSEP
   - ICE
   - SIP
@@ -88,18 +90,18 @@
   - 星型
   - MCU
   - Router
-  - 编解码
+ - **编解码**
     - HD264
     - VP8
-  - 穿墙服务
+ - **穿墙服务**
     - stun
     - turnserver/coturn
-  - signal
+ - **signal**
     - socket.io-client
     - socket.io
     - signalmaster
     - apprtc
-  - Media server
+ - **Media server**
     - janus-gateway
     - kurento
     - freeswitch
@@ -147,4 +149,3 @@
  - **HTTPSQS**
  - **Resque**
 - **运维**
-
