@@ -5,28 +5,57 @@
 ----
 ###采集
 - **iOS** 
+  * HTTP Live Streaming
+  * DirectShow
 - **Android**
-  * 机型适配
+  * setPreviewCallback
+  * MediaRecorder
+  * ffmpeg
+  * getstreamer
+ * 机型适配
 - **PC** 
-  * 摄像头驱动
+ * mjpg-streame
+ * jpeg
+ * 摄像头驱动
 - **摄像机**
 
 ### 前处理
-- **美颜**
-  * GPU计算
-- **滤镜**
-- **画面风格**
-- **人脸识别**
+ - **美颜**
+ - **GPU计算**
+     * OpenCL
+     * DirectCompute
+     * GPGPU
+     * C++AMP
+ - **滤镜**
+ - **画面风格**
+  * GPUImage
+ - **人脸识别**
+   * 人脸特征点的识别
+   * 整幅人脸图像的识别
+   * 模板的识别
+   * 经网络进行识别
 
 ### 编码
-- **硬件兼容性**
-- **H.264**
-- **MPEG**
+ - **硬件兼容性**
+ - **iOS**
+  * VideoToolbox.framework
+ - **H.264**
+ - **H.265**
+ - **MPEG**
 
 ### 传输
-- **CDN**
-- **云服务**
-- **TCP/IP优化**
+ - **方案**
+  * Socket
+  * HTTP
+  * RTP/RTSP
+ - **CDN**
+ - **云服务**
+ - **TCP/IP优化**
+
+### 服务器处理
+ - **RTMP**
+ - **HLS**
+ - **FLV**
 
 ### 解码
 - **硬件兼容性**
@@ -37,34 +66,28 @@
 
 ### 音频
 - **降噪**
+ * Kamath
+ * Rangachari
 - **编解码**
   * AAC
   * MP3
-- **Noise suppression（背景噪声消除）**
-- **AGC（自动增益）**
-
-### 流媒体传输协议
-- **HLS，延迟较大**
-- **RTMP，延迟较小**
-- **RTSP，延迟较小**
-
-### 直播分类###
-- **交互直播，对直播延迟容忍度低，媒体服务器直连**
-- **单向直播，对直播延迟容忍度高，通过CDN分发给用户**
-
-### 直播指标###
-- **延迟时间**
-- **分辨率与带宽**
-- **首屏时间**
-- **卡顿与丢包率**
 
 ### Web音视频标准
 - **WebRTC**
   - 客户端
-    - Chrome浏览器
+    - Chrome/firefox/Opera
       - javascript
-    - IOS
+    - iOS
       - ObjectC Cordova
+ - ** 协议 **
+  - JSEP
+  - ICE
+  - SIP
+  - WebSocket
+ - **通讯方式**
+  - 星型
+  - MCU
+  - Router
   - 编解码
     - HD264
     - VP8
@@ -93,8 +116,35 @@
 ----
 ## 统计服务
 - **数据库**
+ - **PostgreSQL**
+ - **MySQL**
+ - **MongoDB**
+ - **Redis**
+ - **HBase**
 - **缓存**
+ - **Nginx**
+ - **Squid**
+ - **Varnish**
 - **分布式文件系统**
+ - **Ceph**
+ - **GlusterFS**
+ - **MooseFS**
+ - **MogileFS**
+ - **FastDFS**
+ - **HDFS**
+ - **OpenAFS**
+ - **GFS**
+ - **KFS**
+ - **TFS**
 - **消息队列**
+ - **RabbitMQ**
+ - **ActiveMQ**
+ - **Kafka**
+ - **MetaQ**
+ - **NSQ**
+ - **ZeroMQ**
+ - **MemcacheQ**
+ - **HTTPSQS**
+ - **Resque**
 - **运维**
 
