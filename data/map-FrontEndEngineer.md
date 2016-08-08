@@ -6,9 +6,10 @@
 	  - Chrome/Chromium (Blink)
 	  - Safari (WebKit)
 	  - Opera (Blink)
+	  - Edge (Edge)
 
 ## 编程语言
-	  - JavaScript/Node.js
+	  - JavaScript / ECMAScript
 	  - CoffeeScript
 	  - TypeScript
 
