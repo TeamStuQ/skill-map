@@ -29,6 +29,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@陈晔（Monkey）](https://github.com/monkeytest15)｜蚂蚁金服资深测试开发专家||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
 [**# 移动开发**]()|||||
 [- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-iOSEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
+[- Android App 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidDev.md)|[@mingjunli](https://github.com/mingjunli) ｜|[原创链接](http://www.jianshu.com/p/39c63eff3c36)|
+[- Android ROM 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidROMDev.md)|[@mingjunli](https://github.com/mingjunli) ｜|[原创链接](http://www.jianshu.com/p/0a4a33e63338)|
 [**# 智能硬件**]()|||||
 [- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-EmbeddedEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|[推荐](https://github.com/TeamStuQ/skill-map/issues/21)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
 [**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|[原创链接](https://github.com/jamsonwoo/StuQ_skill-map)|[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
@@ -128,6 +130,8 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
+
+
 
 
 
