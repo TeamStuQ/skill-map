@@ -56,7 +56,7 @@
 - 内联优化
 
 ### 工具优化
-- Oprofile
+- OProfile
 - Gprof
 - JDK工具
 
