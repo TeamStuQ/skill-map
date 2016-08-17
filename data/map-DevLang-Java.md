@@ -82,6 +82,14 @@
 		+ log4j
 		+ slf4j
 		+ logback
+	* Unit Test
+		+ Junit
+		+ Mockito
+		+ TestNG
+	* Code Coverage
+		+ jacoco
+		+ Clover
+		+ EMMA
 	* Apache Commons
 		+ commons-io
 		+ commons-lang
