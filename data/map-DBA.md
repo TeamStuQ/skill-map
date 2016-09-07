@@ -1,9 +1,9 @@
-# DBA技能图谱
+﻿# DBA技能图谱
 ## 网络
 - TCP/IP协议
 - 工具
-  * tcpdump
-  * ss
+    * tcpdump
+    * ss
 ## 数据库类型
 - 关系型
     * oracle,MySQL,DB2,SQLserver
@@ -17,16 +17,18 @@
     * SQLite,TimesTen
 ## 运维工具
 - 部署
-    + saltstack,puppet,ansible
+    * saltstack,puppet,ansible
 - 监控
-    + cati,zabbix,nigos
+    * cati,zabbix,nigos
 ## linux基础
 - 常用命令
+    * ![alt 常用命令](https://github.com/MiliOnE/skill-map/blob/master/data/map-DBA-comands.png?raw=true)
 - 文件系统
-     * ext4
-     * xfs
+    * ext4
+    * xfs
 - io调度
-     + deadline,noop,cfq
+    * deadline,noop,cfq
+    * ![alt io调度](https://github.com/MiliOnE/skill-map/blob/master/data/map-DBA-io.jpg?raw=true)
 ## 硬件
 - RAID卡
     * 读写策略
