@@ -2,8 +2,8 @@
 ## 网络
 - TCP/IP协议
 - 工具
-  * tcpdump
-  * ss
+* tcpdump
+* ss
 ## 数据库类型
 - 关系型
     * oracle,MySQL,DB2,SQLserver
@@ -22,11 +22,16 @@
     + cati,zabbix,nigos
 ## linux基础
 - 常用命令
+
+  + ![Alt io.jpg](https://github.com/MiliOnE/skill-map/blob/master/img/io.jpg)
+
+
 - 文件系统
-     * ext4
-     * xfs
+  * ext4
+  * xfs
 - io调度
-     + deadline,noop,cfq
+  + deadline,noop,cfq
+  + ![Alt common comands.png.jpg](https://github.com/MiliOnE/skill-map/blob/master/img/common%20comands.png)
 ## 硬件
 - RAID卡
     * 读写策略
