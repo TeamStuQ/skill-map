@@ -101,6 +101,11 @@
 		+ ...
 	* Apache HttpComponents
 	* Google Guava
+	* HTML, XML Parser
+		+ Jsoup
+		+ SAX
+		+ JDOM
+		+ Dom4j
 - Software Engineering
 	* Project Organization
 		+ Maven
@@ -184,6 +189,11 @@
 - Java RPC
 	* Apache Thrift
 	* Motan
+	* Dubbo
+	* gRPC
+- Network Application Framework
+	* Apache MINA
+	* Netty
 - MessageQueue
 	* AMQP - RabbitMQ
 	* Apache ActiveMQ
