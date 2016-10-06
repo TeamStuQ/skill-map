@@ -1,9 +1,11 @@
-﻿# DBA技能图谱
+# DBA技能图谱
+
 ## 网络
 - TCP/IP协议
 - 工具
     * tcpdump
     * ss
+
 ## 数据库类型
 - 关系型
     * oracle,MySQL,DB2,SQLserver
@@ -15,11 +17,13 @@
     * HBase,Cassandra
 - 内存数据库
     * SQLite,TimesTen
+
 ## 运维工具
 - 部署
     * saltstack,puppet,ansible
 - 监控
     * cati,zabbix,nigos
+
 ## linux基础
 - 常用命令
     * ![alt 常用命令](https://github.com/MiliOnE/skill-map/blob/master/data/map-DBA-comands.png?raw=true)
@@ -28,7 +32,9 @@
     * xfs
 - io调度
     * deadline,noop,cfq
+    * The Linux  I/O Stack Diagram
     * ![alt io调度](https://github.com/MiliOnE/skill-map/blob/master/data/map-DBA-io.jpg?raw=true)
+
 ## 硬件
 - RAID卡
     * 读写策略
@@ -39,9 +45,11 @@
 - SSD
 - 网卡
 - PCI-E/NVMe
+
 ## 开发语言
 - python,shell,perl
 - java,C/C++,go
+
 ## 数据库技能
 - 理论知识
     * B*树/B-树/hash/索引原始结构等
@@ -50,7 +58,7 @@
     * 锁机制 行锁/死锁/mutex锁等
     * innodb读写相关操作的原理
     * 分布式事务
-- 备份 恢复
+- 备份/恢复
     * xtrabackup
     * mysqldump
     * mydumper/myloader
@@ -83,6 +91,7 @@
     * pt-tools
     * orzdba,iotop,ytop
     * pstack
+
 ## 关联软件
 - 消息队列
     * nsq
@@ -93,6 +102,8 @@
 - DNS
 - 搜索
     * ELK,Solr
+
 ## 软技能
 - 能说
 - 会写
+
