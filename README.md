@@ -18,6 +18,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[- OpenResty](https://github.com/TeamStuQ/skill-map/blob/master/data/map-OpenResty.md)|[@温铭](https://github.com/moonbingbing)｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 |[- 直播技术](https://github.com/TeamStuQ/skill-map/blob/master/data/map-LiveTelecast.md)|[@李雨来](https://github.com/blacktear23)｜SpeedyCloud 迅达云技术 VP||[推荐](https://github.com/TeamStuQ/skill-map/issues/55)｜归档｜[脑图]()
 |[- CDN 技术](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CDN.md)|[@李孟](https://github.com/x8s)｜SpeedyCloud 迅达云首席架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/72)｜归档｜[脑图]()
+|[- DNS 技术](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DNS.md)|[@李孟](https://github.com/x8s)｜SpeedyCloud 迅达云首席架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/72)｜归档｜[脑图]()
 [**# 云计算**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CloudComputing.md)|@费良宏｜AWS 首席云计算技术顾问||[推荐](https://github.com/TeamStuQ/skill-map/issues/11)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-CloudComputing.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
 |- OpenStack|@夏艳｜UnitedStack 公共关系总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/19)｜归档｜脑图
 [- 容器 Container](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Container.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师||[推荐](https://github.com/TeamStuQ/skill-map/issues/20)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Container-by-StuQ.png)
@@ -84,6 +85,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
 
 ## 版本信息
+### v 0.2.0
+- IT 技术各主要领域基本覆盖
 
 ### v 0.1.2
 - 云计算领域新增：OpenStack，容器技术
@@ -92,28 +95,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - 智能硬件领域新增：嵌入式开发
 
 ### v 0.1.1
-- 推荐StuQ 技能图谱第一版发布
-
-## 本地测试与发布
-
-安装node依赖环境：
-
-```
-$ cd skill-map
-$ npm i --save-dev
-```
-
-本地预览：
-
-```
-$ npm start
-```
-
-发布到git pages作为预览（最终以 StuQ 官网为主）：
-
-```
-$ npm run gulp 或 gulp 或 gulp deploy
-```
+- StuQ 技能图谱第一版发布
 
 ## 许可
 本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*转载请注明[出处](http://www.stuq.org/subject/skill-map/)。*
