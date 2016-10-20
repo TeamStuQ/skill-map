@@ -1,4 +1,5 @@
 # HTML5 开发技能图谱
+![脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-HTML5-by-StuQ.png)
 
 ## 基础篇
 
@@ -155,3 +156,4 @@
 - DOM操作（如jQuery，React等）
 
 - 模板引擎（如JSX	，Handlebars，JSP，Mustache等）
+
