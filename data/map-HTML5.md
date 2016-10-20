@@ -1,5 +1,5 @@
 # HTML5 开发技能图谱
-![脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-HTML5-by-StuQ.png)
+![脑图](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-HTML5-by-StuQ.png)
 
 ## 基础篇
 
