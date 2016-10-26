@@ -1,93 +1,158 @@
-# DNS 排查技术图谱
----
-## DNS 在哪
+# DNS排查技术图谱
 
-### 获得主机的地址
-#### *gethostby name*
-##### hodtname来源 
-- 自己的Hostname
-- NIS
-- SMB
-- NetBIOS
-- DNS
-- ...
+## 应用程序视角
+- 应用程序
+  - 浏览器
+     - hostname cache
+  - ping
+- 操作系统
+  - hostname cache 
+  - 域名解析器
+     - dig domain
+- 本网DNS转发器
+  - 无线路由
+     - dig@gateway_ip domain
+- Local DNS
+  - dig@localdns domain
+- 全球DNS系统
+  - 根root“.”
+  - 顶级域名 TLD
+     - gTLD
+     - ccTLD
+  - 二级域名 SLD
+  - 主机域名
+     - Here!
+     - dig+trace domain
+## 操作系统视角
+- 配置来源
+  - 配置
+     - 自动 
+        - DHCP
+            - PPPOE
+            - VPN
+            - 无线路由
+     - 手工
+  - 角色
+     - 首选DNS
+     - 备用DNS
+     - ...
+  - 附加域名后缀？
+     - 不附加
+         - FQDN
+     - 附加
+         - 默认.Local
+     - 强制不附加后缀
+         - FQDN
+             - 主机名后添加“.”结尾
+- 一般*NIX环境
+  - /etc/nsswitch.conf
+     - [wins][nis][nisplus]...
+     - dns
+         - /ect/resolv.conf
+             - Here!
+  - /ect/host.conf（旧）
+     - [nis]
+     - bind
+         - /etc/resolv.conf
+             - Here!
+  - 一般优先选择
+- Windows环境
+  - 一般顺序
+     - Checks it's own name
+     - Local hostname cache
+     - HOSTS file
+     - DNS
+         - Here！
+     - NetBIOS name cache
+     - [WINS]
+         - 开启wins
+         - 关闭wins
+     - Broadcast
+     - LMHOSTS
+  - 参考
+     -  https://technet.microsoft.com/zh-cn/library/bb457118.aspx
 
-##### addr
-- IPv6(默认优先）
-- IPv4
-- ...
+## 域名注册视角
+- 根
+  - 管理机构ICANN
+     - TLD注册
+  - TLD
+     - 所属
+         - gTLD
+             - ICANN指定
+         - ccTLD
+             - 一般XX国家信息中心
+     - 管理
+         - 注册局
+             - 注册代理（SLD)
+                 - Here!
+     - SLD
+         - 所属
+             - 域名所有者（个人、组织）
+         - 管理
+             - 自建
+             - 托管 
+         - Host
+             - Here!
+- 注册代理
+  - 注册局
+     - whois db
+         - 域名注册信息
+             - Here! 
+     - TLDzone
+         - 域名的NS
+             - Here！
+         - Glue A
 
-### 查询
-### *NIX环境
-#### /etc/nsswitch.conf
-##### files
-- /ect/host.conf
-##### [wins][nis][nisplus]...
-##### dns
-- /ect/resolv.conf
-#### /ect/host.conf（旧）
-##### hosts
-- /ect/host.conf
-##### [nis]
-##### bind
-- /ect/resolv.conf
-#### 一般优先级选择
-##### 本机
-- hosts file
-##### 内部
-- wins
-- nis
-##### 外部
-###### resolver
-- 主DNS
-- 辅DNS
-- ...
+## 国际域名视角
+- 即IDN域名
+  - 中文
+     - 繁体
+     - 简体
+  - 阿拉伯文
+  - ...
+- 浏览器角色
+  - IDN》unycode编码》普通域名
+  - Here!
+- DNS角色
+  - 普通域名
 
-### Windows环境
-#### 一般顺序
-- #Checks it's own name.
-- Local hostname cache
-- Hosts file
-- DNS
-- NetBIOS name cache
-- [WINS]
-- 开启wins
-- 关闭wins
-- Broadcast
-- LMHOSTS
-#### 参考
--  https://technet.microsoft.com/zh-cn/library/bb457118.aspx
+## 域名配置
+- zone
+  - RR资源记录
+     - 域名
+     - 资源类型
+     - Rdate 资源数据
+         - Here！
+     - TTL
+- 查询结论
+  - zone之外
+     - 拒绝+空
+  - 没有目标域名
+     - NXDomain+SOA
+  - 存在域名但缺少相应的资源类型
+     - NOERROR+SOA
+  - 直接找到目标
+     - NOERROR+目标RR
+         - Here！
 
-----
-
-## 本机 DNS 一般特征
-### 配置
-#### 自动
-##### DHCP
-- PPPOE
-- VPN
-- 无线路由
-
-#### 手动
-
-### 角色
-- 首选DNS
-- 备用DNS
-- ...
-
-### 附加域名后缀？
-- 不附加
-
-##### FQDN
-- 附加
-
-##### 默认.local
-- 强制不附加后缀
-
-##### 主机名后添加单个“.”结尾
-
-----
-
-## 完整域名
-### files dns nis+ hesiod db compat ld ap xins
+## 一般开发视角
+- gethostbyname系列
+  - hostname来源
+     - 自己的Hostname
+     - NIS
+     - SMB
+     - NetBIOS
+     - DNS
+         - Here！
+     - ...
+  - addr
+     - IPv6（如果允许默认优先）
+     - IPv4
+     - ...
+  - 操作系统
+     - GNU Linux glibc
+     - Windows winsock
+     - Linux Windows Android...
+         - JVM
 
