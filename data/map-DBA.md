@@ -8,7 +8,7 @@
 
 ## 数据库类型
 - 关系型
-    * oracle,MySQL,DB2,SQLserver
+    * Oracle,MySQL,DB2,SQLserver
 - KV型
     * Redis,RocksDB
 - 文档型
