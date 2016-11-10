@@ -230,17 +230,17 @@
 
 ## SEO
 
-### keywords/description
+- keywords/description
 
-### 合理减少pages数量
+- 合理减少pages数量
 
-### 减少图片/flash/弹窗
+- 减少图片/flash/弹窗
 
-### 外链权重不高
+- 外链权重不高
 
-### canonical/alternate
+- canonical/alternate
 
-### 提交sitemap
+- 提交sitemap
 
 ## 渲染优化
 
