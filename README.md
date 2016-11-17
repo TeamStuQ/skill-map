@@ -30,7 +30,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 [- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜归档｜脑图
 [**# 测试**]()|||||
-[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@Monkey](https://github.com/monkeytest15)｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
+[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[Monkey@Testerhome 社区](https://testerhome.com/)｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
 [**# 移动开发**]()|||||
 [- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-iOSEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
 [- Android App 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidDev.md)|[@mingjunli](https://github.com/mingjunli) ｜|[原创链接](http://www.jianshu.com/p/39c63eff3c36)|
@@ -43,8 +43,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Python](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Python.md)|[@ZoomQuiet（大妈） ](https://github.com/ZoomQuiet) ｜猎豹移动技术专家|[原创链接](http://wiki.zoomquiet.io/pythonic/Path2Pythoneer)|[推荐](https://github.com/TeamStuQ/skill-map/issues/30)｜归档｜脑图
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
 [- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@桑世龙（i5ting） ](https://github.com/i5ting) ｜空弦科技CTO|[原创链接](https://github.com/nodeonly/stack)|[推荐](https://github.com/TeamStuQ/skill-map/issues/35)｜归档｜脑图
-[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
-[- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei ](https://github.com/zhangwei217245) ｜||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
+[- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
+[- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei]](https://github.com/zhangwei217245)｜Ph.D. student in DISCL group||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
 [**# 开发工具**]()||||||
 [- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
 
@@ -115,6 +115,8 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
+
+
 
 
 
