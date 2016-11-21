@@ -44,7 +44,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- Haskell](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Haskell.md)|[@张淞 ](https://github.com/HaskellZhangSong) ｜网易杭州研究院高级开发工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/36)｜归档｜脑图
 [- Node.js](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Nodejs.md)|[@桑世龙（i5ting） ](https://github.com/i5ting) ｜空弦科技CTO|[原创链接](https://github.com/nodeonly/stack)|[推荐](https://github.com/TeamStuQ/skill-map/issues/35)｜归档｜脑图
 [- Ruby](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Ruby.md)|[@张汉东（Alex） ](https://github.com/ZhangHanDong) ||[推荐](https://github.com/TeamStuQ/skill-map/issues/40)｜归档｜脑图
-[- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei]](https://github.com/zhangwei217245)｜Ph.D. student in DISCL group||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
+[- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei](https://github.com/zhangwei217245)||[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜归档｜脑图
 [**# 开发工具**]()||||||
 [- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜归档｜脑图
 
