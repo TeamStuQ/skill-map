@@ -9,9 +9,9 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 **领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**
 ------- | ---- | ---- | ---- |
-[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端资深技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
-||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术工程师|[原创链接](https://github.com/JacksonTian/fks)|
-|[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯 Web 前端开发高级工程师|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜脑图
+[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
+||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术专家|[原创链接](https://github.com/JacksonTian/fks)|
+|[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯前端技术专家|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜脑图
 |[- HTML5 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-HTML5.md)|[@Phodal（黄峰达）](https://github.com/Phodal)｜ThoughtWorks 咨询师|[原创链接]()|[推荐](https://github.com/TeamStuQ/skill-map/issues/76)｜[归档]()｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-HTML5-by-StuQ.png)
 [**# Server 后端**]()|||
 |[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑]()｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图]()
