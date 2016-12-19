@@ -11,10 +11,10 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 ------- | ---- | ---- | ---- |
 [**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术专家|[原创链接](https://github.com/JacksonTian/fks)|
-|[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯前端技术专家|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜脑图
+|[- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯前端技术专家、IvWeb 负责人|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/16)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
 |[- HTML5 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-HTML5.md)|[@Phodal（黄峰达）](https://github.com/Phodal)｜ThoughtWorks 咨询师|[原创链接]()|[推荐](https://github.com/TeamStuQ/skill-map/issues/76)｜[归档]()｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-HTML5-by-StuQ.png)
 [**# Server 后端**]()|||
-|[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑]()｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图]()
+|[- 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Architect.md)|[@沈剑]()｜58到家技术委员会主席／技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/53)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Architect-by-StuQ.png)
 |[- OpenResty](https://github.com/TeamStuQ/skill-map/blob/master/data/map-OpenResty.md)|[@温铭](https://github.com/moonbingbing)｜奇虎服务端架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/29)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 |[- 直播技术](https://github.com/TeamStuQ/skill-map/blob/master/data/map-LiveTelecast.md)|[@李雨来](https://github.com/blacktear23)｜SpeedyCloud 迅达云技术 VP||[推荐](https://github.com/TeamStuQ/skill-map/issues/55)｜归档｜[脑图]()
 |[- CDN 技术](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CDN.md)|[@李孟](https://github.com/x8s)｜SpeedyCloud 迅达云首席架构师||[推荐](https://github.com/TeamStuQ/skill-map/issues/72)｜归档｜[脑图]()
@@ -25,7 +25,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- 微服务 MicroService](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Microservice.md)|[@王磊 ](https://github.com/wldandan)｜西安尚度元科技技术总监||[推荐](https://github.com/TeamStuQ/skill-map/issues/23)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MicroService-by-StuQ.png)
 [**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-SecurityEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Security-by-StuQ.png)
 [**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-Intelligence.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
-[- DBA](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DBA.md)|[@杨一 ]()｜杭州有赞科技有限公司 DBA 专家||[推荐](https://github.com/TeamStuQ/skill-map/issues/77)｜归档｜[脑图]()
+[- DBA](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DBA.md)|[@杨一 ]()｜杭州有赞科技有限公司 DBA 专家||[推荐](https://github.com/TeamStuQ/skill-map/issues/77)｜归档｜[脑图]((https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-DBA-by-StuQ.png))
 [**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-BigDataEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 [- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 [- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师||[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜归档｜脑图
@@ -115,13 +115,3 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
-
-
-
-
-
-
-
-
-
-
