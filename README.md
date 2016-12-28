@@ -7,7 +7,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 目前技能图谱已有下面几个领域：
 
-**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**
+**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**
 ------- | ---- | ---- | ---- |
 [**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-FrontEndEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术专家|[原创链接](https://github.com/JacksonTian/fks)|
@@ -33,8 +33,9 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 [- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@Monkey](https://testerhome.com/)｜Testerhome 社区||[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
 [**# 移动开发**]()|||||
 [- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜[归档](https://github.com/TeamStuQ/skill-map/blob/master/data/source-iOSEngineer.md)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
-[- Android App 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidDev.md)|[@anly_jun](https://github.com/mingjunli) |[原创链接](http://www.jianshu.com/p/39c63eff3c36)|
-[- Android ROM 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidROMDev.md)|[@anly_jun](https://github.com/mingjunli) |[原创链接](http://www.jianshu.com/p/0a4a33e63338)|
+[- Android App 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidDev.md)|[@anly_jun](https://github.com/mingjunli) |[原创链接](http://www.jianshu.com/p/39c63eff3c36)|[推荐](https://github.com/TeamStuQ/skill-map/issues/85)｜归档｜脑图
+[- Android ROM 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidROMDev.md)|[@anly_jun](https://github.com/mingjunli) |[原创链接](http://www.jianshu.com/p/0a4a33e63338)|[推荐](https://github.com/TeamStuQ/skill-map/issues/85)｜归档｜脑图
+[- Android 架构师](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-AndroidArchitect.md)|[顾浩鑫（ASCE1885）](https://github.com/ASCE1885)｜ 平安金融科技移动研发工程师 ||[推荐](https://github.com/TeamStuQ/skill-map/issues/85)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-AndroidArchitect-by-StuQ.png)
 [**# 智能硬件**]()|||||
 [- 嵌入式开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-EmbeddedEngineer.md)|[@Phodal（黄峰达）](https://github.com/phodal) ｜ThoughtWorks 咨询师|[原创链接](https://github.com/phodal/eks)|[推荐](https://github.com/TeamStuQ/skill-map/issues/21)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
 [**# 开发语言**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Total.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|[原创链接](https://github.com/jamsonwoo/StuQ_skill-map)|[推荐](https://github.com/TeamStuQ/skill-map/issues/18)｜归档｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
@@ -54,8 +55,6 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - CTO
 - 分布式数据库开发
 - IoT 物联网
-- DBA
-- Android 开发
 - PHP 语言
 - Swift 语言
 - Objective-C 语言
@@ -115,3 +114,5 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
+
+
