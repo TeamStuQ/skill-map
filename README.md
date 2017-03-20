@@ -7,9 +7,9 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 目前技能图谱已有下面几个领域：
 
-**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**
-------- | ---- | ---- | ---- |
-[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
+|**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**|
+|------- | ---- | ---- | ---- |
+|[**# Web 前端**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-FrontEndEngineer.md)|[@jayli（拔赤）](https://github.com/jayli/)｜阿里巴巴前端技术专家|[原创链接](https://github.com/jayli/jayli.github.com/issues/16)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
 ||[@Jackson Tian ](https://github.com/JacksonTian)｜阿里巴巴前端技术专家|[原创链接](https://github.com/JacksonTian/fks)|
 [- 移动性能优化](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobilePerformanceOptimization.md)|[@刘恒兵（河伯）](https://github.com/herbertliu)｜腾讯前端技术专家、IvWeb 负责人|[原创链接](https://github.com/herbertliu/OMS)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
 
