@@ -63,7 +63,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - C++ 语言
 - C# 语言
 
-欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@stuq.org。
+欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@geekbang.org。
 
 ## 改进目标
 
@@ -81,7 +81,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 4. 所有“*”的优先级高于“+”
 
 ## 加入我们
-- 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@stuq.org
+- 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@geekbang.org
 - QQ群讨论：254521819，加群时请备注姓名+职业。加入后请修改群名片为姓名+职业
 - 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
 
@@ -109,7 +109,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本。
 
-赞助合作请发邮件至 Raymond@stuq.org 。
+赞助合作请发邮件至 Raymond@geekbang.org 。
 
 ## 获取纸质版技能图谱
 
