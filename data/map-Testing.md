@@ -36,5 +36,14 @@
   - SQL 注入
 
 ## 压力/负载测试
-  - Jmeter
+  - [Jmeter](http://jmeter.apache.org/)
   - Tsung
+  - Httperf
+  - OpenSTA
+  - loadUI
+  - Grinder
+  - JCrawler
+  - Locust
+  - Siege
+  - http_load
+  - Webbench
