@@ -43,7 +43,7 @@
   - loadUI
   - Grinder
   - JCrawler
-  - Locust
+  - [Locust](http://locust.io/)
   - Siege
   - http_load
   - Webbench
