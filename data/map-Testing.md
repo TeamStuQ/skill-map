@@ -36,7 +36,12 @@
   - SQL 注入
 
 ## 压力/负载测试
-  - [Jmeter](http://jmeter.apache.org/)
+### 测试指标
+  - 吞吐率
+  - 吞吐量
+  - TPS
+### 测试工具
+  - [Jmeter](http://jmeter.apache.org/)
   - Tsung
   - Httperf
   - OpenSTA
