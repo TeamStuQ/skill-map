@@ -42,10 +42,10 @@
   - TPS
 ### 测试工具
   - [Jmeter](http://jmeter.apache.org/)
-    - 断言
-    - 代理
-    - 分布式
-    - 参数化
+    * 断言
+    * 代理
+    * 分布式
+    * 参数化
   - Tsung
   - Httperf
   - OpenSTA
