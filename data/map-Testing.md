@@ -42,12 +42,11 @@
   - TPS
 ### 测试工具
 - [Jmeter](http://jmeter.apache.org/)
-  * 断言
-  - Hitchhiker
-  * codeskulptor.org
-  * 代理
-  * 分布式
-  * 参数化
+  - hello
+  - 断言
+  - 代理
+  - 分布式
+  - 参数化
 - Tsung
 - Httperf
 - OpenSTA
