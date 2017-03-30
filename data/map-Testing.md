@@ -46,8 +46,8 @@
   - 断言
   - 代理
   - 分布式
+  - 参数化
 
-- 参数化
 - Tsung
 - Httperf
 - OpenSTA
