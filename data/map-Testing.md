@@ -62,6 +62,7 @@
   - 参数化
 
 - Tsung
+- [gatling](http://gatling.io/)
 - Httperf
 - OpenSTA
 - loadUI
