@@ -54,37 +54,39 @@
 	* atos
 	* xcrun
 
-## 常用UI Automation框架
+## 自动化测试框架
 - Android
-	* Instrumentation
-	* Athrun
+	* Robotframework
 	* Robotium
-	* Monkey
-	* Monkeyrunner
-	* uiautomator
-	* Selendroid
-	* Calabash*Android
-	* monkeytalk
-	* Appium
+	* Uiautomator
 	* Espresso
-	* cafe
+	* Selendroid
+	* Instrumentation
+	* MonkeyRunner
+	* Cafe
 - iOS
+	* WDA
+	* XCUITest
 	* UIAutomation(旧)
 	* XCUITesting
 	* KIF
 	* Frank
-	* Appium
-	* ios-driver
 	* Mechanic.js
-	* monkeytalk
-	* Calabash*iOS
 	* TuneupJs
-	* ynm3k
+	* Ynm3k
 - Appium
+- Calabash
 - Macaca
+- MonkeyTalk
+
+## 自动遍历工具
+- AppCrawler
+- CrashMonkey4Android
+- CrashMonkey4iOS
+- SwiftMonkey
 
 
-## 常用单元测试框架
+## 单元测试框架
 - Android
 	* robolectric
 	* Instrumentation
@@ -98,57 +100,57 @@
 	* OCMockito
 	* Expecta
 	* OCHamcrest
-
-## 常用动态更新
-- ReactNative
-- waxpatch/wax
-- ota
 		 
 ## 常用性能工具
 
-### 抓包
+### 代理工具
 - Charles
-- fiddler
-- burpsuites
-- tcpdump
-- anyproxy
+- Fiddler
+- BurpSuite
+- AnyProxy
+
+### 嗅探
+- TcpDump
+- WireShark
 
 ### 弱网模拟
-- iOS developer mode
 - ATC
 - Charles
+- Fiddler
+- BurpSuite
+- iOS developer mode
 
-### memory
+### 专项测试
 - Android
+	* monitor
 	* MAT
 	* ddms
-	* Memory Monitor
-	* Allocation Tracker
-	* LeakCanary
 	* dumpsys
 	* procrank
 	* top
 - iOS
-	* Memory Leaks
+	* Instruments工具集
+- 专项分析sdk
+	* LeakCanary
+	* BlockCanary
+	* MLeaksFinder
 
-### Scan
+### 代码分析与审计
+- Sonar
+- PMD
+- Infer
 - Android
 	* findbugs
 	* lint
-	* infer
 	* CheckStyle
-	* PMD
 - iOS
 	* scan*build
 	* oclint
-	* infer
 	* deployment
 
 ### other
 - Common
 	* 安捷伦
-	* tcpdump
-	* wireshark
 	* 高速(慢速)摄像机
 	* 埋点
 	* 腾讯GT
@@ -176,7 +178,9 @@
 	* exported/permission
 	* AndBug
 	* androguard
-	* Xposed
+	* XPosed
+	* Frida
+	* Substrate
 		
 - iOS
 	* IDB
@@ -184,6 +188,7 @@
 	* DVIA
 	* LibiMobileDevice
 	* otool
+	* Frida
 	
 ## 覆盖率
 - Android
@@ -192,29 +197,6 @@
 - iOS
     - gcov
 
-## 动态更新
-- Android
-    - Dexposed（二次开发之后）
-    - Robust
-    - android-frontia
-    - Nuwa
-    - HotFix
-    - RocooFix
-    - DroidFix
-    - AndFix 
-- iOS
-    - JSPatch
-    - WaxPatch
-- ota
-- ReactNative
-- weex					
-			
-## abtest
-- AB Tester
-- AppAdhocOptimizer
-- Google Website Optimizer
-- Visual Website Optimizer
-	
 ## 常用灰度测试工具
 - testflight
 - 蒲公英
@@ -222,31 +204,26 @@
 - pre
 
 ## 常用云测平台
-- testin
 - MQC
 - MTC
+- Testin
 
-## 常用持续集成平台／相关工具
+## 持续集成
 - Jenkins
 - Travis CI 
+- fastlane
 - Android
 	* mvn
 	* gradle
 - iOS
-	* xctool
 	* Cocoapods
 	 
 		
-## 多语言开发应用
-- SL4A
-- gomobile
-			
 
 ## 多设备远程管理平台
 - STF
+- Appium Grid
 
-## 自动遍历工具
-- AppCrawle
 
 ## 软技能
 - 知识管理/总结分享
