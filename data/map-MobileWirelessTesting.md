@@ -1,30 +1,19 @@
-# 移动无线测试技能图谱
+# 移动测试技能图谱
 
 ## 常用IDE
 - Android
-	* ADT
 	* Android Studio
+	* ADT
 - iOS
 	* Xcode
 - Common
 	* Atom
 	* Sublime Text
 	* Vim
-	* Visual Studio Code	
-
-## 基础知识
-- Android
-	* 掌握Android开发基础技能	 
-- iOS
-	* 掌握iOS开发基础技能
-- Web
-	* 掌握Web开发基础技能
-- api
-	* 掌握api相关基础知识
-- 测试
-	* 掌握基本的测试用例设计方法和思想
+	* Visual Studio Code
+	* IDEA
 		
-## 常见应用模式
+## 常见开发模式
 - Native
 - Hybrid
 - H5 App
@@ -85,6 +74,13 @@
 - CrashMonkey4iOS
 - SwiftMonkey
 
+## 接口测试
+- Rest-Assured
+- SoapUI
+- JMeter
+- RobotFrameWork
+- PostMan
+- Swagger
 
 ## 单元测试框架
 - Android
@@ -101,7 +97,7 @@
 	* Expecta
 	* OCHamcrest
 		 
-## 常用性能工具
+## 常用工具
 
 ### 代理工具
 - Charles
@@ -128,6 +124,8 @@
 	* dumpsys
 	* procrank
 	* top
+	* adb bugreport
+	* battery*historian
 - iOS
 	* Instruments工具集
 - 专项分析sdk
@@ -161,7 +159,6 @@
 	* traceview
 	* systrace
 	* GameBench
-	* battery*historian
 - iOS
 	* Core Animation(instruments)
 	* Network(instruments)
@@ -169,6 +166,8 @@
 	* Zombies(instruments)
 
 ## 安全
+- Frida
+- Cydia Substrate
 - Android
 	* Drozer
 	* apktool
@@ -179,16 +178,16 @@
 	* AndBug
 	* androguard
 	* XPosed
-	* Frida
-	* Substrate
-		
 - iOS
 	* IDB
 	* iRET
 	* DVIA
 	* LibiMobileDevice
 	* otool
-	* Frida
+- 服务端
+	* BurpSuite
+	* WVS
+	* ZAP
 	
 ## 覆盖率
 - Android
@@ -207,6 +206,7 @@
 - MQC
 - MTC
 - Testin
+- SauceLabs
 
 ## 持续集成
 - Jenkins
@@ -217,17 +217,24 @@
 	* gradle
 - iOS
 	* Cocoapods
-	 
-		
-
+	* xcodebuild
 ## 多设备远程管理平台
 - STF
 - Appium Grid
 
-
 ## 软技能
 - 知识管理/总结分享
-- 沟通技巧/团队协作
-- 需求管理/PM
-- 交互设计/可用性/可访问性知识
-- 快速的学习能力
+	* Confluence
+	* Wiki
+	* GitBook
+	* TesterHome
+- 团队协作与沟通
+- 需求管理
+	* Jira
+	* Redmine
+- 架构能力
+	* Git
+	* GitLab
+	* GitHub
+	* JVM
+	* Instrument技术体系
