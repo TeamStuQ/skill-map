@@ -5,19 +5,19 @@
 - PMD
 - Infer
 - Android
-	* findbugs
-	* lint
-	* CheckStyle
+  * findbugs
+  * AndroidLint
+  * CheckStyle
 - iOS
-	* scanbuild
-	* oclint
+  * scanbuild
+  * oclint
   
 ## 覆盖率分析
 - Android
-    * Jacoco
-    * EMMA
+  * Jacoco
+  * EMMA
 - iOS
-    * gcov
+  * gcov
 
 ## 自动化测试
 - Appium
@@ -26,29 +26,26 @@
 - MonkeyTalk
 - RobotFramework
 - Android
-	* Robotium
-	* Uiautomator
-	* Espresso
-	* Selendroid
-	* Instrumentation
-	* MonkeyRunner
-	* Cafe
+  * Robotium
+  * Uiautomator
+  * Espresso
+  * Selendroid
+  * Instrumentation
+  * MonkeyRunner
+  * Cafe
 - iOS
-	* WDA
-	* XCUITest
-	* UIAutomation[XCode8 before]
-	* KIF
-	* Frank
+  * WDA
+  * XCUITest
+  * KIF
+  * Frank
 - Web
   * selenium
-  * chrome headless
-  * web performance api
-
+  
 - 自动遍历工具
   * AppCrawler
   * CrashMonkey4Android
   * CrashMonkey4iOS
-  SwiftMonkey
+  * SwiftMonkey
 
 ## 接口测试
 - Rest-Assured
@@ -57,8 +54,6 @@
 - RobotFrameWork
 - PostMan
 - Swagger
-
-		 
 ## 常用工具
 
 ### 代理工具
@@ -72,11 +67,15 @@
 - WireShark
 
 ### 弱网模拟
-- ATC
-- Charles
-- Fiddler
-- BurpSuite
-- iOS developer mode
+- 通用
+  * ATC
+  * Charles
+  * Fiddler
+  * BurpSuite
+- iOS
+  * iOS developer mode
+- Web
+  * Chrome
 
 ### 移动端专项测试
 - Android
@@ -88,7 +87,6 @@
   * top
   * adb bugreport
   * battery*historian
-  * traceview
   * 腾讯GT
   * 网易Emmagee
 - iOS
@@ -102,18 +100,24 @@
   * MLeaksFinder
   
   
-## 服务端性能测试
-- JMeter
-- Gatling
-- nGrinder
-- SystemTap
-- DTrace
-- Perf
-- FlameGraph
+## 性能测试
+- 客户端性能测试
+  * TraceView
+  * Instruments
 
-## 移动端安全测试
-- Frida
-- Cydia Substrate
+- 服务端性能测试
+  * JMeter
+  * Gatling
+  * nGrinder
+  * SystemTap
+  * DTrace
+  * Perf
+  * FlameGraph
+
+## 安全测试
+- 移动端安全
+  * Frida
+  * Cydia Substrate
 - Android
   * Drozer
   * apktool
@@ -125,20 +129,16 @@
   * lldb
   * iExplorer
   * libimobiledevice
-## 服务端安全测试
+- 服务端安全测试
   * BurpSuite
   * WVS
   * ZAP
-  
-## 监控
-- ELK
-- graphite
-- inflexDB
-- Grafana
+ 
 ## 持续集成
-- Jenkins
-- Travis CI 
-- fastlane
+- 通用工具
+  * Jenkins
+  * Travis CI 
+  * fastlane
 - Android
   * mvn
   * gradle
@@ -165,15 +165,19 @@
 
 
 ## 软技能
-- 知识管理/总结分享
+- 知识管理
   * Confluence
   * Wiki
   * GitBook
   * TesterHome
-- 团队协作与沟通
 - 需求管理
   * Jira
   * Redmine
+- 用例与Bug管理
+  * Jira
+  * Redmine
+  * BugFree
+  * TestLink
 - 架构能力
   * Git
   * GitLab
