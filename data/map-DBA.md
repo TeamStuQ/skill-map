@@ -78,7 +78,7 @@
     * Cobar
     * OneProxy
     * Atlas
-    * mongo乐视
+    * mango乐视
     * Mycat
     * fabric
 - 优化

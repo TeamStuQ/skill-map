@@ -30,7 +30,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
-|[**# 测试**]()|||||
+|[**# 测试**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Testing.md)|[@TesterHome 社区](https://testerhome.com/)|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/15)|脑图|
 |[- 移动无线测试](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileWirelessTesting.md)|[@陈晔 Monkey](https://github.com/monkeytest15)|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/15)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
 |[**# 移动开发**]()|||||
 |[- iOS 开发](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MobileDev-iOSDev.md)|[@唐巧](https://github.com/tangqiaoboy) ｜猿题库小猿搜题产品技术负责人|[原创链接](https://gist.github.com/tangqiaoboy/5fadd9ba398277680b87)|[推荐](https://github.com/TeamStuQ/skill-map/issues/14)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
@@ -49,12 +49,12 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[- Java](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevLang-Java.md)|[@Zhang Wei](https://github.com/zhangwei217245)|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/43)｜脑图
 |[**# 开发工具**]()||||||
 |[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜脑图
-
+|[**# 技术管理**]()||||||
+|[- CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CTO.md)|@黄勇｜特赞科技 CTO、EGO 会员|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CTO-by-StuQ.png)
 
 以及**正在建设中**的领域：
 
 - 服务端开发
-- CTO
 - 分布式数据库开发
 - IoT 物联网
 - PHP 语言
@@ -116,5 +116,7 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
+
+
 
 
