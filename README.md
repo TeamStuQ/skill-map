@@ -27,6 +27,8 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Security-by-StuQ.png)
 |[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
 |[- DBA](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DBA.md)|[@杨一 ]()｜杭州有赞科技有限公司 DBA 专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/77)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-DBA-by-StuQ.png)
+|[- Kubernetes](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Kubernetes.md)|@李响｜CoreOS 分布式系统组主管|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
+||@张磊｜Hyper HQ & CNCF Meber|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
@@ -50,7 +52,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 开发工具**]()||||||
 |[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜脑图
 |[**# 技术管理**]()||||||
-|[- CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CTO.md)|@黄勇｜特赞科技 CTO、EGO 会员|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CTO-by-StuQ.png)
+|[- CTO 技能](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CTO.md)|@黄勇｜特赞科技 CTO、EGO 会员|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CTO-by-StuQ.png)
 
 以及**正在建设中**的领域：
 
