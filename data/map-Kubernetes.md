@@ -27,6 +27,8 @@
         + OVS
         + SR-IOV
         + macvlan/ipvlan
+        + Opencontrail
+        + weave
 - Storage
     * CSI  (Container Storage Interface)
     * Volume plugins （存储插件）
@@ -68,6 +70,7 @@
 - Service （服务发现）
     * Publish service（对外暴露 Service）
     * Nginx/HAproxy service（自定义 Service）
+    * External Load Balancer
 - ConfigMap （应用配置管理）
 - Ingress （7层服务发现）
 - Secret （加密信息管理）
@@ -76,7 +79,8 @@
 ## Kubernetes operations （Kubernetes 安装与运维）
 - Installation
     * Kubeadm
-    * Minikube
+    * Minikube （本地部署工具）
+    * Kops （云端部署工具）
 - Maintenances
     * GC （垃圾清理）
         + Container GC
@@ -88,7 +92,7 @@
         + Metrics monitoring （Metrics 监控）
         + Cluster design（集群规划）
         + Disaster Recovery （灾难恢复，backup 和 restore）
-        + Iptables rules
+    * Iptables rules
 
 ## Kubernetes extensions/add-ons （Kubernetes 扩展和插件）
 - Custom Resources Definition （自定义 Kubernetes API 对象）
@@ -97,6 +101,12 @@
 - Kube-dns
     * SkyDNS
 - Fluentd （日志收集）
+    * Fluent-bit 
+- Heapster (容器集群监控）
 - Istio（微服务路由和负载均衡）
 - Federation （集群联邦）
+- Helm (kubernetes application package)
+
+## Kubernetes CI/CD
+- Spinnaker
 
