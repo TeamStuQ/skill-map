@@ -27,6 +27,8 @@
         + OVS
         + SR-IOV
         + macvlan/ipvlan
+        + Opencontrail
+        + Weave
 - Storage
     * CSI  (Container Storage Interface)
     * Volume plugins （存储插件）
@@ -72,15 +74,17 @@
 - Ingress （7层服务发现）
 - Secret （加密信息管理）
 - Headless Service（DNS 服务发现）
+- External Load Balancer
 
 ## Kubernetes operations （Kubernetes 安装与运维）
 - Installation
     * Kubeadm
-    * Minikube
+    * Minikube（本地部署工具）
+    * Kops（云端部署工具）
 - Maintenances
     * GC （垃圾清理）
         + Container GC
-        + Iamge GC
+        + Image GC
 - Upgrades 
 - Troubleshooting
     * etcd admin
@@ -97,6 +101,13 @@
 - Kube-dns
     * SkyDNS
 - Fluentd （日志收集）
+    * Fluent-bit
+- Heapster (容器集群监控）
 - Istio（微服务路由和负载均衡）
 - Federation （集群联邦）
+- Helm (kubernetes application package)
+## Kubernetes CI/CD
+- Spinnaker
+
+
 
