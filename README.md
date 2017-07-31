@@ -52,7 +52,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 开发工具**]()||||||
 |[- Git](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Git.md)|[@吴坚 ](https://github.com/jamsonwoo)  ｜南航软件工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜脑图
 |[**# 技术管理**]()||||||
-|[- CTO 技能](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CTO.md)|@黄勇｜特赞科技 CTO、EGO 会员|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/48)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CTO-by-StuQ.png)
+|[- CTO 技能](https://github.com/TeamStuQ/skill-map/blob/master/data/map-CTO.md)|@黄勇｜特赞科技 CTO、EGO 会员|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/103)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-CTO-by-StuQ.png)
 
 以及**正在建设中**的领域：
 
