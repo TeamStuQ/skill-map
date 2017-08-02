@@ -3,7 +3,7 @@
 
 ## 简介
 
-StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
+StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（人工智能，前端开发，移动开发，架构，云计算，大数据，运维，安全，后端开发，测试，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
 目前技能图谱已有下面几个领域：
 
@@ -27,7 +27,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Security-by-StuQ.png)
 |[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
 |[- DBA](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DBA.md)|[@杨一 ]()｜杭州有赞科技有限公司 DBA 专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/77)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-DBA-by-StuQ.png)
-|[- Kubernetes](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Kubernetes.md)|@张磊｜Hyper HQ & CNCF Meber|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
+|[- Kubernetes](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Kubernetes.md)|[@张磊](https://github.com/resouer)｜Hyper HQ & CNCF Meber|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
 ||@李响｜CoreOS 分布式系统组主管|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
