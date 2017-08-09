@@ -3,31 +3,63 @@
 - Spark
 - Flink
 - Hadoop
+- Drill
   
+## 分布式协调
+- Zookeeper
+
 ## 分布式存储
 - HDFS
-  
-## 资源调度
+- Alluxio(tachyon)
+- Ignite
 
+## 存储格式
+- Parquet
+- ORC
+- CarbonData
+- Kudu  
+
+## 数据库
+- HBase
+
+## 资源调度
 - Yarn 
-- Mesos     
+- Mesos
+- Kubernetes  
   
+## 工作流调度
+- Oozie 
+- Azkaban 
+
 ## 机器学习工具
- 
 - Mahout
 - Spark Mlib
-- TensorFlow (Google 系)
+- TensorFlow 
+- DeepLearning4J
+- Torch
+- Theano
+- Caffe
+- MxNet
+- Keras
+- CNTK
 - Amazon Machine Learning
-- DMTK (微软分布式机器学习工具)  
+- DMTK (微软分布式机器学习工具) 
+
+## 数据安全
+- Sentry
+- Apache Eagle 
+
+## 部署工具
+- Cloudera Manager
+- Ambari
 
 ## 数据分析/数据仓库(SQL类)
-
 - Pig
-- Hive
-- kylin
-- Spark SQL, 
-- Spark DataFrame
+- Kylin
+- Presto
 - Impala
+- Hive
+- Spark SQL／DataFrame／DataSet
 - Phoenix
 - ELK
    - ElasticSearch
@@ -35,7 +67,6 @@
    - Kibana
 
 ## 消息队列
-
 - Kafka(纯日志类，大吞吐量)
 - RocketMQ 
 - ZeroMQ
@@ -43,20 +74,19 @@
 - RabbitMQ
 
 ## 流式计算
-
 - Storm/JStorm
 - Spark Streaming
+- Fink
 
 ## 日志收集
-
 - Scribe
 - Flume
+- Sqoop
 
 ## 编程语言
-- Java
+- Java／Scala
 - Python
 - R
-- Ruby
 
 ## 数据分析挖掘
 - MATLAB
@@ -64,11 +94,14 @@
 - SAS
 
 
-## 数据可视化
+## 数据探索／可视化
 - R
 - D3.js
 - ECharts
 - Excle
+- Tableau
+- Zeppelin
+- Hue
 
 
 ## 机器学习
@@ -83,15 +116,6 @@
 - 支持向量机
 - 贝叶斯分类
 - 神经网络
-
-### 机器学习工具
-- Mahout
-- Spark Mlib
-- TensorFlow (Google 系)
-- Amazon Machine Learning
-- DMTK (微软分布式机器学习工具)
-
-       
 
 ## 算法
 ### 一致性
@@ -122,6 +146,6 @@
     - SaaS
     - PaaS
     - IaaS
-- Openstack
--  Docker
+- OpenStack
+- Docker
 
