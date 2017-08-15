@@ -30,6 +30,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[- Kubernetes](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Kubernetes.md)|[@张磊](https://github.com/resouer)｜Hyper HQ & CNCF Meber|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
 ||@李响｜CoreOS 分布式系统组主管|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜脑图
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
+||@高扬｜欢聚时代资深大数据技术专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop 家族](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
 |[**# 测试**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-testing.md)|[@TesterHome 社区](https://testerhome.com/)|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/15)|脑图|
