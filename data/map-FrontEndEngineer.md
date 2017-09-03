@@ -44,7 +44,7 @@
     - Firebug/Firecookie
     - YSlow
     - IEDeveloperToolbar/IETester
-    - Fiddler
+    - Fiddler/Charles
     - Chrome Dev Tools
     - Dragonfly
     - DebugBar
@@ -57,7 +57,7 @@
 ## 代码质量
 
 ### Coding style
-    - JSLint/JSHint/jscs
+    - Eslint/JSLint/JSHint/jscs
     - CSSLint
     - Markup Validation Service
     - HTML Validators
@@ -87,6 +87,7 @@
 	  - qooxdoo
 	  - React
 	  - Brick
+      - Vue.js
 
 ## 前端标准/规范
     - HTTP/1.1: RFCs 7230-7235
@@ -142,11 +143,12 @@
     - Yeoman
     - FIS
     - Mod
+    - Webpack
 
 ## 代码组织
 
 ### 类库模块化
-    - CommonJS/AMD
+    - CommonJS/AMD/ES6 Module
     - YUI3模块
 
 ### 业务逻辑模块化
@@ -154,7 +156,7 @@
 
 ### 文件加载
     - LABjs
-    - SeaJS/Require.js
+    - SeaJS/Require.js/Webpack
 
 ### 模块化预处理器
     - Browserify
@@ -176,6 +178,7 @@
 	  - W3C Mobile Web Initiative
 	  - W3C mobileOK Checker
 	  - Open Mobile Alliance
+      - React Native/Weex
 
 ## 前沿技术社区/会议
 	  - D2/WebRebuild
