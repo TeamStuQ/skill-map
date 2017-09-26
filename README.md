@@ -102,7 +102,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 - StuQ 技能图谱第一版发布
 
 ## 许可
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*转载请注明[出处](http://www.stuq.org/subject/skill-map/)。*
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*
 
 最终解释权归 **StuQ** 所有。欢迎关注 StuQ 微信公众号。
 
