@@ -2,6 +2,7 @@
 ## Toolbox
 - Java
    * Mahout
+   * Weka
 - Python
    * Scikit-learn
    * Orange
@@ -10,11 +11,12 @@
    * pyml
 - R
 - Julia
-- Weka
+- Matlab
+
+## Paltform
 - Spark
    * MLlib
 - Storm
-- Matlab
 
 ## Algorithms
 ### Supervised Learning
@@ -59,9 +61,9 @@
 
 ### Deep Learning
 - Convolutional Neural Network
-  * Restricted Boltzmann Machines
-  * Recurrent Neural Network
-  * Long Short Term Memory
+- Restricted Boltzmann Machines
+- Recurrent Neural Network
+   * Long Short Term Memory
       
 ## Model Selection and Evaluation
 - Cross-validation
