@@ -58,6 +58,7 @@
 - Markov Decision Processes
 - Q-Learning
 - Sarsa
+- A-Learning
 
 ### Deep Learning
 - Convolutional Neural Network
