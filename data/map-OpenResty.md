@@ -1,6 +1,6 @@
 # OpenResty 技术图谱
 ## basic concepts
-- HTTP
+- HTTP / HTTP2
 - RESTful API & API GateWay
 - Microservice
 - Domain Specific Language(DSL)
@@ -14,11 +14,11 @@
 
 ## around tech stack
 - MySQL
+- Postgres
 - Redis
-- Kafka
-- Docker
-- KONG
+- OpenSSL
 - regex
+- sregex
 
 ## testing
 - TDD & Unit Testing
@@ -28,11 +28,14 @@
 ## debugging
 - debugging log
 - core dump
-- flame graph
+- Dynamic Tracing
+- SystemTap
+- Flame Graph
 - on-CPU & off-CPU
 - nginx-systemtap-toolkit
 - stapxx
 - nginx-gdb-utils
+- valgrind
 
 ## caching
 - ngx.shared.DICT
@@ -42,6 +45,12 @@
 - lua-resty-shcache
 - ngx_srcache
 
+## limiting traffic
+- lua-resty-limit-traffic
+- limit-count
+- limit-rate
+- limit-concurrency
+
 ## NGINX
 - log
 - static file
@@ -50,6 +59,7 @@
 - phase
 - tuning for performance
 - if is evil
+- Stream module
 
 ## LuaJIT
 - Standard Lua
@@ -60,10 +70,16 @@
 
 ## ngx\_lua
 - directives
-- Nginx API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
+- NGINX API for Lua(ngx.\*,tcpsock.\*,coroutine.\*)
 - resty-core
 - semaphore
 - balancer\_by\_lua
 - ssl\_certificate\_by\_lua
+- stream-lua-nginx-module
 - cosocket TCP/UDP
 - hot load lua code
+- OPM
+- resty client
+
+## resources
+- awesome-resty
