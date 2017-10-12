@@ -23,6 +23,8 @@
 
 - ![CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-CTO-by-StuQ.png)
 
+- ![DevOps 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-DevOps-by-StuQ.png)
+
 - ![移动性能优化技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
 
 - ![HTML5 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-HTML5-by-StuQ.png)|
