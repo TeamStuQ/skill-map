@@ -92,11 +92,11 @@
 - Validation Curves
 
 ## Frameworks
-- Tensorflow
+- TensorFlow
 - Caffe2/Caffe
 - Theano
 - Torch
 - Chainer
-- OpenBlAS
+- OpenBLAS
 - CUDA
 - CUDNN
