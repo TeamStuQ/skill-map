@@ -1,22 +1,40 @@
 # 机器学习技能图谱
+
+>主要作者：@徐英凯｜闪银机器学习工程师
+>审校顾问：@卢誉声｜Autodesk 软件研发工程师、@高扬｜欢聚时代资深大数据技术专家、@罗远飞｜第四范式机器学习工程师
+
 ## Toolbox
+- C/C++
+   * Vowpal Wabbit
+   * MultiBoost
+   * Shogun
 - Java
    * Mahout
    * Weka
+   * Mallet
+   * JSAT
 - Python
    * Scikit-learn
+   * PyBrain
+   * nltk
+   * Theano
+   * Pylearn2
+   * MDP
    * Orange
-   * Shogun
    * milk
    * pyml
+   * Numpy
 - R
 - Julia
 - Matlab
 
-## Paltform
+## Real-time Computation Paltform
 - Spark
    * MLlib
+- Hurricane
+   * SewedBlAS
 - Storm
+- Heron
 
 ## Algorithms
 ### Supervised Learning
@@ -25,7 +43,7 @@
    * Gaussian Processes
    * Isotonic Regression
 - Classification
-   * Support Vector Machines
+   * Support Vector Machines (SVM)
    * Linear and Quadratic Discriminant Analysis
    * Decision Trees
    * K Nearest Neighbors
@@ -61,9 +79,9 @@
 - A-Learning
 
 ### Deep Learning
-- Convolutional Neural Network
+- Convolutional Neural Network (CNN)
 - Restricted Boltzmann Machines
-- Recurrent Neural Network
+- Recurrent Neural Network (RNN)
    * Long Short Term Memory
       
 ## Model Selection and Evaluation
@@ -73,10 +91,12 @@
 - Model Persistence
 - Validation Curves
 
-## Frame
+## Frameworks
 - Tensorflow
+- Caffe2/Caffe
+- Theano
 - Torch
-- Caffe
 - Chainer
-
-
+- OpenBlAS
+- CUDA
+- CUDNN
