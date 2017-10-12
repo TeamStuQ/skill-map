@@ -27,6 +27,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |[**# 安全**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-SecurityEngineer.md)|[@余弦 ](https://github.com/evilcos) ｜知道创宇技术 VP|[原创链接](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)|[推荐](https://github.com/TeamStuQ/skill-map/issues/13)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Security-by-StuQ.png)
 |[**# 智能运维**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-IntelligentDevOps.md)|[@Tanky Woo ](https://github.com/tankywoo)｜知道创宇资深运维工程师|[原创链接](http://blog.knownsec.com/2015/03/how-many-basic-skills-should-a-operation-and-maintenance-engineer-get/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
 |[- DBA](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DBA.md)|[@杨一 ]()｜杭州有赞科技有限公司 DBA 专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/77)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-DBA-by-StuQ.png)
+[- DevOps](https://github.com/TeamStuQ/skill-map/blob/master/data/map-DevOps.md)|[@林帆 ](https://github.com/linfan)｜ThoughtWorks DevOps 咨询师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/20)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Container-by-StuQ.png)
 |[- Kubernetes](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Kubernetes.md)|[@张磊](https://github.com/resouer)｜Hyper HQ & CNCF Meber|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Kubernetes-by-StuQ.png)
 ||@李响｜CoreOS 分布式系统组主管|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/10)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Kubernetes-by-StuQ.png)
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
@@ -85,10 +86,14 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 ## 加入我们
 - 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@geekbang.org
-- QQ群讨论：254521819，加群时请备注姓名+职业。加入后请修改群名片为姓名+职业
+- QQ群讨论：254521819，加群时请备注“姓名+职业角色”，如“Ray+前端”
 - 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
 
 ## 版本信息
+
+### V 1.0
+- 更新稳定版本，新增 IT 职业技术重要领域
+
 ### v 0.2.0
 - IT 技术各主要领域基本覆盖
 
@@ -101,12 +106,18 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 ### v 0.1.1
 - StuQ 技能图谱第一版发布
 
-## 许可
+## 版权声明
 本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*
 
-最终解释权归 **StuQ** 所有。欢迎关注 StuQ 微信公众号。
+**StuQ** 保留最终解释权及法律追究权力。欢迎关注 StuQ 微信公众号。
 
 ![StuQ 微信公众号](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png)
+
+## 特别鸣谢
+
+「StuQ 程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
+
+陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）。
 
 ## 赞助声明
 
@@ -119,7 +130,5 @@ StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编
 请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
 
 ![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
-
-
 
 
