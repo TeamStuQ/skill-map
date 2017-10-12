@@ -9,7 +9,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 |**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**|
 |------- | ---- | ---- | ---- |
-|[**# 人工智能 AI **]||-|｜脑图
+|**# 人工智能 AI **||-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 ||@高扬｜欢聚时代资深大数据技术专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
