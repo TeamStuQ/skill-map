@@ -7,10 +7,103 @@
 「StuQ 程序员技能图谱」Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)**。
 
 ### 版权声明
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。**商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。****StuQ** 保留最终解释权及法律追究权力。
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。**商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。**StuQ 保留最终解释权及法律追究权力。
 
 ## SkillMap 图片预览（Design by StuQ）
 
-![大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-BigData-by-StuQ.png)
+- ![大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 
-![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
+- ![架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Architect-by-StuQ.png)
+
+- ![前端工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
+
+- ![云计算工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
+
+- ![CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-CTO-by-StuQ.png)
+
+- ![移动性能优化技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
+
+- ![HTML5 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-HTML5-by-StuQ.png)|
+
+- ![Angular2 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Angular2-by-StuQ.png)
+
+- ![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
+
+- ![OpenResty 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-OpenResty-by-StuQ.png)
+
+- ![Container 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Container-by-StuQ.png)
+
+- ![微服务技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MicroService-by-StuQ.png)
+
+- ![Web 安全技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Security-by-StuQ.png)
+
+- ![智能运维技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
+
+- ![DBA 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-DBA-by-StuQ.png)
+
+- ![Kubernetes 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Kubernetes-by-StuQ.png)
+
+- ![移动无线测试技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
+
+- ![iOS 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-iOSDev-by-StuQ.png)
+
+- ![Android 架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-AndroidArchitect-by-StuQ.png)
+
+- ![嵌入式开发工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
+
+- ![开发语言综述技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
+
+以上设计图片会持续更新，欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@geekbang.org。
+
+## 图谱 MarkDown 分级规范
+
+为了便于编辑和纠错更新，现统一图谱 MarkDown 文件**分级规范**如下：
+
+1. 根据内容考虑用" #,##,### "依次表示高级别主干分级
+2. 次级别分支用" -,*,+ "三种符号区分
+3. 所有“-”的优先级高于“*”
+4. 所有“*”的优先级高于“+”
+
+## 加入我们
+- 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@geekbang.org
+- QQ群讨论：254521819，加群时请备注“姓名+职业角色”，如“Ray+前端”
+- 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
+
+## 版本信息
+
+### V 1.0
+- 更新稳定版本，新增 IT 职业技术重要领域
+
+### v 0.2.0
+- IT 技术各主要领域基本覆盖
+
+### v 0.1.2
+- 云计算领域新增：OpenStack，容器技术
+- 移动开发领域新增：iOS 开发
+- 测试领域新增：移动无线测试
+- 智能硬件领域新增：嵌入式开发
+
+### v 0.1.1
+- StuQ 技能图谱第一版发布
+
+## 特别鸣谢
+
+「StuQ 程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
+
+陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）。
+
+## 赞助声明
+
+StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本。
+
+赞助合作请发邮件至 Raymond@geekbang.org 。
+
+## 获取纸质版技能图谱
+
+请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
+
+![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
+
+## 欢迎关注 StuQ 微信公众号
+
+![StuQ 微信公众号](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png)
