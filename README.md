@@ -10,7 +10,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 |**领域**（[点击预览](https://github.com/TeamStuQ/skill-map/blob/master/data/source-skillmap-PNG-DesignByStuQ.md)）| **核心贡献者 ID** | **原创链接** |**学习资源**|
 |------- | ---- | ---- | ---- |
 |[**# 人工智能 AI**]()||||
-|[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-MachinLearning-by-StuQ.png)
+|[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜[脑图](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MachinLearning-by-StuQ.png)
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜乐视云资深大数据工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 ||@高扬｜欢聚时代资深大数据技术专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop ](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
