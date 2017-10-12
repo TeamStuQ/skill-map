@@ -11,5 +11,5 @@
 
 ## SkillMap 图片预览（Design by StuQ）
 
-[大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
+![大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 
