@@ -27,7 +27,7 @@
 
 - ![Angular2 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Angular2-by-StuQ.png)
 
-- ![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
+- ![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 
 - ![OpenResty 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 
