@@ -7,7 +7,7 @@ StuQ 程序员技能图谱是由 StuQ（[http://www.stuq.org/](http://www.stuq.o
 
 目前技能图谱已有如下领域，点击标题可以预览文本文件（.md），也可以在[『图片预览版』](https://github.com/TeamStuQ/skill-map/blob/master/data/source-skillmap-PNG-DesignByStuQ.md)以技能树形式预览图片文件（.png）：
 
-|**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**|
+|**领域**（[点击预览](https://github.com/TeamStuQ/skill-map/blob/master/data/source-skillmap-PNG-DesignByStuQ.md)）| **核心贡献者 ID** | **原创链接** |**学习资源**|
 |------- | ---- | ---- | ---- |
 |[**# 人工智能 AI**]()||||
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜脑图
