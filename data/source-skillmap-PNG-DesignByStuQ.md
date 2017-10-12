@@ -13,3 +13,4 @@
 
 ![大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 
+![运维命令](https://github.com/TeamStuQ/skill-map/blob/master/data/operation-command.png)
