@@ -13,45 +13,45 @@
 
 - ![大数据工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 
-- ![架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Architect-by-StuQ.png)
+- ![架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Architect-by-StuQ.png)
 
-- ![前端工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
+- ![前端工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-FrontEnd-by-StuQ.png)
 
-- ![云计算工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
+- ![云计算工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-CloudComputing-by-StuQ.png)
 
-- ![CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-CTO-by-StuQ.png)
+- ![CTO 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-CTO-by-StuQ.png)
 
-- ![移动性能优化技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
+- ![移动性能优化技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MobileOptimization-by-StuQ.png)
 
-- ![HTML5 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-HTML5-by-StuQ.png)|
+- ![HTML5 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-HTML5-by-StuQ.png)|
 
-- ![Angular2 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Angular2-by-StuQ.png)
+- ![Angular2 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Angular2-by-StuQ.png)
 
-- ![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
+- ![Hadoop 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
 
-- ![OpenResty 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-OpenResty-by-StuQ.png)
+- ![OpenResty 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-OpenResty-by-StuQ.png)
 
-- ![Container 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Container-by-StuQ.png)
+- ![Container 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Container-by-StuQ.png)
 
-- ![微服务技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MicroService-by-StuQ.png)
+- ![微服务技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MicroService-by-StuQ.png)
 
-- ![Web 安全技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Security-by-StuQ.png)
+- ![Web 安全技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Security-by-StuQ.png)
 
-- ![智能运维技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
+- ![智能运维技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-IntelligentDevOps-by-StuQ.png)
 
-- ![DBA 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-DBA-by-StuQ.png)
+- ![DBA 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-DBA-by-StuQ.png)
 
-- ![Kubernetes 技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-Kubernetes-by-StuQ.png)
+- ![Kubernetes 技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-Kubernetes-by-StuQ.png)
 
-- ![移动无线测试技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
+- ![移动无线测试技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MobileTesting-by-StuQ.png)
 
-- ![iOS 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-iOSDev-by-StuQ.png)
+- ![iOS 工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-iOSDev-by-StuQ.png)
 
-- ![Android 架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-AndroidArchitect-by-StuQ.png)
+- ![Android 架构师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-AndroidArchitect-by-StuQ.png)
 
-- ![嵌入式开发工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
+- ![嵌入式开发工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-EmbeddedEngineer-by-StuQ.png)
 
-- ![开发语言综述技能图谱](https://github.com/TeamStuQ/skill-map/blob/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
+- ![开发语言综述技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-ProgrammingLanguage-by-StuQ.png)
 
 以上设计图片会持续更新，欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@geekbang.org。
 
