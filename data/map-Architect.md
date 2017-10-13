@@ -32,19 +32,19 @@
 - 配置中心
 - 去中心化
 - 通讯机制
-		 * 同步与异步
-		 * MQ
-		 * Cron
-		 * RMI
-		 * RPC
+	* 同步与异步
+	* MQ
+	* Cron
+	* RMI
+	* RPC
 - 数据层架构设计
-		 * 缓存优化
-					+ 高可用
-					+ 允许 cache miss
-		 * DAO & ORM
-		 * 双主架构
-		 * 主从同步
-		 * 读写分离
+	* 缓存优化
+		+ 高可用
+		+ 允许 cache miss
+	* DAO & ORM
+	* 双主架构
+	* 主从同步
+	* 读写分离
 
 ## 架构性能优化
 
@@ -91,45 +91,45 @@
 
 ### 运维与监控
 - 监控
-		 * 系统监控
-		 * 日志监控
-		 * 流量监控
-		 * 接口监控
-		 * 数据库监控
+	* 系统监控
+	* 日志监控
+	* 流量监控
+	* 接口监控
+	* 数据库监控
 - 告警
 - 日志
 
 ### 应用技术
 - 硬件知识
-		 * CPU
-		 * mem
-		 * Disk
-		 * Net
+	* CPU
+	* MEM
+	* Disk
+	* Net
 - 第三方库
 - 数据结构与算法
 - 操作系统
-		* Linux
+	* Linux
 - 接入层
-		 * Nginx
-		 * Apache
-		 * Lighttpd
-		 * Tomcat
-		 * Node.js
+	* Nginx
+	* Apache
+	* Lighttpd
+	* Tomcat
+	* Node.js
 - 框架
-		 * SpringMvc
-		 * Dubbo
-		 * Thrift
+	* SpringMvc
+	* Dubbo
+	* Thrift
 - 缓存
-		 * Redis
-		 * Memcache
+	* Redis
+	* Memcache
 - NoSQL
-		 * MongoDB
-		 * HDFS
-		 * Cassandra
+	* MongoDB
+	* HDFS
+	* Cassandra
 - 存储
-		 * MySQL
-		 * SQL Server
-		 * Oracle
+	* MySQL
+	* SQL Server
+	* Oracle
 - 中间件
 - 消息总线
 
