@@ -27,7 +27,7 @@
 ### 逻辑层架构设计
 - 连接池
 - 串行化技术
-- 影子 master 架构
+- 影子 Master 架构
 - 批量写入
 - 配置中心
 - 去中心化
@@ -116,7 +116,7 @@
 	* Tomcat
 	* Node.js
 - 框架
-	* SpringMvc
+	* SpringMVC
 	* Dubbo
 	* Thrift
 - 缓存
