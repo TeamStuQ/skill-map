@@ -1,5 +1,6 @@
 # OpenResty 技术图谱
-## basic concepts
+
+## Basic Concepts
 - HTTP / HTTP2
 - RESTful API & API GateWay
 - Microservice
@@ -12,20 +13,20 @@
 - coroutine
 - Test Driven Development(TDD)
 
-## around tech stack
+## Around Tech Stack
 - MySQL
-- Postgres
+- PostgreSQL
 - Redis
 - OpenSSL
 - regex
 - sregex
 
-## testing
+## Testing
 - TDD & Unit Testing
 - Test::Nginx
 - curl & ab & wrk
 
-## debugging
+## Debugging
 - debugging log
 - core dump
 - Dynamic Tracing
@@ -37,7 +38,7 @@
 - nginx-gdb-utils
 - valgrind
 
-## caching
+## Caching
 - ngx.shared.DICT
 - lua-resty-lrucache
 - dog-pile effect
@@ -45,7 +46,7 @@
 - lua-resty-shcache
 - ngx_srcache
 
-## limiting traffic
+## Limiting Traffic
 - lua-resty-limit-traffic
 - limit-count
 - limit-rate
@@ -81,5 +82,5 @@
 - OPM
 - resty client
 
-## resources
+## Resources
 - awesome-resty
