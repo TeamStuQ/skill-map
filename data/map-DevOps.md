@@ -91,8 +91,9 @@
 - Gitlab
 - Gogs
 - SourceTree
+- Visual SourceSafe
 
-### 基础设施和配置管理
+### 基础设施和云平台
 - Ansible
 - Chef
 - Puppet
@@ -101,6 +102,10 @@
 - Terraform
 - StackStorm
 - Docker
+- AWS
+- Azure
+- GCE
+- 阿里云
 
 ### 交付流程可视化
 - Jenkins
@@ -122,6 +127,7 @@
 - Teambition
 - Confluence
 - Gitbook
+- Team Foundation
 
 ### 测试和质量管理
 - SonarQube
@@ -148,6 +154,8 @@
 - Scribe
 - Fluentd
 - Chukwa
+- OneAPM
+- 听云
 
 ### 安全和密钥管理
 - Threat Modeling
@@ -160,4 +168,3 @@
 - Transcrypt
 - Keybase
 - Git Secrets
-
