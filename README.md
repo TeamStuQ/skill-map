@@ -70,7 +70,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 - C++ 语言
 - C# 语言
 
-欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@geekbang.org。
+欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（有机会获赠礼品／技能图谱纸质印刷 A1 版），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至  Raymond@geekbang.org。
 
 ## 改进目标
 
@@ -110,28 +110,22 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 - StuQ 技能图谱第一版发布
 
 ## 版权声明
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*
 
-**StuQ** 保留最终解释权及法律追究权力。欢迎关注 StuQ 微信公众号。
+**StuQ** 保留最终解释权及法律追究权力。欢迎关注极客邦科技 Geekbang 推出的「极客时间」App，获取更多技术干货。
 
-![StuQ 微信公众号](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png)
+![极客时间](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png)
 
 ## 特别鸣谢
 
-「StuQ 程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
+「程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
 
-陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）、张卓（Leslie）、。
+陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）、张卓（Leslie）。
 
 ## 赞助声明
 
-StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本。
+程序员技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本。
 
 赞助合作请发邮件至 Raymond@geekbang.org 。
-
-## 获取纸质版技能图谱
-
-请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
-
-![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
 
 
