@@ -110,9 +110,9 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 - 程序员技能图谱第一版发布
 
 ## 版权声明
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。_*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*_ **极客邦科技 Geekbang** 保留最终解释权及法律追究权力。
 
-**极客邦科技 Geekbang** 保留最终解释权及法律追究权力。欢迎关注极客邦科技 Geekbang 推出的「极客时间」App，获取更多技术干货。
+欢迎关注极客邦科技 Geekbang 推出的「极客时间」App，获取更多技术干货。
 
 ![极客时间](https://github.com/TeamStuQ/skill-map/blob/master/img/GeekTime-QRCode-200X200.png)
 
