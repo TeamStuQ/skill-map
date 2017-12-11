@@ -1,15 +1,15 @@
-# StuQ 程序员技能图谱（图片预览版）
+# 程序员技能图谱（图片预览版）
 
 ### 项目简介
 
-「StuQ 程序员技能图谱」是由 StuQ（[http://www.stuq.org/](http://www.stuq.org/)）发起的一个技术社区开源项目，志在汇集整理共建泛 IT 技术领域（人工智能，前端开发，移动开发，架构，云计算，大数据，运维，安全，后端开发，测试，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
+「程序员技能图谱是由极客邦科技 Geekbang（[https://www.geekbang.org/](https://www.geekbang.org/)）发起的一个技术社区开源项目，志在汇集、整理、共建泛 IT 技术领域（人工智能，前端开发，移动开发，云计算，大数据，架构，运维，安全，后端开发，测试，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
-「StuQ 程序员技能图谱」Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)**，欢迎 Star :)。
+「程序员技能图谱」Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)**，欢迎 Star :)。
 
 ### 版权声明
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。**商业转载必须征求 StuQ 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。**StuQ 保留最终解释权及法律追究权力。
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。_*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*_ **极客邦科技 Geekbang** 保留最终解释权及法律追究权力。
 
-## SkillMap 图片预览（Design by StuQ）
+## SkillMap 图片预览（Design by Geekbang）
 
 - ![机器学习工程师技能图谱](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)
 
@@ -69,7 +69,7 @@
 4. 所有“*”的优先级高于“+”
 
 ## 加入我们
-- 提交图谱：直接提交 Pull Request，或者发邮件给 Raymond@geekbang.org
+- 提交图谱：直接提交 Pull Request，或者联系项目负责人雷蒙德，可发邮件至 Raymond@geekbang.org
 - QQ群讨论：254521819，加群时请备注“姓名+职业角色”，如“Ray+前端”
 - 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
 
@@ -90,24 +90,21 @@
 ### v 0.1.1
 - StuQ 技能图谱第一版发布
 
+## 版权声明
+本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。_*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*_ **极客邦科技 Geekbang** 保留最终解释权及法律追究权力。
+
+欢迎关注极客邦科技 Geekbang 推出的「极客时间」App，获取更多技术干货。
+
+![极客时间](https://github.com/TeamStuQ/skill-map/blob/master/img/GeekTime-QRCode-200X200.png)
+
 ## 特别鸣谢
 
-「StuQ 程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
+「程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合内容编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
 
-陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）。
+陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）、张卓（Leslie）。
 
 ## 赞助声明
 
-StuQ 技能图谱项目接受企业或者个人的赞助，用以覆盖图谱编辑、设计、印刷和运营成本。
+程序员技能图谱项目接受企业或者个人赞助，赞助经费主要用于覆盖图谱编辑、设计、印刷和运营成本。
 
 赞助合作请发邮件至 Raymond@geekbang.org 。
-
-## 获取纸质版技能图谱
-
-请扫描 StuQ 技能图谱微店地址二维码，以赞助形式获赠 StuQ 技能图谱纸质版。
-
-![StuQ 微店地址二维码](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQWMall-QRCode-100X100.png)
-
-## 欢迎关注 StuQ 微信公众号
-
-![StuQ 微信公众号](https://github.com/TeamStuQ/skill-map/blob/master/img/StuQ-QRCode-100X100.png)

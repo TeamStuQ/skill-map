@@ -7,7 +7,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 
 除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，有任何不同意见和反馈，请提交 [Issue](https://github.com/TeamStuQ/skill-map/issues) 讨论，或发送邮件至 Raymond@geekbang.org，编辑会及时跟进或组织讨论，并持续更新内容版本。请理解并支持，感谢！:)
 
-目前技能图谱已有如下领域，点击标题可以预览文本文件（.md），也可以在[『图片预览版』](https://github.com/TeamStuQ/skill-map/blob/master/data/source-skillmap-PNG-DesignByStuQ.md)以技能树形式预览图片文件（.png）：
+目前技能图谱已有如下领域，点击标题可以预览文本文件（.md），也可以在[『图片预览版』](https://github.com/TeamStuQ/skill-map/blob/master/data/Preview-source-skillmap-PNG.md)以技能树形式预览图片文件（.png）：
 
 |**领域**（[点击预览](https://github.com/TeamStuQ/skill-map/blob/master/data/source-skillmap-PNG-DesignByStuQ.md)）| **核心贡献者 ID** | **原创链接** |**学习资源**|
 |------- | ---- | ---- | ---- |
