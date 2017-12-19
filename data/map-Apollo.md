@@ -58,44 +58,35 @@
 + Map Engine
 + Localization
 + Perception
-    - Machine Learning
+    - Machine Learning:CNN
     - 底层视觉
     - 图形学与视觉几何
     - 状态估计与滤波
     - 最优化问题求解
-    - Minimum-spanning-tree(MST)
-    - Learning-based CNN Detector
-    - Randomized Decision Forest(RDF)
-    - Data Synchronization
-    - Data Association
-    - Fusion
 + Planning
-    * Model
-        - Smoothing Curves
-        - Vehicle Kinematics
-        - Station-time 2d model
-        - Optimization Algorithms:Dynamic Programming
-        - Quadratic Programming
-        - Smoothing Spline
-        - A*
-        - Probability Math Models:Bayesian
-        - Markov Process
-        - MDP
-        - MachineLearning:CNN,RNN,ReinforcementLearning 
-        - MotionPlanningBackground:Sampling based motion planning
-        - Optimization based motion planning
-        - ComputerScience:Parallel Programming
-    * Algorithm
-        - Forplanningfocused:basic Motion Planning Technique
-        - Dynamic Programming
-        - Computationgeometry
-        - Control algorithms
-        - 深度学习算法、BP算法
+    - Smoothing Curves
+    - Vehicle Kinematics
+    - Station-time 2D model
+    - Optimization Algorithms:Dynamic Programming
+    - Quadratic Programming
+    - Smoothing Spline
+    - A*
+    - Probability Math Models:Bayesian
+    - Markov Process
+    - MDP
+    - Machine Learning:CNN,RNN,Reinforcement Learning 
+    - Motion Planning Background:Sampling Based Motion Planning
+    - Optimization Based Motion Planning
+    - ComputerScience:Parallel Programming
+    - Forplanningfocused:basic Motion Planning Technique
+    - Dynamic Programming
+    - Computation Geometry
+    - 深度学习算法、BP算法
 + Control
     - Basic Control Thoery
     - Linear-Quadratic Regulator (LQR)
     - Model Predictive Control(MPC)
-    - PID basic control theory 
+    - PID Basic Control Theory 
 + End-to-End
     * Deep learning
     * CV
@@ -140,8 +131,4 @@
 - 汽车动力学
 - AUTOSAR
 
-熟悉上车开发调试环境，清楚软件linux下调试流程；
-
-TODO  
-- Perception 层次关系@远帆
-- 提取模块CNN到基础知识 
+熟悉上车开发调试环境，清楚软件linux下调试流程。
