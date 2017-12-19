@@ -17,6 +17,7 @@
 - C++
 - Bash 
 - Python
+    + Keras
 - Javascript
     + Node.js
     + React
@@ -27,14 +28,9 @@
 - Caffe
 - Tensorflow
 
-
-- CUDA
-- Keras
-- Pychor
-
 ## 硬件（芯片）编程 
 - CPU
-- GPU
+- GPU(CUDA)
 - FPGA
 
 # Apollo专属知识
@@ -97,7 +93,7 @@
 ## Hardware & Sensors 
 - Computing Unit
     + IPC（Intel Nvidia ...)
-    + 专用自动驾驶计算单元(PX2 TX2)
+    + 专用自动驾驶计算单元(PX2 TX2 ...)
 - Perception
     + Camera(单目\双目)
     + LiDAR
