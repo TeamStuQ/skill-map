@@ -26,7 +26,11 @@
 - PaddlePaddle
 - Caffe
 - Tensorflow
+
+
 - CUDA
+- Keras
+- Pychor
 
 ## 硬件（芯片）编程 
 - CPU
@@ -41,16 +45,19 @@
     + Matlab/Simulink
     + GameEngine(UE4)
 - Data Platform
+    - 虚拟化
+    - 异构计算
+    - 分布式计算
+    - 分布式存储
 - Security
 - OTA
 - DuerOS
 
 ## Open Modules
-+ Map Engine
 + Localization
 + Perception
-    - Machine Learning:CNN
-    - 底层视觉
+    - Deep Learning:CNN
+    - Low-level Vision
     - 图形学与视觉几何
     - 状态估计与滤波
     - 最优化问题求解
@@ -69,7 +76,7 @@
     - Motion Planning Background:Sampling Based Motion Planning
     - Optimization Based Motion Planning
     - ComputerScience:Parallel Programming
-    - Forplanningfocused:basic Motion Planning Technique
+    - Forplanningfocused:Basic Motion Planning Technique
     - Dynamic Programming
     - Computation Geometry
     - 深度学习算法、BP算法
@@ -82,16 +89,17 @@
     * Deep learning
     * CV
     * 逆向汽车动力学模型
-        - 横向模型：Convolutional Neural Network(CNN)
+    * 端到端驾驶模型：
+        - 横向模型：CNN
         - 纵向模型：Convolutional-LSTM
         - 横 + 纵向模型：LRCN
 
 ## Hardware & Sensors 
 - Computing Unit
-    + PX2
-    + TX2
+    + IPC（Intel Nvidia ...)
+    + 专用自动驾驶计算单元(PX2 TX2)
 - Perception
-    + Camera
+    + Camera(单目\双目)
     + LiDAR
     + Radar
     + Ultrasonic Radar
@@ -100,7 +108,10 @@
     + IMU
     + other perception sensors
 - CAN Card
-- HMI Divice
+- HMI Device
+- V2X Device
+- Safety
+    + Black Box
 
 传感器搭建方式、配置流程、数据形式，能够通过数据判断传感器是否正常工作;
 无人车基本的硬件组成，各个sensor流程，通讯信息接口，各个传感器优点能够知道本模块对于硬件需求，算法对于硬件的依赖，瓶颈等；
@@ -110,7 +121,7 @@
 
 ## Vehicle
 - 车辆电子控制系统
-    + Protocol 
+    + Protocol
       - Lin
       - Can
       - FlexRay
@@ -121,4 +132,8 @@
 - 汽车动力学
 - AUTOSAR
 
+TODO
+- Vehicle层比重不均衡
+
 熟悉上车开发调试环境，清楚软件linux下调试流程。
+
