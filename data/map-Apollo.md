@@ -11,26 +11,13 @@
 - Docker
 - ROS
 - OpenCV
-- Doxygen
-- Linux:Ubuntu
 
 ## Language
 
 - C++
-    + curlpp
-    + civetweb
-    + GLEW：The OpenGL Extension Wrangler Library 
-    + gflags
-    + glogs
-    + gtest
-    + Eigen
-    + Point Cloud Library(PCL)
 - Bash 
 - Python
-    + Numpy
-    + google_styleguide
-- Restful
-- Websocket
+    + Keras
 - Javascript
     + Node.js
     + React
@@ -40,77 +27,75 @@
 - PaddlePaddle
 - Caffe
 - Tensorflow
-- CUDA
+
+## 硬件（芯片）编程 
+- CPU
+- GPU(CUDA)
+- FPGA
 
 # Apollo专属知识
 ## Cloud Service Platform
 - HD Map
     + OpenDrive
 - Simulation
-    + CarSim
-    + Simulink
+    + Matlab/Simulink
+    + GameEngine(UE4)
 - Data Platform
+    - 虚拟化
+    - 异构计算
+    - 分布式计算
+    - 分布式存储
 - Security
 - OTA
 - DuerOS
 
 ## Open Modules
-+ Map Engine
 + Localization
 + Perception
-    - Machine Learning
-    - 底层视觉
+    - Deep Learning:CNN
+    - Low-level Vision
     - 图形学与视觉几何
     - 状态估计与滤波
     - 最优化问题求解
-    - Minimum-spanning-tree(MST)
-    - Learning-based CNN Detector
-    - Randomized Decision Forest(RDF)
-    - Data Synchronization
-    - Data Association
-    - Fusion
 + Planning
-    * Model
-        - Smoothing Curves
-        - Vehicle Kinematics
-        - Station-time 2d model
-        - Optimization Algorithms:Dynamic Programming
-        - Quadratic Programming
-        - Smoothing Spline
-        - A*
-        - Probability Math Models:Bayesian
-        - Markov Process
-        - MDP
-        - MachineLearning:CNN,RNN,ReinforcementLearning 
-        - MotionPlanningBackground:Sampling based motion planning
-        - Optimization based motion planning
-        - ComputerScience:Parallel Programming
-    * Algorithm
-        - Forplanningfocused:basic Motion Planning Technique
-        - Dynamic Programming
-        - Computationgeometry
-        - Control algorithms
-        - 深度学习算法、BP算法
+    - Smoothing Curves
+    - Vehicle Kinematics
+    - Station-time 2D model
+    - Optimization Algorithms:Dynamic Programming
+    - Quadratic Programming
+    - Smoothing Spline
+    - A*
+    - Probability Math Models:Bayesian
+    - Markov Process
+    - MDP
+    - Machine Learning:CNN,RNN,Reinforcement Learning 
+    - Motion Planning Background:Sampling Based Motion Planning
+    - Optimization Based Motion Planning
+    - ComputerScience:Parallel Programming
+    - Forplanningfocused:Basic Motion Planning Technique
+    - Dynamic Programming
+    - Computation Geometry
+    - 深度学习算法、BP算法
 + Control
     - Basic Control Thoery
     - Linear-Quadratic Regulator (LQR)
     - Model Predictive Control(MPC)
-    - PID basic control theory 
+    - PID Basic Control Theory 
 + End-to-End
     * Deep learning
     * CV
     * 逆向汽车动力学模型
-        - 横向模型：Convolutional Neural Network(CNN)
+    * 端到端驾驶模型：
+        - 横向模型：CNN
         - 纵向模型：Convolutional-LSTM
         - 横 + 纵向模型：LRCN
 
 ## Hardware & Sensors 
 - Computing Unit
-    + CPU
-    + GPU
-    + FPGA
+    + IPC（Intel Nvidia ...)
+    + 专用自动驾驶计算单元(PX2 TX2 ...)
 - Perception
-    + Camera
+    + Camera(单目\双目)
     + LiDAR
     + Radar
     + Ultrasonic Radar
@@ -119,7 +104,10 @@
     + IMU
     + other perception sensors
 - CAN Card
-- HMI Divice
+- HMI Device
+- V2X Device
+- Safety
+    + Black Box
 
 传感器搭建方式、配置流程、数据形式，能够通过数据判断传感器是否正常工作;
 无人车基本的硬件组成，各个sensor流程，通讯信息接口，各个传感器优点能够知道本模块对于硬件需求，算法对于硬件的依赖，瓶颈等；
@@ -128,20 +116,17 @@
 需要掌握硬件基本参数性能、调参方法
 
 ## Vehicle
+- 线控车辆
 - 车辆电子控制系统
-    + Protocol 
-      - Lin
+    + Protocol
       - Can
+      - Lin
       - FlexRay
     + 动力系统控制
     + 制动系统控制
     + 转向系统控制
 - 车载语音交互系统
-- 汽车动力学
 - AUTOSAR
 
-熟悉上车开发调试环境，清楚软件linux下调试流程；
+熟悉上车开发调试环境，清楚软件linux下调试流程。
 
-TODO  
-- Perception 层次关系@远帆
-- 提取模块CNN到基础知识 
