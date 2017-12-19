@@ -11,26 +11,12 @@
 - Docker
 - ROS
 - OpenCV
-- Doxygen
-- Linux:Ubuntu
 
 ## Language
 
 - C++
-    + curlpp
-    + civetweb
-    + GLEW：The OpenGL Extension Wrangler Library 
-    + gflags
-    + glogs
-    + gtest
-    + Eigen
-    + Point Cloud Library(PCL)
 - Bash 
 - Python
-    + Numpy
-    + google_styleguide
-- Restful
-- Websocket
 - Javascript
     + Node.js
     + React
@@ -42,13 +28,18 @@
 - Tensorflow
 - CUDA
 
+## 硬件（芯片）编程 
+- CPU
+- GPU
+- FPGA
+
 # Apollo专属知识
 ## Cloud Service Platform
 - HD Map
     + OpenDrive
 - Simulation
-    + CarSim
-    + Simulink
+    + Matlab/Simulink
+    + GameEngine(UE4)
 - Data Platform
 - Security
 - OTA
@@ -97,9 +88,8 @@
 
 ## Hardware & Sensors 
 - Computing Unit
-    + CPU
-    + GPU
-    + FPGA
+    + PX2
+    + TX2
 - Perception
     + Camera
     + LiDAR
