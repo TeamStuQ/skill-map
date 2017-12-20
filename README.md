@@ -13,7 +13,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 |------- | ---- | ---- | ---- |
 |[**# 人工智能 AI**]()||||
 |[- 机器学习](https://github.com/TeamStuQ/skill-map/blob/master/data/map-MachineLearning.md)|[@徐英凯](https://github.com/kevinhsu)｜闪银机器学习工程师|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜[脑图](https://github.com/TeamStuQ/skill-map/blob/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)
-|[- Apollo 自动驾驶](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Apollo.md)|[@Apollo 技术布道师团队](http://apollo.auto/index_cn.html)|[原创链接](https://github.com/ApolloAuto/apollo）|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜[脑图]()
+|[- Apollo 自动驾驶](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Apollo.md)|[@Apollo 技术布道师团队](http://apollo.auto/index_cn.html)|[原创链接](https://github.com/ApolloAuto/apollo)|[推荐](https://github.com/TeamStuQ/skill-map/issues/26)｜[脑图]()
 |[**# 大数据**](https://github.com/TeamStuQ/skill-map/blob/master/data/map-BigDataEngineer.md)|[@祝海林 ](https://github.com/allwefantasy)｜丁香园大数据技术专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 ||@高扬｜欢聚时代资深大数据技术专家|-|[推荐](https://github.com/TeamStuQ/skill-map/issues/12)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-BigData-by-StuQ.png)
 |[- Hadoop ](https://github.com/TeamStuQ/skill-map/blob/master/data/map-Hadoop.md)|[@张丹](http://blog.fens.me)｜况客创始人|[原创链接](http://blog.fens.me/series-hadoop-family/)|[推荐](https://github.com/TeamStuQ/skill-map/issues/22)｜[脑图](https://github.com/TeamStuQ/skill-map/tree/master/data/designbyStuQ/png-Hadoop-by-StuQ.png)
