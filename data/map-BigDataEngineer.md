@@ -6,7 +6,7 @@
 - Drill
   
 ## 分布式协调
-- Zookeeper
+- ZooKeeper
 
 ## 分布式存储
 - HDFS

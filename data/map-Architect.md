@@ -1,7 +1,7 @@
-# 架构师技能树
-	
+# 架构师技能图谱 V1.2
+ 
 ## 系统架构能力
-		
+	
 ### 基本理论
 - 扩展性设计
 - 可用性设计
@@ -9,39 +9,39 @@
 - 一致性设计
 - 负载均衡设计
 - 过载保护设计
-	
+- 灾难恢复和备份
+ 
 ### 协议设计
 - 二进制协议
 - 文本协议
-	
+ 
 ### 接入层架构设计
-- DNS轮询
+- DNS 轮询
 - 动静态分离
 - 静态化
 - 反向代理
 - LVS
 - F5
-- CDN	
-	
+- CDN 
+ 
 ### 逻辑层架构设计
 - 连接池
 - 串行化技术
-- 影子master架构
+- 影子 Master 架构
 - 批量写入
 - 配置中心
 - 去中心化
 - 通讯机制
-	* 同步
-		+ RPC
-		+ RMI
-	* 异步
-		+ MQ
-		+ Cron
+	* 同步与异步
+	* MQ
+	* Cron
+	* RMI
+	* RPC
 - 数据层架构设计
 	* 缓存优化
 		+ 高可用
-		+ 允许cache miss
-	* DAO&ORM
+		+ 允许 cache miss
+	* DAO & ORM
 	* 双主架构
 	* 主从同步
 	* 读写分离
@@ -50,24 +50,25 @@
 
 ### 代码级别
 - 关联代码优化
-- cache对齐
+- Cache 对齐
 - 分支预测
-- copy on write
+- Copy on Write
 - 内联优化
 
 ### 工具优化
 - OProfile
 - Gprof
-- JDK工具
+- JDK 工具
 
 ### 系统优化
-- cache
+- Cache
 - 延迟计算
 - 数据预读
 - 异步
 - 轮询与通知
 - 内存池
 - 模块化
+- 并发
 
 ## 工程架构能力
 
@@ -86,6 +87,7 @@
 - 接口测试
 - 性能测试
 - 集成测试
+- 自动化测试
 
 ### 运维与监控
 - 监控
@@ -99,29 +101,35 @@
 
 ### 应用技术
 - 硬件知识
-	* cpu
-	* mem
-	* disk
-	* net
+	* CPU
+	* MEM
+	* Disk
+	* Net
 - 第三方库
 - 数据结构与算法
 - 操作系统
-	* linux
+	* Linux
 - 接入层
-	* nginx
-	* apache
-	* lighttpd
-	* tomcat
+	* Nginx
+	* Apache
+	* Lighttpd
+	* Tomcat
+	* Node.js
 - 框架
-	* SpringMvc
+	* SpringMVC
 	* Dubbo
 	* Thrift
 - 缓存
 	* Redis
 	* Memcache
+- NoSQL
+	* MongoDB
+	* HDFS
+	* Cassandra
 - 存储
-	* mysql
-	* mongodb
+	* MySQL
+	* SQL Server
+	* Oracle
 - 中间件
 - 消息总线
 
@@ -131,3 +139,6 @@
 - 学习能力
 - 创新能力
 - 项目管理能力
+- 文档论文阅读能力
+- 总结归纳能力
+
