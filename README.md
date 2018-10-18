@@ -130,3 +130,118 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 赞助合作请发邮件至 Raymond@geekbang.org 。
 
 
+# English
+Programmer skill map
+Github open source project address: https://github.com/TeamStuQ/skill-map , welcome to Star :).
+
+Introduction
+The programmer skills map is a technology community open source project initiated by Geekbang ( https://www.geekbang.org/ ), which aims to bring together, organize and build a wide range of IT technologies (artificial intelligence, front-end development, Mobile development, cloud computing, big data, architecture, operation and maintenance, security, back-end development, testing, intelligent hardware, etc.) and Internet products, operations and other areas of learning skills map, help programmers to sort out the knowledge framework, and try to provide path guidance And the best resources to facilitate the growth of technical people.
+
+Unless otherwise stated, all areas of the open source project's skill map content represent only the personal position of the technical staff involved in the contribution, regardless of the company's background. The starting point of this project is to inspire others . If you have any comments or feedback, please submit to Issue for discussion or send an email to Raymond@geekbang.org . The editor will follow up or organize the discussion in a timely manner and keep updating the content version. Please understand and support, thank you! :)
+
+The current skill map has the following fields: Click on the title to preview the text file (.md), or preview the image file (.png) in the skill preview tree in the "picture preview" :
+
+Field ( click to preview )	Core Contributor ID	Original link	Learning Resources
+#人工智能AI			
+- Machine learning	@徐英凯 |Flash Silver Machine Learning Engineer	-	Recommended | brain map
+- Apollo self-driving	@Apollo Technical Evangelist Team	Original link	Recommended | brain map
+# Big Data	@祝海林 |Clove Garden Big Data Technology Expert	-	Recommended | brain map
+@高扬|Happy Big Data Technology Experts	-	Recommended | brain map
+- Hadoop	@张丹 |The founder of the state	Original link	Recommended | brain map
+# Web Front End	@jayli(拔赤) | Alibaba front-end technical expert	Original link	Recommended | brain map
+@Jackson Tian | Alibaba front-end technical expert	Original link	Recommended | brain map
+- Mobile performance optimization	@刘恒兵(河伯) | Tencent front-end technical expert, IvWeb person in charge	Original link	Recommended | brain map
+- HTML5 development	@Phodal(黄峰达) | ThoughtWorks Consultant	Original link	Recommended | brain map
+- Angular 2	@汤桂川 |Guangfa Securities front-end technical expert	-	Recommended | brain map
+# Server backend			
+- Architect	@沈剑|58 Home Technical Committee Chairman / Technical Director	-	Recommended | brain map
+- OpenResty	@温铭 |Partner of OpenResty Inc.	-	Recommended | brain map
+- Live broadcast technology	@李雨来 |SpeedyCloud Schindler Cloud Technology VP	-	Recommended | brain map
+- CDN technology	@李孟|SpeedyCloud Schindler Cloud Chief Architect	-	Recommended | brain map
+- DNS troubleshooting	@李孟|SpeedyCloud Schindler Cloud Chief Architect	-	Recommended | brain map
+# cloud computing	@费良宏|AWS Chief Cloud Computing Technology Consultant	-	Recommended | brain map
+- OpenStack	@夏艳|UnitedStack Public Relations Director	-	Recommended | brain map
+- Container Container	@林帆 |ThoughtWorks DevOps Consultant	-	Recommended | brain map
+- Micro Service MicroService	@王磊 |Xi'an Shangduyuan Technology Director	-	Recommended | brain map
+# Safety	@余弦 |Know Chuangyu Technology VP	Original link	Recommended | brain map
+#智能运维	@Tanky Woo | Know Chuangyu Senior Operations Engineer	Original link	Recommended | brain map
+- DBA	@杨一 |Hangzhou Youzan Technology Co., Ltd. DBA expert	-	Recommended | brain map
+- DevOps	@林帆 |ThoughtWorks DevOps Consultant	-	Recommended | brain map
+- Kubernetes	@张磊 |Hyper HQ & CNCF Meber	-	Recommended | brain map
+@李响|CoreOS Distributed System Group Supervisor	-	Recommended | brain map
+#test	@TesterHome Community	-	recommend
+- Mobile wireless test	@陈晔Monkey	-	Recommended | brain map
+#移动开发			
+- iOS development	@唐巧 |猿题库小猿Search product technology leader	Original link	Recommended | brain map
+- Android App development	@anly_jun	Original link	Recommended | brain map
+- Android ROM development	@anly_jun	Original link	Recommended | brain map
+- Android Architect	@顾浩鑫(ASCE1885) | Ping An Financial Technology Mobile R&D Engineer	-	Recommended | brain map
+#智能硬件			
+- Embedded Development	@Phodal(黄峰达) | ThoughtWorks Consultant	Original link	Recommended | brain map
+# Development language	@吴坚 |China Southern Software Engineer	Original link	Recommended | brain map
+- Golang	@谢孟军 |Apple Senior Technical Specialist	Original link	Recommended | brain map
+- Clojure	@Loretta | SwiftKey Software Engineer	-	Recommended | brain map
+- Python	@ZoomQuiet(大妈) | Cheetah Mobile Technology Specialist	Original link	Recommended | brain map
+- Haskell	@张淞 |Netease Hangzhou Research Institute Senior Development Engineer	-	Recommended | brain map
+- Node.js	@桑世龙(i5ting) | Go to the front end architect	Original link	Recommended | brain map
+- Ruby	@张汉东(Alex)	-	Recommended | brain map
+- Java	@Zhang Wei	-	Recommended | brain map
+# development tools			
+- Git	@吴坚 |China Southern Software Engineer	-	Recommended | brain map
+#技术管理			
+- CTO skills	@黄勇|Tzan Technology CTO, EGO member	-	Recommended | brain map
+And the areas under construction :
+
+Server development
+Distributed database development
+IoT Internet of Things
+PHP language
+Swift language
+Objective-C language
+C++ language
+C# language
+Welcome to contribute to new areas of skill maps, or recommend learning paths and resources, have any suggestions and suggestions for improvement, or create an issue discussion or send an email to Raymond@geekbang.org . All community friends who participated in the project have the opportunity to receive a gift/skills map in print A1.
+
+Improvement goal
+Continue to refine the skill nodes in each area
+Provide reference learning paths in various fields
+Recommend high-quality resources related to each knowledge point
+Map MarkDown classification specification
+In order to facilitate editing and error correction, the current unified map MarkDown file grading specification is as follows:
+
+According to the content, "#,##,### " is used to indicate the high-level trunk grading.
+Sub-level branches are distinguished by three symbols: "-, *, +"
+All "-"s have priority over "*"
+All "*"s have a higher priority than "+"
+join us
+Submit the map: Submit the Pull Request directly, or contact the project leader Raymond, email to Raymond@geekbang.org
+QQ group discussion: 254521819, please note "name + professional role" when adding group, such as "Ray + front end"
+WeChat group discussion: Please add StuQxiaozhushou (StuQxiaozhushou) and note "skills map", the assistant will invite you into the group
+Version Information
+V 1.0
+Update stable version, add important areas of IT professional technology
+v 0.2.0
+Basic coverage of all major areas of IT technology
+v 0.1.2
+New in cloud computing: OpenStack, container technology
+New in mobile development: iOS development
+New in test area: mobile wireless test
+New in the field of intelligent hardware: embedded development
+v 0.1.1
+The first version of the programmer skills map was released
+Copyright Notice
+This skill map follows the CC-BY-NC-SA 4.0 protocol. Commercial reprint must be authorized by Geekbang, and you must indicate the source . Geekbang reserves the right of final interpretation and legal power.
+
+Welcome to the Geekbang App launched by Geekbang for more technical dry goods.
+
+Geek time
+
+Special thanks
+The "Programmer Skills Map" open source project can display beautiful pictures. The design, update and correction of the design students are busy with the content editors. I would like to thank the following design students for their contributions (in no particular order). :
+
+Jack, Tammy, Ice, Amy, Ray, and Leslie.
+
+Sponsorship statement
+The Programmer's Skills Atlas program is sponsored by the company or individual, and the sponsorship funds are used to cover the editing, design, printing and operating costs of the map.
+
+For sponsorship cooperation, please email Raymond@geekbang.org .
