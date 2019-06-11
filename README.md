@@ -5,7 +5,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 
 程序员技能图谱是由极客邦科技 Geekbang（[https://www.geekbang.org/](https://www.geekbang.org/)）发起的一个技术社区开源项目，志在汇集、整理、共建泛 IT 技术领域（人工智能，前端开发，移动开发，云计算，大数据，架构，运维，安全，后端开发，测试，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。
 
-除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，有任何不同意见和反馈，请提交 [Issue](https://github.com/TeamStuQ/skill-map/issues) 讨论，或发送邮件至 Raymond@geekbang.org，编辑会及时跟进或组织讨论，并持续更新内容版本。请理解并支持，感谢！:)
+除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，有任何不同意见和反馈，请提交 [Issue](https://github.com/TeamStuQ/skill-map/issues) 讨论，或发送邮件至 sean@geekbang.org，编辑会及时跟进或组织讨论，并持续更新内容版本。请理解并支持，感谢！:)
 
 目前技能图谱已有如下领域，点击标题可以预览文本文件（.md），也可以在[『图片预览版』](https://github.com/TeamStuQ/skill-map/blob/master/data/Preview-source-skillmap-PNG.md)以技能树形式预览图片文件（.png）：
 
