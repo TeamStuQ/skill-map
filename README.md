@@ -71,7 +71,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 - C++ 语言
 - C# 语言
 
-欢迎**贡献**新领域技能图谱，或**推荐**学习路径与资源，有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 Raymond@geekbang.org。所有参与该项目的社区朋友均有机会获赠礼品／技能图谱纸质印刷 A1 版。
+欢迎**贡献**新领域技能图谱，或**推荐**学习路径与资源，有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 sean@geekbang.org。所有参与该项目的社区朋友均有机会获赠礼品／技能图谱纸质印刷 A1 版。
 
 ## 改进目标
 
@@ -89,9 +89,7 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 4. 所有“*”的优先级高于“+”
 
 ## 加入我们
-- 提交图谱：直接提交 Pull Request，或者联系项目负责人雷蒙德，可发邮件至 Raymond@geekbang.org
-- QQ群讨论：254521819，加群时请备注“姓名+职业角色”，如“Ray+前端”
-- 微信群讨论：请加StuQ小助手（StuQxiaozhushou）并备注“技能图谱”，小助手会邀请您入群
+- 提交图谱：直接提交 Pull Request，或者联系项目负责人 Sean，可发邮件至 sean@geekbang.org
 
 ## 版本信息
 
@@ -127,6 +125,6 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 
 程序员技能图谱项目接受企业或者个人赞助，赞助经费主要用于覆盖图谱编辑、设计、印刷和运营成本。
 
-赞助合作请发邮件至 Raymond@geekbang.org 。
+赞助合作请发邮件至 sean@geekbang.org 。
 
 
