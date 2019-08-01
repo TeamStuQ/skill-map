@@ -14,13 +14,15 @@
    - Coldfire
    - ARM
    - STM32
-   - FreeScale K60 K40
+   - FreeScale K Series
    - PIC32 PIC12/14/16
    - TM4C123 TM4C129X
+   - MSP430
    - Stellaris lm4f120
    - CC3200
    - Renesas R-Car Boards
    - MIPS Creator CI20
+   - i.MX
  - MPU
  - SOC
    - OMAP
@@ -33,11 +35,12 @@
  - FPGA
    - Altera Cyclone
    - Lattice MachXO2 MachXO3  
+   - xilinx spartan
  - PowerPC
    - MPC505、821、850、860、8240、8245
    - QUICC ⅡMPC826
    - QUICC Ⅲ MPC8560
- - DSC
+ - DSP
    - TMS320F28x
    - MC56 F83x
  - MIPS
@@ -131,6 +134,7 @@
  - Xbee / Zigbee
  - Z-Wave
  - 6LoWPAN
+ - LoRa
  - NFC
  - Wifi
  - Radio
@@ -163,7 +167,7 @@
  - DMA
  - I2C
 - OS
- - uCOS
+ - uC/OS II/III
  - Contiki
  - TinyOS
  - VXWorks
@@ -173,7 +177,7 @@
  - Salvo
  - MQX
  - RIOT
- - rt-thread
+ - RT-Thread
  - Linux
    - uCLinux
    - openWRT
@@ -182,6 +186,10 @@
    - Windows 10 IoT Core
 - non-OS
  - LwIP
+- UI
+ - emwin
+ - emXGUI
+ - ucGUI
 
 ## 电路
 - 基础
