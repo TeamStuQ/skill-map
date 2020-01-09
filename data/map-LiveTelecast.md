@@ -1,11 +1,11 @@
 
-#直播平台技术图谱
+# 直播平台技术图谱
 
 ----
-##直播
+## 直播
 
 ----
-###采集
+### 采集
 - **iOS** 
   * HTTP Live Streaming
   * DirectShow
@@ -16,9 +16,9 @@
   * getstreamer
  * 机型适配
 - **PC** 
- * mjpg-streame
- * jpeg
- * 摄像头驱动
+  * mjpg-streame
+  * jpeg
+  * 摄像头驱动
 - **摄像机**
 
 ### 前处理
@@ -68,8 +68,8 @@
 
 ### 音频
 - **降噪**
- * Kamath
- * Rangachari
+  * Kamath
+  * Rangachari
 - **编解码**
   * AAC
   * MP3
@@ -82,14 +82,14 @@
     - iOS
       - ObjectC Cordova
  - **协议**
-  - JSEP
-  - ICE
-  - SIP
-  - WebSocket
+   * JSEP
+   * ICE
+   * SIP
+   * WebSocket
  - **通讯方式**
-  - 星型
-  - MCU
-  - Router
+   * 星型
+   * MCU
+   * Router
  - **编解码**
     - HD264
     - VP8
@@ -107,7 +107,7 @@
     - freeswitch
 
 ----
-##应用服务
+## 应用服务
 - **IM**
 - **通知**
 - **礼物系统**
@@ -118,34 +118,34 @@
 ----
 ## 统计服务
 - **数据库**
- - **PostgreSQL**
- - **MySQL**
- - **MongoDB**
- - **Redis**
- - **HBase**
+  * **PostgreSQL**
+  * **MySQL**
+  * **MongoDB**
+  * **Redis**
+  * **HBase**
 - **缓存**
- - **Nginx**
- - **Squid**
- - **Varnish**
+  * **Nginx**
+  * **Squid**
+  * **Varnish**
 - **分布式文件系统**
- - **Ceph**
- - **GlusterFS**
- - **MooseFS**
- - **MogileFS**
- - **FastDFS**
- - **HDFS**
- - **OpenAFS**
- - **GFS**
- - **KFS**
- - **TFS**
+  * **Ceph**
+  * **GlusterFS**
+  * **MooseFS**
+  * **MogileFS**
+  * **FastDFS**
+  * **HDFS**
+  * **OpenAFS**
+  * **GFS**
+  * **KFS**
+  * **TFS**
 - **消息队列**
- - **RabbitMQ**
- - **ActiveMQ**
- - **Kafka**
- - **MetaQ**
- - **NSQ**
- - **ZeroMQ**
- - **MemcacheQ**
- - **HTTPSQS**
- - **Resque**
+  * **RabbitMQ**
+  * **ActiveMQ**
+  * **Kafka**
+  * **MetaQ**
+  * **NSQ**
+  * **ZeroMQ**
+  * **MemcacheQ**
+  * **HTTPSQS**
+  * **Resque**
 - **运维**

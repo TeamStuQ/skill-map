@@ -93,7 +93,7 @@
 - SourceTree
 - Visual SourceSafe
 
-### 基础设施和云平台
+### 基础设施自动化
 - Ansible
 - Chef
 - Puppet
@@ -102,10 +102,6 @@
 - Terraform
 - StackStorm
 - Docker
-- AWS
-- Azure
-- GCE
-- 阿里云
 
 ### 交付流程可视化
 - Jenkins
