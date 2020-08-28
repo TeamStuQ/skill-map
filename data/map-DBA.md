@@ -81,6 +81,13 @@
     * mango乐视
     * Mycat
     * fabric
+    * Heisenberg
+    * Oceanus
+    * Vitess
+    * DRDS
+    * maxscale
+    * Cetus
+    * DBLE
 - 优化
     * 原则 空间换时间
     * 业务逻辑设计
