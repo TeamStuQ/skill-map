@@ -106,7 +106,7 @@
 ## Node.js 应用
 
 - 网站（如express/koa等）
-- im即使聊天(socket.io)
+- im即时聊天(socket.io)
 - api（移动端，pc，h5）
 - http proxy（淘宝首页）
 - 前端构建工具(grunt/gulp/bower/webpack/fis3...)
