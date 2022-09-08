@@ -48,9 +48,11 @@
 - Algorithms *
 	* https://www.coursera.org/learn/java-data-structures-algorithms-2
 	* https://www.coursera.org/learn/introduction-to-algorithms
+	* https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/
 - Data Structures *
 	* https://en.wikipedia.org/wiki/List_of_data_structures
 	* http://www.tutorialspoint.com/data_structures_algorithms/
+	* https://www.interviewbit.com/data-structure-interview-questions/
 - Object Oriented Programming *
 	* head_first_design_patterns.pdf
 	* Effective Java 2nd Edition.pdf
@@ -76,7 +78,7 @@
 		+ File Operation
 			- cd/ls/find/ (Pipe and I/O Redirection)
 	* VIM / Emacs ( Either of them)
-	* Shell Script(bash)
+	* Shell Script(bash) (https://www.interviewbit.com/shell-scripting-interview-questions/)
 - Java Commonly-used 3rd-party Libraries
 	* Logging
 		+ log4j
@@ -116,9 +118,9 @@
 	* HTML
 		+ HTML4
 		+ xhtml
-		+ HTML5
+		+ HTML5 (https://www.interviewbit.com/blog/html5-features/)
 	* css
-		+ css2
+		+ css2 (https://www.interviewbit.com/css-cheat-sheet/)
 		+ CSS3
 	* Data Representation
 		+ XML
@@ -127,10 +129,10 @@
 	* Javascript
 	        + ECMAScript 6
 		+ Basics (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-		+ Ajax
-		+ AngularJS (plus)
-		+ JQuery (plus)
-	* TypeScript
+		+ Ajax 
+		+ AngularJS (plus) (https://www.interviewbit.com/angular-cheat-sheet/)
+		+ JQuery (plus) (https://www.interviewbit.com/jquery-interview-questions/)
+	* TypeScript (https://www.interviewbit.com/typescript-interview-questions/)
 	* Responsive Web Page development (plus)
 
 ###	Back-end Development(Server side)
@@ -170,13 +172,13 @@
 - Java Performance Tuning
 	* java performance the definitive guide.pdf
 - Database
-	* MySQL
+	* MySQL (https://www.interviewbit.com/mysql-interview-questions/)
 	* SqlServer
 	* Oracle
 	* Nosql
 		+ Memcache
 		+ Redis
-		+ MongoDB
+		+ MongoDB (https://www.interviewbit.com/mongodb-interview-questions/)
 		+ Neo4j
 - Serialization
 	* Google protobuf
@@ -202,7 +204,7 @@
 		+ HBase
 		+ Hive
 		+ Mahout
-	* Spark
+	* Spark (https://www.interviewbit.com/spark-interview-questions/)
 		+ Spark-Core
 		+ Spark-SQL
 		+ Spark-machine learning
@@ -220,7 +222,7 @@
 			- S3
 			- DynamoDB
 - JVM-based Programming Language
-	* Scala
+	* Scala (https://www.interviewbit.com/scala-interview-questions/)
 	* Groovy
 	* Clojure
 	* Kotlin
@@ -231,7 +233,7 @@
 - NetBeans
 - Eclipse
 
-###	Typical Java Applications
+###	Typical Java Applications 
 - Online Chatting (Web/Desktop System)
 - Library Management System (Web System)
 - Ticket Booking System(RESTful Web Service)
@@ -239,6 +241,7 @@
 - P2P File Sharing (Console / Desktop)
 - Blogging System (Web / REST)
 - RDBMS UI Toolkit (Web /Desktop)
+- For more Java Applications: (https://www.interviewbit.com/blog/top-java-applications/)
 
 ###	Desktop Development
 - awt
