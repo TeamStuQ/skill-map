@@ -51,6 +51,7 @@
 - Data Structures *
 	* https://en.wikipedia.org/wiki/List_of_data_structures
 	* http://www.tutorialspoint.com/data_structures_algorithms/
+	* https://www.scaler.com/topics/data-structures/
 - Object Oriented Programming *
 	* head_first_design_patterns.pdf
 	* Effective Java 2nd Edition.pdf
