@@ -28,7 +28,7 @@
 - Julia
 - Matlab
 
-## Real-time Computation Paltform
+## Real-time Computation Platform
 - Spark
    * MLlib
 - Hurricane
